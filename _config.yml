@@ -1,9 +1,9 @@
 title: Singapore Translational Cancer Consortium (STCC)
 url: https://stcc.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Logos and Favicon/stcc - favicon.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#253d81"
+  secondary-color: "#919395"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -56,7 +56,7 @@ plugins:
 staging: https://staging.devs1mdmyb7x0.amplifyapp.com
 prod: https://master.devs1mdmyb7x0.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logos and Favicon/stcc - logo.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
