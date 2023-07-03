@@ -1,0 +1,4 @@
+collections:
+  collaborate:
+    output: true
+    order: []
