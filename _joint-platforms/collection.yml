@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Cancer Databases and Tissue Banks.md
       - Translational Research Integration & Support.md
       - Business Intelligence & Development.md
       - Impact & Population Health.md
