@@ -1,0 +1,4 @@
+collections:
+  joint-platforms:
+    output: true
+    order: []
