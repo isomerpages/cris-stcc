@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Overview.md
       - Cancer Clinical Trials/.keep
       - Cancer Clinical Trials/Platform Leads.md
       - Cancer Clinical Trials & Investigational Medicine Units.md
