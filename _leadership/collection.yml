@@ -2,6 +2,7 @@ collections:
   leadership:
     output: true
     order:
+      - Management Team/.keep
       - Board Oversight Committee.md
       - Executive Committee.md
       - Management Team.md
