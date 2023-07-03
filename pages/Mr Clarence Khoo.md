@@ -3,7 +3,8 @@ title: Mr Clarence Khoo
 permalink: /permalink/
 description: ""
 ---
-**Profile** 
+
+![](/images/Leadership/mrkhoo.jpeg)**Profile** 
 
 * * *
 
