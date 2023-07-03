@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - CDTB/.keep
       - Overview.md
       - Cancer Clinical Trials & IMU/Overview.md
       - Cancer Clinical Trials & IMU/.keep
