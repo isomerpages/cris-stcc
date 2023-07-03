@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Business Intelligence & Development.md
       - Impact & Population Health.md
       - Cancer Clinical Trials & Investigational Medicine Units.md
       - Overview.md
