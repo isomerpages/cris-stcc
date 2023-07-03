@@ -2,7 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
-      - CDTB/Cancer Databases and Tissue Banks.md
+      - CDTB/Overview.md
       - CDTB/.keep
       - Overview.md
       - Cancer Clinical Trials & IMU/Overview.md
