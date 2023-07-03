@@ -1,7 +1,7 @@
 logo: /images/Logos and Favicon/stcc - logo.png
 links:
   - title: About Us
-    url: /about-us
+    collection: about-us
   - title: Leadership
     collection: leadership
   - title: Joint Platforms
@@ -10,3 +10,5 @@ links:
     resource_room: true
   - title: Collaborate
     url: /collaborate
+  - title: Contact
+    url: /contact-us
