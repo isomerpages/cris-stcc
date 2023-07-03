@@ -19,13 +19,13 @@ locations:
     title: Location
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: contact@stcc.cris.sg
+      - other: ""
+    title: Email
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
+      - email: career@cris.sg
+      - other: <a href="https://cris.sg/careers">View available roles</a>
     title: Careers
 ---
