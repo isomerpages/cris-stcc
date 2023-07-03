@@ -11,9 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: STCC is a nationally coordinated initiative and network to synergise
-        cancer research and translational capabilities across Singapore
-      background: /images/hero-banner.png
+      background: /images/homepage.jpeg
   - infopic:
       title: About Us
       description: STCC was set up in November 2019 under the RIE2020 funding as a
