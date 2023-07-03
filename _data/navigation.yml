@@ -9,6 +9,8 @@ links:
   - title: News & Updates
     resource_room: true
   - title: Collaborate
-    url: /collaborate
+    collection: collaborate
   - title: Contact
     url: /contact-us
+  - title: Collaborate
+    url: /collaborate
