@@ -11,21 +11,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      subtitle: STCC is a nationally coordinated initiative and network to synergise
+        cancer research and translational capabilities across Singapore
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infopic:
       title: About Us
       description: STCC was set up in November 2019 under the RIE2020 funding as a
@@ -34,9 +22,6 @@ sections:
       button: READ MORE
       url: /about-us
       alt: Image alt text
-  - resources:
-      title: Latest News
-      button: View More
   - infopic:
       title: Joint Platforms
       description: The STCC joint platforms enables collaboration between basic,
@@ -45,4 +30,14 @@ sections:
       button: EXPLORE MORE
       url: /joint-platforms
       alt: Image alt text
+  - resources:
+      title: Latest News
+      button: View More
+  - infobar:
+      title: Collaborate with Us
+      description: We partner with key stakeholders and institutions to implement
+        joint platforms that are functionally integrated and operational in
+        support of the nation's ...
+      button: FIND OUT MORE
+      url: /collaborate
 ---
