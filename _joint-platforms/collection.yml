@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - IPH/Impact & Population Health.md
       - IPH/.keep
       - BID/Platform Leads.md
       - BID/Overview.md
