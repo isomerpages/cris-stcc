@@ -2,4 +2,4 @@ collections:
   joint-platforms:
     output: true
     order:
-      - privacy.md
+      - Overview.md
