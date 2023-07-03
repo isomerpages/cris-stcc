@@ -1,7 +1,11 @@
 ---
 layout: homepage
 title: Singapore Translational Cancer Consortium (STCC)
-description: An Isomer site of the Singapore Government
+description: The Singapore Translational Cancer Consortium (STCC) is a
+  nationally-coordinated consortium to synergise cancer research capabilities in
+  Singapore. Established in 2020, STCC brings together unmatched basic, clinical
+  and translational talent in Singapore to create globally significant peaks of
+  excellence in selected Asian cancers.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
