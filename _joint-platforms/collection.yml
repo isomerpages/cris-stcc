@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Cancer Clinical Trials/.keep
-      - Cancer Clinical Trials/Overview.md
       - Cancer Clinical Trials/Platform Leads.md
       - Cancer Clinical Trials & Investigational Medicine Units.md
       - Cancer Databases and Tissue Banks.md
