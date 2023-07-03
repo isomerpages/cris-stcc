@@ -2,12 +2,6 @@ collections:
   joint-platforms:
     output: true
     order:
-      - IPH/Platform Leads.md
-      - IPH/Overview.md
-      - IPH/.keep
-      - BID/Platform Leads.md
-      - BID/Overview.md
-      - BID/.keep
       - Overview.md
       - Cancer Clinical Trials & IMU/.keep
       - Cancer Clinical Trials & IMU/Overview.md
@@ -18,3 +12,9 @@ collections:
       - TRIS/.keep
       - TRIS/Platform Leads.md
       - TRIS/Overview.md
+      - BID/.keep
+      - BID/Platform Leads.md
+      - BID/Overview.md
+      - IPH/.keep
+      - IPH/Platform Leads.md
+      - IPH/Overview.md
