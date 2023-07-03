@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - faq.md
+      - Our Story.md
       - example-page.md
