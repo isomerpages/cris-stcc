@@ -2,7 +2,7 @@ collections:
   leadership:
     output: true
     order:
-      - Executive Committee/.keep
       - Board Oversight Committee/.keep
-      - Management Team/Mr Clarence Khoo.md
+      - Executive Committee/.keep
       - Management Team/.keep
+      - Management Team/Mr Clarence Khoo.md
