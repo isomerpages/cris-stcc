@@ -2,7 +2,9 @@ logo: /images/Logos and Favicon/stcc - logo.png
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: About Us
+    url: /about-us
+  - title: Leadership
+    collection: example-folder
+  - title: Joint Platforms
     collection: example-folder
