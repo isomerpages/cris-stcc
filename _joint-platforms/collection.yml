@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - TRIS/Translational Research Integration & Support.md
       - TRIS/.keep
       - CDTB/Platform Leads.md
       - CDTB/Overview.md
