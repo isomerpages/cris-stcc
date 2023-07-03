@@ -2,7 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
-      - BID/Business Intelligence & Development.md
+      - BID/Overview.md
       - BID/.keep
       - Overview.md
       - Cancer Clinical Trials & IMU/.keep
