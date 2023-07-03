@@ -21,7 +21,7 @@ sections:
         cohesive and ...
       button: READ MORE
       url: /about-us
-      alt: Image alt text
+      image: /images/aboutus.jpeg
   - infopic:
       title: Joint Platforms
       description: The STCC joint platforms enables collaboration between basic,
