@@ -5,6 +5,6 @@ links:
   - title: About Us
     url: /about-us
   - title: Leadership
-    collection: example-folder
-  - title: Joint Platforms
-    collection: example-folder
+    collection: leadership
+  - title: Leadership
+    collection: leadership
