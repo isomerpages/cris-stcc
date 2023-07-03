@@ -2,15 +2,15 @@ collections:
   joint-platforms:
     output: true
     order:
-      - TRIS/Platform Leads.md
-      - TRIS/Overview.md
-      - TRIS/.keep
+      - Overview.md
+      - Cancer Clinical Trials & IMU/.keep
+      - Cancer Clinical Trials & IMU/Overview.md
+      - Cancer Clinical Trials & IMU/Platform Leads.md
+      - CDTB/.keep
       - CDTB/Platform Leads.md
       - CDTB/Overview.md
-      - CDTB/.keep
-      - Overview.md
-      - Cancer Clinical Trials & IMU/Overview.md
-      - Cancer Clinical Trials & IMU/.keep
-      - Cancer Clinical Trials & IMU/Platform Leads.md
+      - TRIS/.keep
+      - TRIS/Platform Leads.md
+      - TRIS/Overview.md
       - Business Intelligence & Development.md
       - Impact & Population Health.md
