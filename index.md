@@ -8,7 +8,7 @@ description: The Singapore Translational Cancer Consortium (STCC) is a
   excellence in selected Asian cancers.
 image: /images/Logos and Favicon/stcc - logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -26,10 +26,23 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: About Us
+      description: STCC was set up in November 2019 under the RIE2020 funding as a
+        nationally coordinated, virtual organisation to address the need for a
+        cohesive and ...
+      button: READ MORE
+      url: /about-us
+      alt: Image alt text
+  - resources:
+      title: Latest News
+      button: View More
+  - infopic:
+      title: Joint Platforms
+      description: The STCC joint platforms enables collaboration between basic,
+        clinical and translational researchers to seed ideas for larger
+        competitive translational grants.
+      button: EXPLORE MORE
+      url: /joint-platforms
+      alt: Image alt text
 ---
