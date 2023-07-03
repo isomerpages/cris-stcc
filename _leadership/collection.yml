@@ -2,5 +2,6 @@ collections:
   leadership:
     output: true
     order:
+      - Senior Management.md
       - Executive Committee.md
       - Board Oversight Committee.md
