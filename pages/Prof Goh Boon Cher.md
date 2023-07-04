@@ -3,7 +3,7 @@ title: Prof Goh Boon Cher
 permalink: /jointplatform/cctimu-platform-leads/prof-goh-boon-cher/
 description: ""
 ---
-![platformlead](/images/platformleadcctimu.png)
+![Prof Goh Boon Cher](/images/prof%20goh%20boon%20cher.png)
 
 **Affiliations** 
 
