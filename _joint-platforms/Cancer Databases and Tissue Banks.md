@@ -18,7 +18,8 @@ Platform Leads
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Title | Name | View More |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| Dr     | Eng Chon Boon     | [Click here](/leaders/dr-eng-chon-boon/)     |
+| Assoc Prof | Tan Ern Yu | [Click Here](/leaders/assoc-prof-tan-ern-yu/) |
+| Assoc Prof | Iain Tan | [Click Here](/leaders/assoc-prof-iain-tan/)
