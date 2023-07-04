@@ -20,11 +20,10 @@ For feasibility requests or clinical trial enquiries, please send them to mailb
 
 ### **PLATFORM LEADS**
 
-
+![platformleads](/images/platformleadcctimu.png)
 
 | Title | Name | View More |
 | -------- | -------- | -------- |
 | Prof | Goh Boon Cher| [Click Here](/leaders/prof-goh-boon-cher) |
 | Assoc Prof | Daniel Tan | [Click Here](/leaders/assoc-prof-daniel-tan) |
 
-![platformleads](/images/platformleadcctimu.png)
