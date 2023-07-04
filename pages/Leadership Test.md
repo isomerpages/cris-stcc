@@ -18,4 +18,3 @@ description: ""
 |[Dr Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/) |
 [Prof Chong Yap Seng](/leaders/prof-chong-yap-seng/) |
 [Prof Barry Halliwell](/leaders/prof-barry-halliwell/) |
-
