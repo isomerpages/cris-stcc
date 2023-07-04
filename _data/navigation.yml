@@ -4,8 +4,8 @@ links:
     collection: about-us
   - title: Leadership
     collection: leadership
-  - title: Joint Platforms
-    collection: joint-platforms
+  - title: Joint Platforms Test
+    collection: joint-platforms-test
   - title: News & Updates
     resource_room: true
   - title: Collaborate
