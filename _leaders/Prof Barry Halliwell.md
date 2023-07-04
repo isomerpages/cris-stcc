@@ -3,7 +3,9 @@ title: Prof Barry Halliwell
 permalink: /leaders/prof-barry-halliwell/
 description: ""
 ---
-**Profile** 
+
+
+![Prof Barry](/images/Leaders/prof%20barry%20halliwell.png)**Profile** 
 
 * * *
 
