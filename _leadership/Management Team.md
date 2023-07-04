@@ -7,7 +7,6 @@ description: ""
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Title | Name | View More |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| Mr     | Clarence Khoo     | [Click Here](/leaders/mr-clarence-khoo/)     |
