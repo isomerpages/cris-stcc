@@ -23,11 +23,15 @@ Professor, Department of Pharmacology &amp; Department of Medicine, National Uni
 
 Group Chief, Physician Leadership and Organisation Development Office, National University Health System, Singapore&nbsp;
 
+<br><br>
+
 **Profile**&nbsp;
 
 * * *
 
 Professor Goh Boon Cher received his undergraduate medical education at the National University of Singapore, and joined the Department of&nbsp;Hematology\-Oncology, NUH where he completed fellowship in medical oncology, and completed a National Medical Research Council fellowship in clinical pharmacology and phase I clinical trials at the University of Chicago. Professor Goh has&nbsp;established&nbsp;himself as a leading clinician scientist in clinical pharmacology and cancer drug development, and currently serves on several institutional and national research portfolios. He has contributed much to the development of a clinical trial research infrastructure at the NCIS, one of the largest clinical research groups in Singapore, and chaired the Cancer Therapeutics Research Group, an Asia Pacific cancer research group. As a clinician, Professor Goh is well&nbsp;established&nbsp;in the fields of head and neck/lung cancer. As a senior clinician and scientist, he has mentored many clinical oncology and pharmacology fellows, and has been awarded senior clinician scientist from the Biomedical Research Council and the National Medical Research Council since 2005. In addition, he has been competitive in being awarded research grants as principal investigator of both individual project grants and infrastructure grants. Beyond cancer therapeutics, he is also widely published in pharmacogenetics, studying how human genetics affect drug response. Internationally, as a key opinion leader, he has served on advisory boards of several pharmaceutical companies advising on drug development of very novel&nbsp;drugs, and&nbsp;has served on editorial boards of important journals like the Journal of Clinical Oncology and Annals of Oncology. As a responsible member of clinical research, he has also espoused principles of ethics, and served for several terms as Chairman of the Domain Specific Research Board.&nbsp;
+
+<br><br>
 
 **Selected Publications**&nbsp;&nbsp;
 
