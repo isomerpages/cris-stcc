@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Mr Seck Yee Kwang.md
       - Dr Alexander Lezhava.md
       - Dr Anand Jeyasekharan.md
       - Dr Benjamin Koh (BOC Chair).md
