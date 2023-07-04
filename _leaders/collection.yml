@@ -2,9 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Prof Lim Soon Thye.md
-      - Prof Chng Wee Joo.md
-      - Prof Ashok Venkitaraman.md
       - Dr Benjamin Koh (BOC Chair).md
       - Prof Chong Yap Seng.md
       - Prof Barry Halliwell.md
@@ -12,6 +9,9 @@ collections:
       - Prof William Hwang.md
       - Prof Ng Huck Hui.md
       - Ms Elaine Teo.md
+      - Prof Ashok Venkitaraman.md
+      - Prof Chng Wee Joo.md
+      - Prof Lim Soon Thye.md
       - Prof Goh Boon Cher.md
       - Assoc Prof Daniel Tan.md
       - Mr Clarence Khoo.md
