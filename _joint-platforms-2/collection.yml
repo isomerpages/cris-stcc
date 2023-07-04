@@ -2,5 +2,5 @@ collections:
   joint-platforms-2:
     output: true
     order:
-      - Cancer Clinical Trials & Investigational Medicine Units.md
       - Overview.md
+      - Cancer Clinical Trials & Investigational Medicine Units.md
