@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Prof Chong Yap Seng.md
       - Dr Benjamin Koh (BOC Chair).md
       - Prof Goh Boon Cher.md
       - Assoc Prof Daniel Tan.md
