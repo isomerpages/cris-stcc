@@ -3,7 +3,7 @@ title: Prof Goh Boon Cher
 permalink: /leadership/prof-goh-boon-cher/
 description: ""
 ---
-![Prof Goh Boon Cher](/images/prof%20goh%20boon%20cher.png)
+![Prof Goh Boon Cher](/images/Leaders/prof%20goh%20boon%20cher.png)
 
 **Affiliations**&nbsp;
 
