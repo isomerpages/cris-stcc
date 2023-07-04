@@ -1,5 +1,5 @@
 collections:
-  joint-platforms-2:
+  joint-platforms:
     output: true
     order:
       - Overview.md
