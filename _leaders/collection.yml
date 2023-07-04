@@ -2,10 +2,10 @@ collections:
   leaders:
     output: true
     order:
-      - Dr Vincent Ho.md
-      - Prof Barry Halliwell.md
-      - Prof Chong Yap Seng.md
       - Dr Benjamin Koh (BOC Chair).md
+      - Prof Chong Yap Seng.md
+      - Prof Barry Halliwell.md
+      - Dr Vincent Ho.md
       - Prof Goh Boon Cher.md
       - Assoc Prof Daniel Tan.md
       - Mr Clarence Khoo.md
