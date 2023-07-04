@@ -4,13 +4,11 @@ links:
     collection: about-us
   - title: Leadership
     collection: leadership
-  - title: Joint Platforms Test
-    collection: joint-platforms-test
+  - title: Joint Platforms
+    collection: joint-platforms
   - title: News & Updates
     resource_room: true
   - title: Collaborate
     url: /collaborate
   - title: Contact Us
     url: /contact-us
-  - title: Joint Platforms
-    collection: joint-platforms
