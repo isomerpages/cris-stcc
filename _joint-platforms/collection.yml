@@ -2,5 +2,6 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Cancer Databases and Tissue Banks.md
       - Overview.md
       - Cancer Clinical Trials & Investigational Medicine Units.md
