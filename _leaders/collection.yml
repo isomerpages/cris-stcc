@@ -2,10 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Assoc Prof Tan Ker Kan.md
-      - Mr Seck Yee Kwang.md
-      - Dr Alexander Lezhava.md
-      - Dr Anand Jeyasekharan.md
       - Dr Benjamin Koh (BOC Chair).md
       - Prof Chong Yap Seng.md
       - Prof Barry Halliwell.md
@@ -22,4 +18,8 @@ collections:
       - Assoc Prof Tan Ern Yu.md
       - Assoc Prof Iain Tan.md
       - Dr Jason Chan.md
+      - Dr Anand Jeyasekharan.md
+      - Dr Alexander Lezhava.md
+      - Mr Seck Yee Kwang.md
+      - Assoc Prof Tan Ker Kan.md
       - Mr Clarence Khoo.md
