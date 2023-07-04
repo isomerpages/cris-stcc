@@ -5,5 +5,5 @@ description: ""
 ---
 | Title | Name | View More |
 | -------- | -------- | -------- |
-| Prof | Goh Boon Cher| [Click Here](/jointplatform/cctimu-platform-leads/prof-goh-boon-cher) |
-| Assoc Prof | Daniel Tan | [Click Here](/joint-platform/assoc-prof-daniel-tan) |
+| Prof | Goh Boon Cher| [Click Here](/leadership/cctimu-platform-leads/prof-goh-boon-cher) |
+| Assoc Prof | Daniel Tan | [Click Here](/leadership/assoc-prof-daniel-tan) |
