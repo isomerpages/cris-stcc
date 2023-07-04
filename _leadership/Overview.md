@@ -5,6 +5,7 @@ description: ""
 ---
 ![Leadership Main](/images/leadership%20main%201.png)
 
+![Leadership Main 2](/images/Leadership/leadership%20main%202.png)
 
 | Title | Name | View More |
 | -------- | -------- | -------- |
@@ -13,4 +14,3 @@ description: ""
 | Assoc Prof | Daniel Tan | [Click Here](/leaders/assoc-prof-daniel-tan/) |
 
 
-![Leadership Main 2](/images/Leadership/leadership%20main%202.png)
