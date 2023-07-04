@@ -2,13 +2,13 @@ collections:
   leaders:
     output: true
     order:
-      - Ms Elaine Teo.md
-      - Prof Ng Huck Hui.md
-      - Prof William Hwang.md
       - Dr Benjamin Koh (BOC Chair).md
       - Prof Chong Yap Seng.md
       - Prof Barry Halliwell.md
       - Dr Vincent Ho.md
+      - Prof William Hwang.md
+      - Prof Ng Huck Hui.md
+      - Ms Elaine Teo.md
       - Prof Goh Boon Cher.md
       - Assoc Prof Daniel Tan.md
       - Mr Clarence Khoo.md
