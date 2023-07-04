@@ -24,7 +24,7 @@ For feasibility requests or clinical trial enquiries, please send them to mailb
 
 | Title | Name | View More |
 | -------- | -------- | -------- |
-| Prof | Goh Boon Cher| [Click Here](/jointplatform/cctimu-platform-leads/prof-goh-boon-cher) |
-| Assoc Prof | Daniel Tan | [Click Here](/joint-platform/assoc-prof-daniel-tan) |
+| Prof | Goh Boon Cher| [Click Here](/leaders/prof-goh-boon-cher) |
+| Assoc Prof | Daniel Tan | [Click Here](/leaders/assoc-prof-daniel-tan) |
 
 ![platformleads](/images/platformleadcctimu.png)
