@@ -2,5 +2,6 @@ collections:
   leaders:
     output: true
     order:
+      - Mr Clarence Khoo.md
       - Assoc Prof Daniel Tan.md
       - Prof Goh Boon Cher.md
