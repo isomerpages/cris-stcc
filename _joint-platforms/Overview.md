@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/jointplatforms.jpeg)
 
-#### Joint Platforms
+Joint Platforms
 ---------------
 
 * * *
