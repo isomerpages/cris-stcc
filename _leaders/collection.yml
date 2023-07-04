@@ -2,10 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Dr Jason Chan.md
-      - Assoc Prof Iain Tan.md
-      - Assoc Prof Tan Ern Yu.md
-      - Dr Eng Chon Boon.md
       - Dr Benjamin Koh (BOC Chair).md
       - Prof Chong Yap Seng.md
       - Prof Barry Halliwell.md
@@ -18,4 +14,8 @@ collections:
       - Prof Lim Soon Thye.md
       - Prof Goh Boon Cher.md
       - Assoc Prof Daniel Tan.md
+      - Dr Eng Chon Boon.md
+      - Assoc Prof Tan Ern Yu.md
+      - Assoc Prof Iain Tan.md
+      - Dr Jason Chan.md
       - Mr Clarence Khoo.md
