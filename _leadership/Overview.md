@@ -8,6 +8,6 @@ description: ""
 
 | Title | Name | View More |
 | -------- | -------- | -------- |
-| Dr | Benajamin Koh     | Text     |
-| Dr | Prof Goh Boon Cher | [View More](/leaders/prof-goh-boon-cher/) |
-| Assoc Prof | Daniel Tan | [View More](/leaders/assoc-prof-daniel-tan/) |
+| Dr | Benajamin Koh     | [Click Here](/leaders/dr-benjamin-koh/)     |
+| Dr | Prof Goh Boon Cher | [Click Here](/leaders/prof-goh-boon-cher/) |
+| Assoc Prof | Daniel Tan | [Click Here](/leaders/assoc-prof-daniel-tan/) |
