@@ -5,14 +5,10 @@ description: ""
 ---
 ### **Our Story**
 
-<a href="#phase_2">Click here to see Phase 2</a>
-
 The STCC was set up in November 2019 under the&nbsp;**Research, Innovation and Enterprise**&nbsp;(RIE) 2020 funding as a nationally coordinated, virtual organisation to address the need for a cohesive and collaborative national level cancer Research &amp; Translation (R&amp;T) platform. It aims to synergise cancer research capabilities, and raise Singapore’s overall prominence, competitiveness and healthcare impact regionally and globally in selected cancers. It was registered as a business unit under the Consortium for Clinical Research and Innovation, Singapore (CRIS) in April 2020.
 
 #### Phase 1
 In STCC Phase 1,&nbsp;the foundational framework for a national level R&amp;T programme comprising four joint platforms was established to bring together top basic, clinical and translational talent and expertise in the cancer research ecosystem. A central coordinating office (Strategic Planning and Development office) was also set up to manage daily operations and resource management, drive and track deliverables, and support the STCC leadership in running the consortium.
-
-<a id="phase_2">
 
 #### Phase 2
 STCC Phase 2 will be a continued effort from Phase 1 to further develop and augment the cancer R&amp;T infrastructure, and drive cohesiveness in the research community. STCC aims to:
@@ -26,7 +22,7 @@ STCC Phase 2 will be a continued effort from Phase 1 to further develop and augm
 *   STCC aims to serve a dual function of building national cancer resources and driving national research initiatives and cooperative multi-centre studies
 *   STCC’s strategies and focus areas are aligned with Human Health and Potential (HHP) RIE2025 strategies in the areas of precision medicine, early detection, value-based healthcare, therapeutics and diagnostics, talent, data, research excellence, I&amp;E ecosystem and healthcare translation.
 
-	</a>
+	
 	
 ### Find out more:
 
