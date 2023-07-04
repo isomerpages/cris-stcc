@@ -11,3 +11,6 @@ description: ""
 | Dr | Benajamin Koh (BOC Chair)    | [Click Here](/leaders/dr-benjamin-koh/)     |
 | Dr | Prof Goh Boon Cher | [Click Here](/leaders/prof-goh-boon-cher/) |
 | Assoc Prof | Daniel Tan | [Click Here](/leaders/assoc-prof-daniel-tan/) |
+
+
+![Leadership Main 2](/images/Leadership/leadership%20main%202.png)
