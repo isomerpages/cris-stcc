@@ -3,7 +3,9 @@ title: Overview
 permalink: /joint-platforms/overview/
 description: ""
 ---
-Joint Platforms
+![](/images/jointplatforms.jpeg)
+
+#### Joint Platforms
 ---------------
 
 * * *
