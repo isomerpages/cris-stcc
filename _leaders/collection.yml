@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Prof Chng Wee Joo.md
       - Prof Ashok Venkitaraman.md
       - Dr Benjamin Koh (BOC Chair).md
       - Prof Chong Yap Seng.md
