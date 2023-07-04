@@ -3,6 +3,8 @@ title: Overview
 permalink: /leadership/overview/
 description: ""
 ---
+
+![Leadership Main](/images/leadership%20main%201.png)
 | Title | Name | View More |
 | -------- | -------- | -------- |
 | Dr | Benajamin Koh     | Text     |
