@@ -55,6 +55,15 @@ sections:
       url: /joint-platforms-2/cancer-clinical-trials-investigational-medicine-units/
       image: /images/Homepage/platforms-photo-cctmiu.jpg
       alt: CCTIMU
+  - infopic:
+      title: Cancer Databases and Tissue Banks
+      subtitle: Joint Platforms
+      description: "The Cancer Database and Tissue Banks Platform combines existing
+        databases of the Singhealth and National University Health System ... "
+      button: Learn more
+      url: /joint-platforms/cancer-databases-and-tissue-banks/
+      image: /images/Homepage/cdtb jointplatform image.jpg
+      alt: CDTB
   - resources:
       title: Latest News
       button: View More
