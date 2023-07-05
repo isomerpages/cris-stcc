@@ -22,7 +22,7 @@ description: ""
 		</tr>
 		<!-- Second Row -->
 		<tr>
-			<td>
+			<td height="200" width="33%">
 				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
 				<div align="center"><b>Prof Goh Boon Cher</b></div>
 				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
