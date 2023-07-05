@@ -3,7 +3,7 @@ title: Prof Ng Huck Hui
 permalink: /leaders/prof-ng-huck-hui/
 description: ""
 ---
-**Profile** 
+![Prof Ng Huck Hui](/images/Leaders/professor%20ng%20huck%20hui.jpg)**Profile** 
 
 * * *
 
