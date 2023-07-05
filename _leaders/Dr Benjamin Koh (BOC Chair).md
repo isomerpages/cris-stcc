@@ -5,7 +5,7 @@ description: ""
 ---
 ![Dr Benjamin Koh](/images/Leaders/dr%20benjamin%20koh.jpg)
 
-<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+<img style="width:300px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
 																																	 
 **Profile**&nbsp;
 
