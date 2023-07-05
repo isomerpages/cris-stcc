@@ -5,9 +5,16 @@ description: ""
 ---
 Our Vision and Mission
 ----------------------
-<img align="left" style="width:30px" src="/images/stcc%20vision%20icon.png"> 
-
-##### Vision
+<table>
+<tbody><tr>
+<td>
+	<img align="left" style="width:30px" src="/images/stcc%20vision%20icon.png">
+</td>
+<td width="90%">
+ <h5 align="left">Vision</h5>
+</td>
+</tr>
+</tbody></table>
 Become an international leader in translational research in selected cancers of particular relevance to Asians, with high-impact health and economic value.
 
 ##### Mission
