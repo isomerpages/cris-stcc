@@ -22,7 +22,7 @@ For feasibility requests or clinical trial enquiries, please send them to&nbsp;m
 
 ### Platform Leads
 --------------
-<img style="width:200px" src="/images/platformleadcctimu.png">
+<img align="left" style="width:200px" src="/images/platformleadcctimu.png">
 
 | Title | Name | View More |
 | -------- | -------- | -------- |
