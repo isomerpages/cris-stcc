@@ -7,7 +7,7 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td width="33%"><!-- Table 1 -->
+			<td height="200" width="33%">
 				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
 				<div align="center"><b>Dr Benjamin Koh</b></div>
 				<div align="center"><b>(BOC Chair)</b></div>
@@ -32,7 +32,10 @@ description: ""
 				<a href="/leaders/assoc-prof-daniel-tan/"><img src="/images/Leaders/daniel-tan-shao-weng.jpg"></a>
 				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
 			</td>
-
+			<td>
+				<a href="/leaders/assoc-prof-daniel-tan/"><img src="/images/Leaders/daniel-tan-shao-weng.jpg"></a>
+				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
+			</td>
 		</tr>
 	</tbody>
 </table>
