@@ -8,9 +8,9 @@ Our Vision and Mission
 <table>
 <tbody><tr>
 <td>
-	<img align="left" style="width:30px" src="/images/stcc%20vision%20icon.png">
+	<img align="left" style="width:35px" src="/images/stcc%20vision%20icon.png">
 </td>
-<td width="90%">
+<td width="87%">
  <h5 align="left">Vision</h5>
 </td>
 </tr>
