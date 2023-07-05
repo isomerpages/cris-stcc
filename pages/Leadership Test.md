@@ -11,23 +11,22 @@ HTML Quick Reference List</a></p>
 link to the <a style="color: #000000" href="http://www.w3schools.com/tags/default.asp">
 HTML Quick Reference List</a></p>
 
-
 [Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 <table>
 <tbody><tr>
 	<!-- Table 1 -->
 <td width="33%">
-	<img src="/images/Leaders/dr%20benjamin%20koh.png">
+	<img src="/images/Leaders/dr%20benjamin%20koh.jpg">
 	<div align="center"><a href="https://www.google.com/">Dr Benjamin Koh</a></div>
 </td>
 	<!-- Table 2 -->
 <td width="33%">
-<a href="/leaders/dr-benjamin-koh/"> <img src="/images/Leaders/dr%20benjamin%20koh.png" style="width:200px"> </a>
+<a href="/leaders/dr-benjamin-koh/"> <img src="/images/Leaders/dr%20benjamin%20koh.jpg" style="width:200px"> </a>
 	[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 </td>
 	<!-- Table 3 -->
 <td width="33%">
-	<img src="/images/Leaders/dr%20benjamin%20koh.png">
+	<img src="/images/Leaders/dr%20benjamin%20koh.jpg">
 	<div align="center"><a href="/leaders/dr-benjamin-koh/">Dr Benjamin Koh</a></div>
 </td>
 </tr>
