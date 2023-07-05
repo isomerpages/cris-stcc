@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: Latest news
           description: Latest Happenings
-          url: ""
+          url: /news-updates-and-events/
         - title: About us
           description: Find Out More
           url: /our-story/
