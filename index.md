@@ -31,6 +31,7 @@ sections:
       button: EXPLORE MORE
       url: /joint-platforms
       alt: Image alt text
+      image: /images/Homepage/cdtb jointplatform image.jpg
   - resources:
       title: Latest News
       button: View More
