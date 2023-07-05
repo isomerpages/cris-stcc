@@ -3,7 +3,7 @@ title: Ms Elaine Teo
 permalink: /leaders/ms-elaine-teo/
 description: ""
 ---
-**Profile** 
+![Ms Elaine Teo](/images/Leaders/ms%20elaine%20teo.jpg)**Profile** 
 
 * * *
 >###### BSc. Pharmacy (Hons.), MSc. (Pharmacy), M. (Public Management)
