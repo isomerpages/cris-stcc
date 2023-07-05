@@ -4,7 +4,7 @@ permalink: /leaders/dr-benjamin-koh/
 description: ""
 ---
 
-![](/images/Leaders/dr%20benjamin%20koh.png)**Profile** 
+![Dr Benjamin Koh](/images/Leaders/dr%20benjamin%20koh.jpg)**Profile** 
 
 * * *
 
