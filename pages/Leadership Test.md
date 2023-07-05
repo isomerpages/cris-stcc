@@ -3,6 +3,67 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
+				<div align="center"><b>Dr Benjamin Koh</b></div>
+				<div align="center"><b>(BOC Chair)</b></div>
+			</td>
+			<td>
+				<img src="/images/Leaders/dr%20benjamin%20koh.jpg">
+				<div align="center">Dr Benjamin Koh</div>
+			</td>
+<td width="33%">
+	<img src="/images/Leaders/dr%20benjamin%20koh.jpg">
+	<div align="center"><a href="/leaders/dr-benjamin-koh/">Dr Benjamin Koh</a></div>
+</td>
+</tr>
+	<tr>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>This is the second paragraph. It is also short and boring. Let's create a 
 link to the <a style="color: #3e3e3e" href="http://www.w3schools.com/tags/default.asp">
 HTML Quick Reference List</a></p>
@@ -25,6 +86,7 @@ HTML Quick Reference List</a></p>
 <a href="/leaders/dr-benjamin-koh/"> <img src="/images/Leaders/dr%20benjamin%20koh.jpg" style="width:200px"> </a>
 	[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 </td>
+	
 	<!-- Table 3 -->
 <td width="33%">
 	<img src="/images/Leaders/dr%20benjamin%20koh.jpg">
