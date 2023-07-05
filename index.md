@@ -21,7 +21,7 @@ sections:
         cohesive and ...
       button: READ MORE
       url: /about-us
-      image: /images/aboutus.jpeg
+      image: /images/Homepage/stcc about us.jpg
       alt: About Us Image
   - infopic:
       title: Joint Platforms
