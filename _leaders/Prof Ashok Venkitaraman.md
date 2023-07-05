@@ -3,7 +3,7 @@ title: Prof Ashok Venkitaraman
 permalink: /leaders/prof-ashok-venkitaraman/
 description: ""
 ---
-**Profile** 
+![Prof Ashok Venkitaraman](/images/Leaders/professor%20ashok%20venkitaraman.jpg)**Profile** 
 
 * * *
 
