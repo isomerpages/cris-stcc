@@ -39,15 +39,22 @@ sections:
       url: /about-us
       image: /images/Homepage/stcc about us.jpg
       alt: About Us Image
-  - infopic:
+  - infobar:
       title: Joint Platforms
       description: The STCC joint platforms enables collaboration between basic,
         clinical and translational researchers to seed ideas for larger
         competitive translational grants.
-      button: EXPLORE MORE
+      button: Explore More
       url: /joint-platforms
-      alt: Image alt text
-      image: /images/Homepage/cdtb jointplatform image.jpg
+  - infopic:
+      title: Cancer Clinical Trials & Investigational Medicine Units
+      subtitle: Joint Platforms
+      description: The Cancer Clinical Trials and Investigational Medicine Units
+        platform aims to drive impactful ...
+      button: Learn more
+      url: /joint-platforms-2/cancer-clinical-trials-investigational-medicine-units/
+      image: /images/Homepage/platforms-photo-cctmiu.jpg
+      alt: CCTIMU
   - resources:
       title: Latest News
       button: View More
@@ -58,13 +65,4 @@ sections:
         support of the nation's ...
       button: FIND OUT MORE
       url: /collaborate
-  - infopic:
-      title: Cancer Clinical Trials & Investigational Medicine Units
-      subtitle: Joint Platforms
-      description: The Cancer Clinical Trials and Investigational Medicine Units
-        platform aims to drive impactful ...
-      button: Learn more
-      url: /joint-platforms-2/cancer-clinical-trials-investigational-medicine-units/
-      image: /images/Homepage/platforms-photo-cctmiu.jpg
-      alt: CCTIMU
 ---
