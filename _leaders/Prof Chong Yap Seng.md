@@ -3,9 +3,7 @@ title: Prof Chong Yap Seng
 permalink: /leaders/prof-chong-yap-seng/
 description: ""
 ---
-
-
-![Prof Chong](/images/Leaders/prof%20chong%20yap%20seng.png)**Profile** 
+![Prof Chong](/images/Leaders/prof-chong-yap-seng.png)**Profile** 
 
 * * *
 
