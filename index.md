@@ -14,18 +14,18 @@ sections:
       background: /images/Homepage/stcc banner.jpg
       subtitle: STCC is a nationally coordinated initiative and network to synergise
         cancer research and translational capabilities across Singapore
-      url: /about-us
+      url: /our-story/
       button: Find out more
       key_highlights:
         - title: Latest news
-          description: Key Highlight description
+          description: Latest Happenings
           url: ""
         - title: About us
-          description: Key Highlight description
-          url: /about-us
+          description: Find Out More
+          url: /our-story/
         - title: Leadership
           description: Key Highlight description
-          url: /leaders
+          url: /leadership/overview/
         - title: Contact Us
           description: Key Highlight description
           url: /contact-us
@@ -58,8 +58,8 @@ sections:
   - infopic:
       title: Cancer Databases and Tissue Banks
       subtitle: Joint Platforms
-      description: "The Cancer Database and Tissue Banks Platform combines existing
-        databases of the Singhealth and National University Health System ... "
+      description: The Cancer Database and Tissue Banks Platform combines existing
+        databases of the Singhealth and National University Health System ...
       button: Learn more
       url: /joint-platforms/cancer-databases-and-tissue-banks/
       image: /images/Homepage/cdtb jointplatform image.jpg
