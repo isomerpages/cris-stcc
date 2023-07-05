@@ -22,6 +22,21 @@ description: ""
 		</tr>
 		<!-- Second Row -->
 		<tr>
+			<td height="200" width="33%"><!-- Table 1 -->
+				<a href="/leaders/dr-vincent-ho/"><img src="/images/Leaders/dr%20vicent%20ho.jpeg"></a>
+				<div align="center"><b>Dr Vincent Ho</b></div>
+			</td>
+			<td width="33%"><!-- Table 2 -->
+				<a href="/leaders/prof-william-hwang/"><img src="/images/Leaders/professor%20william%20hwang.jpg"></a>
+				<div align="center"><b>Prof William Hwang</b></div>
+			</td>
+			<td width="33%"><!-- Table 3 -->
+				<a href="/leaders/prof-william-hwang/"><img src="/images/Leaders/professor%20ng%20huck%20hui.jpg"></a>
+				<div align="center"><b>Prof Ng Huck Hui</b></div>
+			</td>
+		</tr>
+		<!-- Third Row -->
+		<tr>
 			<td height="200" width="33%">
 				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
 				<div align="center"><b>Prof Goh Boon Cher</b></div>
