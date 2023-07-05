@@ -58,4 +58,13 @@ sections:
         support of the nation's ...
       button: FIND OUT MORE
       url: /collaborate
+  - infopic:
+      title: Cancer Clinical Trials & Investigational Medicine Units
+      subtitle: Joint Platforms
+      description: The Cancer Clinical Trials and Investigational Medicine Units
+        platform aims to drive impactful ...
+      button: Learn more
+      url: /joint-platforms-2/cancer-clinical-trials-investigational-medicine-units/
+      image: /images/Homepage/platforms-photo-cctmiu.jpg
+      alt: CCTIMU
 ---
