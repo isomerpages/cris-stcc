@@ -12,6 +12,7 @@ link to the <a style="color: #000000" href="http://www.w3schools.com/tags/defaul
 HTML Quick Reference List</a></p>
 
 [Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
+
 <table>
 <tbody><tr>
 	<!-- Table 1 -->
@@ -86,4 +87,4 @@ The quick brown fox jumps over the lazy dog.
 | ![Dr Koh](/images/Leaders/dr%20benjamin%20koh.png)     | ![Prof Chong](/images/Leaders/prof%20chong%20yap%20seng.png)    | ![Prof Barry](/images/Leaders/prof%20barry%20halliwell.png)     | 
 |[Dr Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/) |
 [Prof Chong Yap Seng](/leaders/prof-chong-yap-seng/) |
-[Prof Barry Halliwell](/leaders/prof-barry-halliwell/) |
+[Prof Barry Halliwell](/images/Leaders/barry-halliwell__stcc.jpg) |
