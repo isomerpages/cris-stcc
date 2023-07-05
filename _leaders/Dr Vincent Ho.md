@@ -3,7 +3,8 @@ title: Dr Vincent Ho
 permalink: /leaders/dr-vincent-ho/
 description: ""
 ---
-**Profile** 
+
+![Dr Vicent Ho](/images/Leaders/dr%20vicent%20ho.jpeg)**Profile** 
 
 * * *
 
