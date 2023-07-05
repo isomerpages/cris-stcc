@@ -3,6 +3,15 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
+<p>This is the second paragraph. It is also short and boring. Let's create a 
+link to the <a style="color: #3e3e3e" href="http://www.w3schools.com/tags/default.asp">
+HTML Quick Reference List</a></p>
+
+<p>This is the second paragraph. It is also short and boring. Let's create a 
+link to the <a style="color: #000000" href="http://www.w3schools.com/tags/default.asp">
+HTML Quick Reference List</a></p>
+
+
 [Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 <table>
 <tbody><tr>
@@ -13,7 +22,7 @@ description: ""
 </td>
 	<!-- Table 2 -->
 <td width="33%">
-<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
+<img src="/images/Leaders/dr%20benjamin%20koh.png" style="width:200px">
 	[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 </td>
 	<!-- Table 3 -->
