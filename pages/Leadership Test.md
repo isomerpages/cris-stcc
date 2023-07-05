@@ -22,7 +22,7 @@ HTML Quick Reference List</a></p>
 </td>
 	<!-- Table 2 -->
 <td width="33%">
-<img src="/images/Leaders/dr%20benjamin%20koh.png" style="width:200px">
+<a href="/leaders/dr-benjamin-koh/"> <img src="/images/Leaders/dr%20benjamin%20koh.png" style="width:200px"> </a>
 	[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 </td>
 	<!-- Table 3 -->
