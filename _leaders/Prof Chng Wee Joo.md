@@ -3,7 +3,7 @@ title: Prof Chng Wee Joo
 permalink: /leaders/prof-chng-wee-joo/
 description: ""
 ---
-**Affiliations** 
+![Prof Chng Wee Joo](/images/Leaders/prof%20chng%20wee%20joo.jpg)**Affiliations** 
 
 * * *
 
