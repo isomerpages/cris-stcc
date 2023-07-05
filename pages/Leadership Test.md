@@ -9,8 +9,8 @@ description: ""
 	<a href="google.com"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png"></a>
 </td>
 <td width="33%">
-<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
-</td>
+<a href="[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
+</a></td>
 <td width="33%">
 <img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </td>
@@ -28,7 +28,7 @@ The quick brown fox jumps over the lazy dog.
 </tr>
 </tbody></table>
 
-
+[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 
 <!--
 <img src="/images/Leaders/dr%20benjamin%20koh.png" style="width:200px" align="right">
