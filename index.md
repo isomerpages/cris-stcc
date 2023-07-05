@@ -48,7 +48,7 @@ sections:
       url: /joint-platforms/overview/
   - infopic:
       title: Cancer Clinical Trials & Investigational Medicine Units
-      subtitle: Joint Platforms
+      subtitle: Joint Platforms 1
       description: The Cancer Clinical Trials and Investigational Medicine Units
         platform aims to drive impactful ...
       button: Learn more
@@ -57,7 +57,7 @@ sections:
       alt: CCTIMU
   - infopic:
       title: Cancer Databases and Tissue Banks
-      subtitle: Joint Platforms
+      subtitle: Joint Platforms 2
       description: The Cancer Database and Tissue Banks Platform combines existing
         databases of the Singhealth and National University Health System ...
       button: Learn more
