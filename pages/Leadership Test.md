@@ -3,11 +3,10 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
-
 <table>
 	<tbody>
 		<tr>
-			<td height="200" width="33%">
+			<td height="200" width="33%"><!-- Table 1 -->
 				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
 				<div align="center"><b>Dr Benjamin Koh</b></div>
 				<div align="center"><b>(BOC Chair)</b></div>
