@@ -45,7 +45,7 @@ sections:
         clinical and translational researchers to seed ideas for larger
         competitive translational grants.
       button: Explore More
-      url: /joint-platforms
+      url: /joint-platforms/overview/
   - infopic:
       title: Cancer Clinical Trials & Investigational Medicine Units
       subtitle: Joint Platforms
