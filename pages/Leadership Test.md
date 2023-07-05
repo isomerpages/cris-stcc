@@ -7,19 +7,19 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td>
+			<td><!-- Table 1 -->
 				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
 				<div align="center"><b>Dr Benjamin Koh</b></div>
 				<div align="center"><b>(BOC Chair)</b></div>
 			</td>
-			<td>
-				<img src="/images/Leaders/dr%20benjamin%20koh.jpg">
-				<div align="center">Dr Benjamin Koh</div>
+			<td><!-- Table 2 -->
+				<a href="/leaders/prof-chong-yap-seng/"><img src="/images/Leaders/prof-chong-yap-seng.png"></a>
+				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
-<td width="33%">
-	<img src="/images/Leaders/dr%20benjamin%20koh.jpg">
-	<div align="center"><a href="/leaders/dr-benjamin-koh/">Dr Benjamin Koh</a></div>
-</td>
+			<td><!-- Table 3 -->
+				<a href="/leaders/prof-barry-halliwell/"><img src="/images/Leaders/barry-halliwell__stcc.jpg"></a>
+				<div align="center"><b>Prof Barry Halliwell</b></div>
+			</td>
 </tr>
 	<tr>
 <td width="33%">
