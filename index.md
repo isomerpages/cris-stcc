@@ -17,17 +17,17 @@ sections:
       url: /our-story/
       button: Find out more
       key_highlights:
-        - title: Latest news
-          description: Latest Happenings
+        - title: Latest News
+          description: Get Updated on Current Events
           url: /news-updates-and-events/
         - title: About us
           description: Find Out More
           url: /our-story/
         - title: Leadership
-          description: Key Highlight description
+          description: Key Stakeholders
           url: /leadership/overview/
         - title: Contact Us
-          description: Key Highlight description
+          description: Get in Touch
           url: /contact-us
       title: Welcome to STCC
   - infopic:
