@@ -36,7 +36,7 @@ sections:
         nationally coordinated, virtual organisation to address the need for a
         cohesive and ...
       button: READ MORE
-      url: /about-us
+      url: /our-story/
       image: /images/Homepage/stcc about us.jpg
       alt: About Us Image
   - infobar:
