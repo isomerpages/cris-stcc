@@ -6,13 +6,16 @@ description: ""
 [Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 <table>
 <tbody><tr>
+	<!-- Table 1 -->
 <td width="33%">
 	<img src="/images/Leaders/dr%20benjamin%20koh.png">
 	<div align="center"><a href="https://www.google.com/">Dr Benjamin Koh</a></div>
 </td>
+	<!-- Table 2 -->
 <td width="33%">
 <a href="[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </a></td>
+	<!-- Table 3 -->
 <td width="33%">
 	<img src="/images/Leaders/dr%20benjamin%20koh.png">
 	<div align="center"><a href="/leaders/dr-benjamin-koh/">Dr Benjamin Koh</a></div>
