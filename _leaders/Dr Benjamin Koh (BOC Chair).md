@@ -4,7 +4,7 @@ permalink: /leaders/dr-benjamin-koh/
 description: ""
 ---
 ![Dr Benjamin Koh](/images/Leaders/dr%20benjamin%20koh.jpg)
-test
+
 <img style="width:300px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
 																																	 
 **Profile**&nbsp;
