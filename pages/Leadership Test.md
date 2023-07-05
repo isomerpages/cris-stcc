@@ -3,16 +3,19 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
+[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
 <table>
 <tbody><tr>
 <td width="33%">
-	<a href="https://www.google.com/"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png"></a>
+	<img src="/images/Leaders/dr%20benjamin%20koh.png">
+	<div align="center"><a href="https://www.google.com/">Dr Benjamin Koh</a></div>
 </td>
 <td width="33%">
 <a href="[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </a></td>
 <td width="33%">
-	<a href="youtube.com"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png"></a>
+	<img src="/images/Leaders/dr%20benjamin%20koh.png">
+	<div align="center"><a href="/leaders/dr-benjamin-koh/">Dr Benjamin Koh</a></div>
 </td>
 </tr>
 	<tr>
@@ -28,9 +31,10 @@ The quick brown fox jumps over the lazy dog.
 </tr>
 </tbody></table>
 
-[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
+
 
 <!--
+
 <img src="/images/Leaders/dr%20benjamin%20koh.png" style="width:200px" align="right">
 <img src="/images/Leaders/dr%20benjamin%20koh.png" style="width:200px" height="300">
 -->
