@@ -55,7 +55,9 @@ The quick brown fox jumps over the lazy dog.
 
 
 
-| Title | Name |  <div style="width:50px">property</div><table>
+| Title | Name | <div style="width:50px">property</div>|
+
+<table>
 <tbody><tr>
 <th width="20%">Title</th>
 	<th width="60%">Name</th>
@@ -73,11 +75,9 @@ The quick brown fox jumps over the lazy dog.
 <td width="70%">
 		<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
 </td>
-</tr></tbody></table> |
-| -------- | -------- | -------- |
-| Dr     | [Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)     | ![Dr Benjamin Koh](/images/Leaders/dr%20benjamin%20koh.png)     |
-| Prof | [Chong Yap Seng](/leaders/prof-chong-yap-seng/) | ![Prof Chong](/images/Leaders/prof%20chong%20yap%20seng.png) |
-|Prof | [Barry Halliwell](/leaders/prof-barry-halliwell/) | ![Prof Barry](/images/Leaders/prof%20barry%20halliwell.png) |
+</tr>
+</tbody>
+</table> 
 
 
 
