@@ -25,7 +25,8 @@ For feasibility requests or clinical trial enquiries, please send them to&nbsp;m
 <img align="left" style="width:300px" src="/images/platformleadcctimu.png">
 
 <br><br>
+
 | Title | Name | View More |
 | -------- | -------- | -------- |
-| Prof | Goh Boon Cher| [Click Here](/leaders/prof-goh-boon-cher) |
+| Prof | Goh Boon Cher | [Click Here](/leaders/prof-goh-boon-cher) |
 | Assoc Prof | Daniel Tan | [Click Here](/leaders/assoc-prof-daniel-tan) |
