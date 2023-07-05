@@ -6,13 +6,13 @@ description: ""
 <table>
 <tbody><tr>
 <td width="33%">
-	<a href="www.google.com"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png"></a>
+	<a href="https://www.google.com/"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png"></a>
 </td>
 <td width="33%">
 <a href="[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </a></td>
 <td width="33%">
-<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
+	<a href="youtube.com"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png"></a>
 </td>
 </tr>
 	<tr>
