@@ -23,9 +23,9 @@ For feasibility requests or clinical trial enquiries, please send them to&nbsp;m
 ### Platform Leads
 --------------
 <img align="left" style="width:300px" src="/images/platformleadcctimu.png">
-test
+
 <br><br>
-test
+
 | Title | Name | View More |
 | -------- | -------- | -------- |
 | Prof | Goh Boon Cher | [Click Here](/leaders/prof-goh-boon-cher) |
