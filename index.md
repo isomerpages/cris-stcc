@@ -42,8 +42,8 @@ sections:
   - infobar:
       title: Joint Platforms
       description: The STCC joint platforms enables collaboration between basic,
-        clinical and translational researchers to seed ideas for larger
-        competitive translational grants.
+        clinical and translational researchers to explore novel approaches, push
+        promising lines of ...
       button: Explore More
       url: /joint-platforms/overview/
   - infopic:
