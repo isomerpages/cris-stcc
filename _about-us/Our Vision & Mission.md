@@ -6,6 +6,7 @@ description: ""
 Our Vision and Mission
 ----------------------
 <br><br>
+
 <table>
 <tbody><tr>
 <td>
@@ -18,6 +19,7 @@ Our Vision and Mission
 </tbody></table>
 Become an international leader in translational research in selected cancers of particular relevance to Asians, with high-impact health and economic value.
 <br><br>
+
 <table>
 <tbody><tr>
 <td>
