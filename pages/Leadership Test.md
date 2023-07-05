@@ -13,8 +13,9 @@ description: ""
 </td>
 	<!-- Table 2 -->
 <td width="33%">
-<a href="[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)"><img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
-</a></td>
+<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
+	[Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
+</td>
 	<!-- Table 3 -->
 <td width="33%">
 	<img src="/images/Leaders/dr%20benjamin%20koh.png">
