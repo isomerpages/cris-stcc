@@ -119,7 +119,8 @@ description: ""
 				<div align="center"><b>Mr Clarence Khoo</b></div>
 				<div align="center">Director of Operations and Strategy</div>
 			</td>
-	</tr></tbody>
+		</tr>
+	</tbody>
 </table>
 
 ---
