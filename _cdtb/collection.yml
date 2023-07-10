@@ -1,0 +1,4 @@
+collections:
+  cdtb:
+    output: true
+    order: []
