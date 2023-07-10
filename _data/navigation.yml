@@ -4,8 +4,11 @@ links:
     collection: about-us
   - title: Leadership
     collection: leadership
-  - title: Leader Test
+  - title: Leadership test
     url: /leadershiptest
+    sublinks:
+      - title: Leaders
+        url: /leaders
   - title: Joint Platforms
     collection: joint-platforms
   - title: News & Updates
@@ -14,8 +17,3 @@ links:
     url: /collaborate
   - title: Contact Us
     url: /contact-us
-  - title: Leaders
-    url: /leadership
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
