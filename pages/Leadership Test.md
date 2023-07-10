@@ -3,8 +3,6 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
-
-
 <table>
 	<tbody>
 		<tr>
@@ -44,8 +42,7 @@ description: ""
 				<a href="/leaders/prof-ashok-venkitaraman/"><img src="/images/Leaders/professor%20ashok%20venkitaraman.jpg"></a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
-		</tr>
-		
+		</tr>		
 		<!-- Third Row -->
 		<tr>
 			<td height="180" width="25%"><!-- Table 1 -->
