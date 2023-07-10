@@ -14,12 +14,13 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: contact@stcc.cris.sg
-      - other: ""
-    title: Email
+      - email: ""
+      - other: https://form.gov.sg/64a39015b529c300125de2a6
+    title: Inquiry Form
   - content:
       - phone: ""
       - email: career@cris.sg
       - other: <a href="https://cris.sg/careers">View available roles</a>
     title: Careers
+feedback: https://form.gov.sg/64a39015b529c300125de2a6
 ---
