@@ -2,6 +2,5 @@ collections:
   tris:
     output: true
     order:
-      - Translational Research Integration & Support (TRIS).md
       - Overview.md
       - Platform Leads.md
