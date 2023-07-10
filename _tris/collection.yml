@@ -2,4 +2,5 @@ collections:
   tris:
     output: true
     order:
+      - Platform Leads.md
       - Overview.md
