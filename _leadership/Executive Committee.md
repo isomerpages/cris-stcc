@@ -48,4 +48,6 @@ description: ""
 				<div align="center"><b>Dr Jason Chan</b></div>
 				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
-		</tr></tbody></table>
+		</tr>
+	</tbody>
+</table>
