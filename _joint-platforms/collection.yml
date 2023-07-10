@@ -1,6 +1,0 @@
-collections:
-  joint-platforms:
-    output: true
-    order:
-      - CCTIMU/.keep
-      - CCTIMU/Overview.md
