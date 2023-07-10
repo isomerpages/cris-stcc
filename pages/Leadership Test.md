@@ -124,11 +124,6 @@ description: ""
 
 ---
 <br><br>
-<!--
-![](/images/Leaders/anand-jeyasekharan.jpg)![](/images/Leaders/dr-alexandra-lezhava.jpg)![](/images/Leaders/mr-seck-yee-kwang.jpg)![](/images/Leaders/tan-ker-kan.jpg)![](/images/Leaders/mr-clarence-khoo.jpg)
--->
-
-
 
 <!-- 3x3 -->
 
