@@ -64,6 +64,36 @@ sections:
       url: /joint-platforms/cancer-databases-and-tissue-banks/
       image: /images/Homepage/cdtb jointplatform image.jpg
       alt: CDTB
+  - infopic:
+      title: Translational Research Integration & Support (TRIS)
+      subtitle: Joint Platforms 3
+      description: The Translational Research Integration & Support (TRIS) platform
+        offers potential solutions to several healthcare challenges in oncology
+        by improving ...
+      button: Learn More
+      url: /joint-platforms/translational-research-integration-support/
+      image: /images/Homepage/platforms-photo-tris.jpg
+      alt: TRIS
+  - infopic:
+      title: Business Intelligence & Development
+      subtitle: Joint Platforms 4
+      description: The Business Intelligence and Development platform serves as STCC’s
+        dedicated business team for active industry engagements. This platform
+        develops ...
+      button: Learn More
+      url: /joint-platforms/business-intelligence-development/
+      image: /images/Homepage/platforms-bid.jpg
+      alt: BID
+  - infopic:
+      title: Impact & Population Health
+      subtitle: Joint Platforms 5
+      description: Impact & Population Health platform aims to support data generation
+        and assessment relevant to health impact to support policy change and
+        implementation ...
+      button: Learn More
+      url: /joint-platforms/impact-population-health/
+      image: /images/Homepage/stcc-cancer-databases-and-tissue-banks.jpg
+      alt: IMPH
   - resources:
       title: Latest News
       button: View More
