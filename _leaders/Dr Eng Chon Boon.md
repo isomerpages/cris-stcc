@@ -3,7 +3,8 @@ title: Dr Eng Chon Boon
 permalink: /leaders/dr-eng-chon-boon/
 description: ""
 ---
-**Affiliations** 
+
+![](/images/Leaders/dr-eng-chon-boon.jpg)**Affiliations** 
 
 * * *
 
