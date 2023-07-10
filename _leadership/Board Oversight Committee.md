@@ -15,7 +15,7 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td height="180" width="25%">
+			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/"><img src="/images/Leaders/prof-chong-yap-seng.png"></a>
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
