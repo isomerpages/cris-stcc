@@ -27,7 +27,7 @@ sections:
           description: Key Stakeholders
           url: /leadership/overview/
         - title: Contact Us
-          description: Get in Touch With Us Now
+          description: Get in Touch With Us
           url: /contact-us
       title: Welcome to STCC
   - infopic:
