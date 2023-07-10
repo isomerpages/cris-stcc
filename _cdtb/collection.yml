@@ -2,5 +2,5 @@ collections:
   cdtb:
     output: true
     order:
-      - Platform Leads.md
       - Overview.md
+      - Platform Leads.md
