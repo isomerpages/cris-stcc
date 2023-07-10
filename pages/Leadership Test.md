@@ -48,6 +48,13 @@ description: ""
 </table>
 
 
+
+
+
+
+
+<!-- 3x3 -->
+
 <table>
 	<tbody>
 		<tr>
@@ -76,7 +83,7 @@ description: ""
 				<div align="center"><b>Prof William Hwang</b></div>
 			</td>
 			<td width="33%"><!-- Table 3 -->
-				<a href="/leaders/prof-william-hwang/"><img src="/images/Leaders/professor%20ng%20huck%20hui.jpg"></a>
+				<a href="/leaders/prof-ng-huck-hui/"><img src="/images/Leaders/professor%20ng%20huck%20hui.jpg"></a>
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
 		</tr>
@@ -164,6 +171,3 @@ HTML Quick Reference List</a></p>
 
 
 | Title | Name | <div style="width:50px">property</div>|
-
-
-
