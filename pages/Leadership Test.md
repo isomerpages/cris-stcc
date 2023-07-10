@@ -3,6 +3,7 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
+
 <table>
 	<tbody>
 		<tr>
@@ -63,11 +64,33 @@ description: ""
 				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
 			</td>
 		</tr>
+		<!-- Fourth Row -->
+		<tr>
+			<td height="180" width="25%"><!-- Table 1 -->
+				<a href="/leaders/dr-eng-chon-boon/"><img src="/images/Leaders/dr-eng-chon-boon.jpg"></a>
+				<div align="center"><b>Dr Eng Chon Boon</b></div>
+			</td>
+			<td width="25%"><!-- Table 2 -->
+				<a href="/leaders/assoc-prof-tan-ern-yu/"><img src="/images/Leaders/tan-ern-yu.jpg"></a>
+				<div align="center"><b>Assoc Prof Tan Ern Yu</b></div>
+			</td>
+			<td width="25%"><!-- Table 3 -->
+				<a href="/leaders/assoc-prof-iain-tan/"><img src="/images/Leaders/assoc-prof-tan-bee-huat.jpg"></a>
+				<div align="center"><b>Assoc Prof Iain Tan</b></div>
+				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
+			</td>
+			<td width="25%"><!-- Table 4 -->
+				<a href="/leaders/dr-jason-chan/"><img src="/images/Leaders/dr-jason-chan.jpg"></a>
+				<div align="center"><b>Dr Jason Chan</b></div>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
 <br><br>
+<!--
 
+-->
 
 
 
