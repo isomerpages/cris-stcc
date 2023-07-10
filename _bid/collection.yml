@@ -1,0 +1,4 @@
+collections:
+  bid:
+    output: true
+    order: []
