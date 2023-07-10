@@ -3,7 +3,8 @@ title: Dr Benjamin Koh (BOC Chair)
 permalink: /leaders/dr-benjamin-koh/
 description: ""
 ---
-<img style="width:500px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+500px
+<img style="width:400px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
 
 **Profile**&nbsp;
 
