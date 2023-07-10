@@ -61,6 +61,7 @@ description: ""
 			<td width="25%"><!-- Table 4 -->
 				<a href="/leaders/assoc-prof-daniel-tan/"><img src="/images/Leaders/daniel-tan-shao-weng.jpg"></a>
 				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
+				<div align="center">Platform Lead, Cancer Clinical Trials &amp; IMUs</div>
 			</td>
 		</tr>
 		<!-- Fourth Row -->
