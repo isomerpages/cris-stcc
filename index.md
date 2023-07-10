@@ -23,9 +23,9 @@ sections:
         - title: About us
           description: Find Out More
           url: /our-story/
-        - title: Leadership
-          description: Key Stakeholders
-          url: /leadership/overview/
+        - title: Joint Platforms
+          description: Collaborate with us
+          url: /joint-platforms/overview/
         - title: Contact Us
           description: Get in Touch With Us
           url: /contact-us
