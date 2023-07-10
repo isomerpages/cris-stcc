@@ -65,8 +65,7 @@ description: ""
 	
 	
 	
-	
-	
+
 	
 | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) |
 | :--------: | :--------: | :--------: | :--------: |
