@@ -89,12 +89,43 @@ description: ""
 				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
 		</tr>
-	</tbody>
+		<!-- Fifth Row -->
+		<tr>
+			<td height="180" width="25%"><!-- Table 1 -->
+				<a href="/leaders/dr-anand-jeyasekharan/"><img src="/images/Leaders/anand-jeyasekharan.jpg"></a>
+				<div align="center"><b>Dr Anand Jeyasekharan</b></div>
+				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
+			</td>
+			<td width="25%"><!-- Table 2 -->
+				<a href="/leaders/dr-alexander-lezhava/"><img src="/images/Leaders/dr-alexandra-lezhava.jpg"></a>
+				<div align="center"><b>Dr Alexander Lezhava</b></div>
+				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
+			</td>
+			<td width="25%"><!-- Table 3 -->
+				<a href="/leaders/mr-seck-yee-kwang/"><img src="/images/Leaders/mr-seck-yee-kwang.jpg"></a>
+				<div align="center"><b>Mr Seck Yee Kwang</b></div>
+				<div align="center">Platform Lead, Business Intelligence &amp; Development Unit</div>
+			</td>
+			<td width="25%"><!-- Table 4 -->
+				<a href="/leaders/assoc-prof-tan-ker-kan/"><img src="/images/Leaders/tan-ker-kan.jpg"></a>
+				<div align="center"><b>Assoc Prof Tan Ker Kan</b></div>
+				<div align="center">Platform Lead,&nbsp;Impact &amp; Population Health</div>
+			</td>
+		</tr>
+		<!-- Sixth Row -->
+		<tr>
+			<td height="180" width="25%"><!-- Table 1 -->
+				<a href="/leaders/mr-clarence-khoo/"><img src="/images/Leaders/mr-clarence-khoo.jpg"></a>
+				<div align="center"><b>Mr Clarence Khoo</b></div>
+				<div align="center">Director of Operations and Strategy</div>
+			</td>
+	</tr></tbody>
 </table>
 
+---
 <br><br>
 <!--
-
+![](/images/Leaders/anand-jeyasekharan.jpg)![](/images/Leaders/dr-alexandra-lezhava.jpg)![](/images/Leaders/mr-seck-yee-kwang.jpg)![](/images/Leaders/tan-ker-kan.jpg)![](/images/Leaders/mr-clarence-khoo.jpg)
 -->
 
 
