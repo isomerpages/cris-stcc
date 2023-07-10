@@ -74,7 +74,7 @@ description: ""
 				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
 			</td>
 			<td width="25%"><!-- Table 2 -->
-				<a href="/leaders/assoc-prof-tan-ern-yu/"><img src="/images/Leaders/tan-ern-yu.jpg"></a>
+				<a href="/leaders/assoc-prof-tan-ern-yu/"><img style="height:100px" src="/images/Leaders/tan-ern-yu.jpg"></a>
 				<div align="center"><b>Assoc Prof Tan Ern Yu</b></div>
 				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
 			</td>
