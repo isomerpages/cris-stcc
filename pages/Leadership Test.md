@@ -39,10 +39,6 @@ description: ""
 				<div align="center"><b>Prof Goh Boon Cher</b></div>
 				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
 			</td>
-			<td width="25%"><!-- Table 1 -->
-				<a href="/leaders/dr-vincent-ho/"><img src="/images/Leaders/dr%20vicent%20ho.jpeg"></a>
-				<div align="center"><b>Dr Vincent Ho</b></div>
-			</td>
 		</tr>
 	</tbody>
 </table>
