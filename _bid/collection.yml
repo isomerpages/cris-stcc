@@ -2,4 +2,5 @@ collections:
   bid:
     output: true
     order:
+      - Platform Leads.md
       - Overview.md
