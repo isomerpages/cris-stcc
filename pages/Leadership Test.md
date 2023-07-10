@@ -3,10 +3,12 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
+
+
 <table>
 	<tbody>
 		<tr>
-			<td height="200" width="25%"><!-- Table 1 -->
+			<td height="180" width="25%"><!-- Table 1 -->
 				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
 				<div align="center"><b>Dr Benjamin Koh</b></div>
 				<div align="center"><b>(BOC Chair)</b></div>
@@ -26,7 +28,7 @@ description: ""
 		</tr>
 		<!-- Second Row -->
 		<tr>
-			<td height="200" width="25%"><!-- Table 1 -->
+			<td height="180" width="25%"><!-- Table 1 -->
 				<a href="/leaders/prof-william-hwang/"><img src="/images/Leaders/professor%20william%20hwang.jpg"></a>
 				<div align="center"><b>Prof William Hwang</b></div>
 			</td>
@@ -38,9 +40,30 @@ description: ""
 				<a href="/leaders/ms-elaine-teo/"><img src="/images/Leaders/ms%20elaine%20teo.jpg"></a>
 				<div align="center"><b>Ms. Elaine Teo</b></div>
 			</td>
-			<td height="200" width="25%"><!-- Table 4 -->
+			<td width="25%"><!-- Table 4 -->
 				<a href="/leaders/prof-ashok-venkitaraman/"><img src="/images/Leaders/professor%20ashok%20venkitaraman.jpg"></a>
-				<div align="center"><b>Prof Ashok&nbsp;Venkitaraman</b></div>
+				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
+			</td>
+		</tr>
+		
+		<!-- Third Row -->
+		<tr>
+			<td height="180" width="25%"><!-- Table 1 -->
+				<a href="/leaders/prof-chng-wee-joo/"><img src="/images/Leaders/prof%20chng%20wee%20joo.jpg"></a>
+				<div align="center"><b>Profess Chng Wee Joo</b></div>
+			</td>
+			<td width="25%"><!-- Table 2 -->
+				<a href="/leaders/prof-lim-soon-thye/"><img src="/images/Leaders/prof%20lim%20soon%20thye.jpg"></a>
+				<div align="center"><b>Prof Lim Soon Thye</b></div>
+			</td>
+			<td width="25%"><!-- Table 3 -->
+				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
+				<div align="center"><b>Prof Goh Boon Cher</b></div>
+				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
+			</td>
+			<td width="25%"><!-- Table 4 -->
+				<a href="/leaders/prof-ashok-venkitaraman/"><img src="/images/Leaders/professor%20ashok%20venkitaraman.jpg"></a>
+				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
 		</tr>
 	</tbody>
