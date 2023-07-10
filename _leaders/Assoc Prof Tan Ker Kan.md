@@ -3,7 +3,8 @@ title: Assoc Prof Tan Ker Kan
 permalink: /leaders/assoc-prof-tan-ker-kan/
 description: ""
 ---
-**Affiliations** 
+
+![](/images/Leaders/tan-ker-kan.jpg)**Affiliations** 
 
 * * *
 
