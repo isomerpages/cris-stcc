@@ -59,18 +59,14 @@ description: ""
 				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
 			</td>
 			<td width="25%"><!-- Table 4 -->
-				<a href="/leaders/prof-ashok-venkitaraman/"><img src="/images/Leaders/professor%20ashok%20venkitaraman.jpg"></a>
+				<a href="/leaders/assoc-prof-daniel-tan/"><img src="/images/Leaders/daniel-tan-shao-weng.jpg"></a>
+				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-
-				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
-				<div align="center"><b>Prof Goh Boon Cher</b></div>
-				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
-			
 
 
 
