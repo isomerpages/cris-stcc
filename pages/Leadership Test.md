@@ -3,7 +3,6 @@ title: Leadership Test
 permalink: /leadershiptest/
 description: ""
 ---
-
 <table>
 	<tbody>
 		<tr>
@@ -69,19 +68,22 @@ description: ""
 			<td height="180" width="25%"><!-- Table 1 -->
 				<a href="/leaders/dr-eng-chon-boon/"><img src="/images/Leaders/dr-eng-chon-boon.jpg"></a>
 				<div align="center"><b>Dr Eng Chon Boon</b></div>
+				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
 			</td>
 			<td width="25%"><!-- Table 2 -->
 				<a href="/leaders/assoc-prof-tan-ern-yu/"><img src="/images/Leaders/tan-ern-yu.jpg"></a>
 				<div align="center"><b>Assoc Prof Tan Ern Yu</b></div>
+				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
 			</td>
 			<td width="25%"><!-- Table 3 -->
 				<a href="/leaders/assoc-prof-iain-tan/"><img src="/images/Leaders/assoc-prof-tan-bee-huat.jpg"></a>
 				<div align="center"><b>Assoc Prof Iain Tan</b></div>
-				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
+				<div align="center">Platform Lead&nbsp;for&nbsp;Cancer Databases &amp; Tissue Banks &nbsp;&amp;&nbsp;Impact &amp; Population Health</div>
 			</td>
 			<td width="25%"><!-- Table 4 -->
 				<a href="/leaders/dr-jason-chan/"><img src="/images/Leaders/dr-jason-chan.jpg"></a>
 				<div align="center"><b>Dr Jason Chan</b></div>
+				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
 		</tr>
 	</tbody>
