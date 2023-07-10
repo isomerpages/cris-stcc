@@ -3,7 +3,8 @@ title: Assoc Prof Tan Ern Yu
 permalink: /leaders/assoc-prof-tan-ern-yu/
 description: ""
 ---
-**Affiliations** 
+
+![](/images/Leaders/tan-ern-yu.jpg)**Affiliations** 
 
 * * *
 
