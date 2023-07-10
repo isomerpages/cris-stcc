@@ -66,7 +66,7 @@ description: ""
 	</tbody>
 </table>
 
-
+<br><br>
 
 
 
@@ -111,30 +111,6 @@ description: ""
 				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
 				<div align="center"><b>Prof Goh Boon Cher</b></div>
 				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
-			</td>
-			<td>
-				<a href="/leaders/assoc-prof-daniel-tan/"><img src="/images/Leaders/daniel-tan-shao-weng.jpg"></a>
-				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
-			</td>
-			<td>
-				<a href="/leaders/assoc-prof-daniel-tan/"><img src="/images/Leaders/daniel-tan-shao-weng.jpg"></a>
-				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
-			</td>
-		</tr>
-		<!-- Third Row -->
-		<tr>
-			<td height="200" width="33%"><!-- Table 1 -->
-				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
-				<div align="center"><b>Dr Benjamin Koh</b></div>
-				<div align="center"><b>(BOC Chair)</b></div>
-			</td>
-			<td width="33%"><!-- Table 2 -->
-				<a href="/leaders/prof-chong-yap-seng/"><img src="/images/Leaders/prof-chong-yap-seng.png"></a>
-				<div align="center"><b>Prof Chong Yap Seng</b></div>
-			</td>
-			<td width="33%"><!-- Table 3 -->
-				<a href="/leaders/prof-barry-halliwell/"><img src="/images/Leaders/barry-halliwell__stcc.jpg"></a>
-				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
 		</tr>
 	</tbody>
