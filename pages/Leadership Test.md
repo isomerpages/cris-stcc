@@ -193,15 +193,15 @@ description: ""
 
 
 
-
+<!--
 
 
 <p>This is the second paragraph. It is also short and boring. Let's create a 
-link to the <a style="color: #3e3e3e" href="http://www.w3schools.com/tags/default.asp">
+link to the <a href="http://www.w3schools.com/tags/default.asp" style="color: #3e3e3e">
 HTML Quick Reference List</a></p>
 
 <p>This is the second paragraph. It is also short and boring. Let's create a 
-link to the <a style="color: #000000" href="http://www.w3schools.com/tags/default.asp">
+link to the <a href="http://www.w3schools.com/tags/default.asp" style="color: #000000">
 HTML Quick Reference List</a></p>
 
 [Benjamin Koh (BOC Chair)](/leaders/dr-benjamin-koh/)
@@ -216,6 +216,6 @@ HTML Quick Reference List</a></p>
 -->
 
 
+<!--
 
-
-| Title | Name | <div style="width:50px">property</div>|
+| Title | Name | <div style="width:50px">property</div>|-->
