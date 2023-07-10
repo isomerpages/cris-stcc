@@ -7,7 +7,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td height="180" width="25%"><!-- Table 1 -->
-				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
+				<a target="_blank" href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
 				<div align="center"><b>Dr Benjamin Koh</b></div>
 				<div align="center"><b>(BOC Chair)</b></div>
 			</td>
