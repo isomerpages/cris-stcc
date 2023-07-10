@@ -1,0 +1,4 @@
+collections:
+  tris:
+    output: true
+    order: []
