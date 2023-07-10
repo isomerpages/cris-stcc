@@ -1,4 +1,5 @@
 collections:
   tris:
     output: true
-    order: []
+    order:
+      - Overview.md
