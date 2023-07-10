@@ -2,6 +2,5 @@ collections:
   joint-platforms:
     output: true
     order:
-      - Joint Platforms.md
       - CCTIMU/.keep
       - CCTIMU/Overview.md
