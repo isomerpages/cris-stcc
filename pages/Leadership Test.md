@@ -48,10 +48,12 @@ description: ""
 			<td height="180" width="25%"><!-- Table 1 -->
 				<a href="/leaders/prof-chng-wee-joo/"><img src="/images/Leaders/prof%20chng%20wee%20joo.jpg"></a>
 				<div align="center"><b>Profess Chng Wee Joo</b></div>
+				<div align="center">Executive Director</div>
 			</td>
 			<td width="25%"><!-- Table 2 -->
 				<a href="/leaders/prof-lim-soon-thye/"><img src="/images/Leaders/prof%20lim%20soon%20thye.jpg"></a>
 				<div align="center"><b>Prof Lim Soon Thye</b></div>
+				<div align="center">Co-Director</div>
 			</td>
 			<td width="25%"><!-- Table 3 -->
 				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
