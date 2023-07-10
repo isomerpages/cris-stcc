@@ -18,9 +18,15 @@ Dr Koh is the Deputy Secretary (Development) in MOH. He oversees issues relating
 * * *
 
 ![Dr Benjamin Koh](/images/Leaders/dr%20benjamin%20koh.jpg)
+600px
 <img style="width:600px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+500px
 <img style="width:500px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+400px
 <img style="width:400px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+300px
 <img style="width:300px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+200px
 <img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+100px
 <img style="width:100px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
