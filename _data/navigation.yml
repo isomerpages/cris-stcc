@@ -5,7 +5,8 @@ links:
   - title: Leadership
     collection: leadership
   - title: Joint Platforms
-    collection: joint-platforms
+    url: /joint-platforms/overview/
+    sublinks: []
   - title: News & Updates
     resource_room: true
   - title: Collaborate
