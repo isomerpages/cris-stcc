@@ -1,4 +1,5 @@
 collections:
   cdtb:
     output: true
-    order: []
+    order:
+      - Overview.md
