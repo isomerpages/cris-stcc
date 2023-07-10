@@ -4,11 +4,6 @@ links:
     collection: about-us
   - title: Leadership
     collection: leadership
-  - title: Leadership test
-    url: /leadershiptest
-    sublinks:
-      - title: Leaders
-        url: /leaders/dr-benjamin-koh/
   - title: Joint Platforms
     collection: joint-platforms
   - title: News & Updates
