@@ -3,7 +3,6 @@ title: Overview
 permalink: /joint-platforms/overview/
 description: ""
 ---
-![](https://staging.devs1mdmyb7x0.amplifyapp.com/images/jointplatforms.jpeg)
 
 Joint Platforms
 ---------------
