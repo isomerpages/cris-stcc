@@ -3,7 +3,8 @@ title: Mr Clarence Khoo
 permalink: /leaders/mr-clarence-khoo/
 description: ""
 ---
-![](/images/Leadership/mrkhoo.jpeg)**Profile** 
+
+![](/images/Leaders/mr-clarence-khoo.jpg)**Profile** 
 
 * * *
 
