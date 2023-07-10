@@ -54,19 +54,3 @@ description: ""
 		</tr>		
 	</tbody>
 </table>
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-| ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) |
-| :--------: | :--------: | :--------: | :--------: |
-| **Prof Chong Yap Seng** | **Prof Barry Halliwell** | **Dr Vincent Ho** | **Prof William Hwang** |
