@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
-      - CCTIMU/.keep
-      - CCTIMU/Overview.md
-      - CCTIMU/Platform Leads.md
+      - Cancer Clinical Trials & IMUs/.keep
+      - Cancer Clinical Trials & IMUs/Overview.md
+      - Cancer Clinical Trials & IMUs/Platform Leads.md
       - CDTB/.keep
       - CDTB/Overview.md
       - CDTB/Platform Leads.md
