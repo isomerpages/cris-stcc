@@ -15,12 +15,12 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://form.gov.sg/64a39015b529c300125de2a6
+      - other: <a href="https://form.gov.sg/64a39015b529c300125de2a6"><ul>Click
+          here</ul></a>
     title: Inquiry Form
   - content:
       - phone: ""
       - email: career@cris.sg
       - other: <a href="https://cris.sg/careers">View available roles</a>
     title: Careers
-feedback: https://form.gov.sg/64a39015b529c300125de2a6
 ---
