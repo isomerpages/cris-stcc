@@ -27,17 +27,17 @@ description: ""
 		<!-- Second Row -->
 		<tr>
 			<td height="200" width="25%"><!-- Table 1 -->
-				<a href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
-				<div align="center"><b>Dr Benjamin Koh</b></div>
-				<div align="center"><b>(BOC Chair)</b></div>
+				<a href="/leaders/prof-william-hwang/"><img src="/images/Leaders/professor%20william%20hwang.jpg"></a>
+				<div align="center"><b>Prof William Hwang</b></div>
 			</td>
 			<td width="25%"><!-- Table 2 -->
-				<a href="/leaders/prof-chong-yap-seng/"><img src="/images/Leaders/prof-chong-yap-seng.png"></a>
-				<div align="center"><b>Prof Chong Yap Seng</b></div>
+				<a href="/leaders/prof-ng-huck-hui/"><img src="/images/Leaders/professor%20ng%20huck%20hui.jpg"></a>
+				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
-			<td width="25%"><!-- Table 3 -->
-				<a href="/leaders/prof-barry-halliwell/"><img src="/images/Leaders/barry-halliwell__stcc.jpg"></a>
-				<div align="center"><b>Prof Barry Halliwell</b></div>
+			<td width="25%">
+				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
+				<div align="center"><b>Prof Goh Boon Cher</b></div>
+				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
 			</td>
 			<td width="25%"><!-- Table 1 -->
 				<a href="/leaders/dr-vincent-ho/"><img src="/images/Leaders/dr%20vicent%20ho.jpeg"></a>
