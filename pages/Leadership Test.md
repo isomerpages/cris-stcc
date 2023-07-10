@@ -19,7 +19,7 @@ description: ""
 				<a href="/leaders/prof-barry-halliwell/"><img src="/images/Leaders/barry-halliwell__stcc.jpg"></a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
-			<td width="25%"><!-- Table 1 -->
+			<td width="25%"><!-- Table 4 -->
 				<a href="/leaders/dr-vincent-ho/"><img src="/images/Leaders/dr%20vicent%20ho.jpeg"></a>
 				<div align="center"><b>Dr Vincent Ho</b></div>
 			</td>
@@ -34,16 +34,23 @@ description: ""
 				<a href="/leaders/prof-ng-huck-hui/"><img src="/images/Leaders/professor%20ng%20huck%20hui.jpg"></a>
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
-			<td width="25%">
-				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
-				<div align="center"><b>Prof Goh Boon Cher</b></div>
-				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
+			<td width="25%"><!-- Table 3 -->
+				<a href="/leaders/ms-elaine-teo/"><img src="/images/Leaders/ms%20elaine%20teo.jpg"></a>
+				<div align="center"><b>Ms. Elaine Teo</b></div>
+			</td>
+			<td height="200" width="25%"><!-- Table 4 -->
+				<a href="/leaders/prof-ashok-venkitaraman/"><img src="/images/Leaders/professor%20ashok%20venkitaraman.jpg"></a>
+				<div align="center"><b>Prof Ashok&nbsp;Venkitaraman</b></div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 
+				<a href="/leaders/prof-goh-boon-cher/"><img src="/images/Leaders/prof-goh-boon-cher.jpg"></a>
+				<div align="center"><b>Prof Goh Boon Cher</b></div>
+				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
+			
 
 
 
