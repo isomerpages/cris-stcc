@@ -1,5 +1,4 @@
 collections:
   iph:
     output: true
-    order:
-      - Impact & Population Health.md
+    order: []
