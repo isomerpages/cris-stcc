@@ -18,3 +18,5 @@ In Phase 2, STCC aims to:
 *   Develop research translational peaks in selected areas.
 
 [Cancer Clinical Trials & Investigational Medicine Units](/cctimu/overview/)
+
+[Cancer Databases and Tissue Banks](/cdtb/overview)
