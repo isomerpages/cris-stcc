@@ -3,37 +3,30 @@ title: Board Oversight Committee
 permalink: /leadership/board-oversight-committee/
 description: ""
 ---
-| <div style="width:50px"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> | <div style="width:50px"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> | <div style="width:50px"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div>|
+<div align="center">  
+<img style="width:300px" src="/images/Leaders/dr%20benjamin%20koh.jpg">  
+
+<div align="center"><b>Dr Benjamin Koh</b></div>
+<div align="center"><b>(BOC Chair)</b></div>
+
+<br>
+
+| ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) |
+| :--------: | :--------: | :--------: | :--------: |
+| **Prof Chong Yap Seng** | **Prof Barry Halliwell** | **Dr Vincent Ho** | **Prof William Hwang** |
 
 
 
 
 
 
-
-| Title | Name | View More | Test |
-| :--------: | :--------: | -------- | -----|
-| ![](/images/Leaders/dr%20benjamin%20koh.jpg) |
-![](/images/Leaders/prof%20chong%20yap%20seng.png) |
-![](/images/Leaders/barry-halliwell__stcc.jpg) |
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| <div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> | <div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> | <div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div>|<div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> |
 
 
 
 
 
 
-
-
-
-
-![Board Oversight Committee Main](/images/Leadership/board%20oversight%20committee.png)
-
-
-
-
-
-![](/images/Leaders/dr%20benjamin%20koh.jpg)![](/images/Leaders/prof%20chong%20yap%20seng.png)![](/images/Leaders/barry-halliwell__stcc.jpg)![](/images/Leaders/dr%20vicent%20ho.jpeg)
-
-| Title | Name | View More |
-| -------- | -------- | -------- |
-| Dr     | Benjamin Koh (BOC Chair)     | [Click Here](/leaders/dr-benjamin-koh/)     |
+</div>
