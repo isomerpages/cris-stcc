@@ -21,6 +21,8 @@ In Phase 2, STCC aims to:
 
 <a target="_blank" href="/cdtb/overview">Cancer Databases and Tissue Banks</a>
 
+<!--
 [Cancer Clinical Trials &amp; Investigational Medicine Units](/cctimu/overview/)
 
 [Cancer Databases and Tissue Banks](/cdtb/overview)
+-->
