@@ -24,10 +24,3 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
-
-
-
-
-![Management Team Main](/images/Leadership/management%20team.png)
-
