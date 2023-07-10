@@ -9,24 +9,9 @@ description: ""
 <div align="center"><b>Dr Benjamin Koh</b></div>
 <div align="center"><b>(BOC Chair)</b></div>
 
-<br>
+<br><br>
 
 | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) | ![](/images/Leaders/dr%20benjamin%20koh.jpg) |
 | :--------: | :--------: | :--------: | :--------: |
 | **Prof Chong Yap Seng** | **Prof Barry Halliwell** | **Dr Vincent Ho** | **Prof William Hwang** |
-
-
-
-
-
-
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| -------- | -------- | -------- | -------- |
-| <div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> | <div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> | <div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div>|<div width="25%"> ![](/images/Leaders/dr%20benjamin%20koh.jpg)</div> |
-
-
-
-
-
-
 </div>
