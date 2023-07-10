@@ -1,5 +1,5 @@
 collections:
-  joint-platforms:
+  joint-platforms-2:
     output: true
     order:
       - Translational Research Integration & Support (TRIS).md
