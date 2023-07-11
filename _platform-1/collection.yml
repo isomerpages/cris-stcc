@@ -1,5 +1,5 @@
 collections:
-  platform-1-cctimu:
+  platform-1:
     output: true
     order:
       - Cancer Clinical Trials & Investigational Medicine Units.md
