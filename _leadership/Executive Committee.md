@@ -9,12 +9,12 @@ description: ""
 	<tbody>
 		<tr height="180">
 			<td width="25%">
-				<img src="/images/Leaders/prof%20chng%20wee%20joo.jpg">
+				<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
 				<div align="center"><b>Profess Chng Wee Joo</b></div>
 				<div align="center">Executive Director</div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/prof%20lim%20soon%20thye.jpg">
+				<img src="/images/Leaders/prof%20lim%20soon%20thye.png">
 				<div align="center"><b>Prof Lim Soon Thye</b></div>
 				<div align="center">Co-Director</div>
 			</td>
@@ -36,7 +36,7 @@ description: ""
 				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
 			</td>
 			<td width="25%"><!-- Table 2 -->
-				<img src="/images/Leaders/tan-ern-yu.jpg">
+				<img src="/images/Leaders/tan-ern-yu.png">
 				<div align="center"><b>Assoc Prof Tan Ern Yu</b></div>
 				<div align="center">Platform Lead, Cancer Databases &amp;Tissue Banks</div>
 			</td>
