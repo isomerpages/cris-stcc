@@ -30,7 +30,7 @@ description: ""
 			</td>
 		</tr>
 		<tr><!-- Second Row -->
-			<td width="25%"><!-- Table 1 -->
+			<td style="height:255px"><!-- Table 1 -->
 				<img src="/images/Leaders/dr-eng-chon-boon.jpg" style="height:255px">
 				<div align="center"><b>Dr Eng Chon Boon</b></div>
 				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
