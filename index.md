@@ -52,7 +52,7 @@ sections:
       description: The Cancer Clinical Trials and Investigational Medicine Units
         platform aims to drive impactful ...
       button: Learn more
-      url: /cctimu/overview/
+      url: /platform-1/overview/
       image: /images/Homepage/platforms-photo-cctmiu.png
       alt: CCTIMU
   - infopic:
@@ -61,7 +61,7 @@ sections:
       description: The Cancer Database and Tissue Banks Platform combines existing
         databases of the Singhealth and National University Health System ...
       button: Learn more
-      url: /cdtb/overview/
+      url: /platform-2/overview/
       image: /images/Homepage/cdtb jointplatform image.jpg
       alt: CDTB
   - infopic:
@@ -71,7 +71,7 @@ sections:
         offers potential solutions to several healthcare challenges in oncology
         by improving ...
       button: Learn More
-      url: /tris/overview/
+      url: /platform-3/overview/
       image: /images/Homepage/platforms-photo-tris.png
       alt: TRIS
   - infopic:
@@ -81,7 +81,7 @@ sections:
         dedicated business team for active industry engagements. This platform
         develops ...
       button: Learn More
-      url: /bid/overview/
+      url: /platform-4/overview/
       image: /images/Homepage/platforms-bid.jpg
       alt: BID
   - infopic:
@@ -91,7 +91,7 @@ sections:
         and assessment relevant to health impact to support policy change and
         implementation ...
       button: Learn More
-      url: /iph/overview/
+      url: /platform-5/overview/
       image: /images/Homepage/stcc-cancer-databases-and-tissue-banks.png
       alt: IMPH
   - resources:
