@@ -1,5 +1,5 @@
 collections:
-  cdtb:
+  platform-2:
     output: true
     order:
       - Overview.md
