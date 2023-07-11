@@ -46,7 +46,7 @@ description: ""
 				<div align="center">Platform Lead&nbsp;for&nbsp;Cancer Databases &amp; Tissue Banks &nbsp;&amp;&nbsp;Impact &amp; Population Health</div>
 			</td>
 			<td width="25%"><!-- Table 4 -->
-				<img src="/images/Leaders/dr-jason-chan.jpg">
+				<img src="/images/Leaders/dr-jason-chan.png">
 				<div align="center"><b>Dr Jason Chan</b></div>
 				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
