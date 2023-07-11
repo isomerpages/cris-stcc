@@ -3,31 +3,21 @@ title: Platform Leads
 permalink: /tris/platform-leads/
 description: ""
 ---
-[
-
-####   
-Dr Jason Chan
-
-
-
-](javascript:void(0);)
-
-[
-
-![Dr Anand Jeyasekharan](https://www.stcc.sg/wp-content/uploads/2022/02/Anand-Jeyasekharan-e1648110203948.jpg)
-
-#### Dr Anand Jeyasekharan
-
-
-
-](javascript:void(0);)
-
-[
-
-![Dr Alexander Lezhava](https://www.stcc.sg/wp-content/uploads/2022/02/dr-alexandra-lezhava.jpg)
-
-#### Dr Alexander Lezhava
-
-
-
-](javascript:void(0);)
+<table>
+	<tbody>
+		<tr>
+			<td width="25%">
+				<img style="width:200px" src="/images/Leaders/dr-jason-chan.jpg">
+				<div align="center"><b>Dr Jason Chan</b></div>
+			</td>
+			<td width="25%">
+				<img style="width:200px" src="/images/Leaders/anand-jeyasekharan.jpg">
+				<div align="center"><b>Dr Anand Jeyasekharan</b></div>
+			</td>
+			<td width="25%">
+				<img style="width:200px" src="/images/Leaders/dr-alexandra-lezhava.jpg">
+				<div align="center"><b>Dr Alexander Lezhava</b></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
