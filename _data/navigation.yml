@@ -6,19 +6,6 @@ links:
     collection: leadership
   - title: Joint Platforms
     collection: joint-platforms
-  - title: Joint Platforms Test
-    url: /joint-platforms/
-    sublinks:
-      - title: CCTIMU
-        url: /cctimu/overview/
-      - title: CDTB
-        url: /cdtb/overview/
-      - title: TRIS
-        url: /tris/overview/
-      - title: BID
-        url: /bid/overview
-      - title: IPH
-        url: /iph/overview
   - title: News & Updates
     resource_room: true
   - title: Collaborate
