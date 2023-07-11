@@ -24,7 +24,7 @@ description: ""
 	<tbody>
 		<tr height="180">
 			<td width="25%">
-				<img src="/images/Leaders/prof-chong-yap-seng.png">
+				<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
 			<td width="25%">
