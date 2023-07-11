@@ -3,32 +3,21 @@ title: Platform Leads
 permalink: /cdtb/platform-leads/
 description: ""
 ---
-[
-
-![Dr Eng Chon Boon](https://www.stcc.sg/wp-content/uploads/2022/03/dr-eng-chon-boon.jpg)
-
-#### Dr Eng Chon Boon
-
-
-
-](javascript:void(0);)
-
-[
-
-![Assoc Prof Tan Ern Yu](https://www.stcc.sg/wp-content/uploads/2023/06/Tan-Ern-Yu.jpg)
-
-#### Assoc Prof Tan Ern Yu
-
-
-
-](javascript:void(0);)
-
-[
-
-![Assoc Prof Iain Tan](https://www.stcc.sg/wp-content/uploads/2022/03/assoc-prof-tan-bee-huat-e1648108363770.jpg)
-
-#### Assoc Prof Iain Tan
-
-
-
-](javascript:void(0);)
+<table>
+	<tbody>
+		<tr>
+			<td width="25%">
+				<img style="width:200px" src="/images/Leaders/dr-eng-chon-boon.jpg">
+				<div align="center"><b>Dr Eng Chon Boonr</b></div>
+			</td>
+			<td width="25%">
+				<img style="width:200px" src="/images/Leaders/tan-ern-yu.jpg">
+				<div align="center"><b>Associate Professor Tan Ern Yu</b></div>
+			</td>
+			<td width="25%">
+				<img style="width:200px" src="/images/Leaders/assoc-prof-tan-bee-huat.jpg">
+				<div align="center"><b>Assoc. Professor Iain Tan</b></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
