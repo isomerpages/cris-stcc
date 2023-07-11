@@ -5,6 +5,8 @@ links:
   - title: Leadership
     collection: leadership
   - title: Joint Platforms
+    collection: joint-platforms
+  - title: Joint Platforms Test
     url: /joint-platforms/
     sublinks:
       - title: CCTIMU
