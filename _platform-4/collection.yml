@@ -1,5 +1,5 @@
 collections:
-  bid:
+  platform-4:
     output: true
     order:
       - Overview.md
