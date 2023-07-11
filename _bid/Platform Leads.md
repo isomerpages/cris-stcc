@@ -3,6 +3,8 @@ title: Platform Leads
 permalink: /bid/platform-leads/
 description: ""
 ---
+## Platform Lead
+
 <table>
 	<tbody>
 		<tr>
