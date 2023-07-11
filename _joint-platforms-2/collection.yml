@@ -2,9 +2,9 @@ collections:
   joint-platforms-2:
     output: true
     order:
-      - Impact & Population Health.md
-      - Translational Research Integration & Support (TRIS).md
-      - Business Intelligent and Development.md
       - Overview.md
       - Cancer Clinical Trials & Investigational Medicine Units.md
       - Cancer Databases and Tissue Banks.md
+      - Translational Research Integration & Support (TRIS).md
+      - Business Intelligent and Development.md
+      - Impact & Population Health.md
