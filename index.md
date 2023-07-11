@@ -53,7 +53,7 @@ sections:
         platform aims to drive impactful ...
       button: Learn more
       url: /cctimu/overview/
-      image: /images/Homepage/platforms-photo-cctmiu.jpg
+      image: /images/Homepage/platforms-photo-cctmiu.png
       alt: CCTIMU
   - infopic:
       title: Cancer Databases and Tissue Banks
@@ -72,7 +72,7 @@ sections:
         by improving ...
       button: Learn More
       url: /tris/overview/
-      image: /images/Homepage/platforms-photo-tris.jpg
+      image: /images/Homepage/platforms-photo-tris.png
       alt: TRIS
   - infopic:
       title: Business Intelligence & Development
@@ -92,7 +92,7 @@ sections:
         implementation ...
       button: Learn More
       url: /iph/overview/
-      image: /images/Homepage/stcc-cancer-databases-and-tissue-banks.jpg
+      image: /images/Homepage/stcc-cancer-databases-and-tissue-banks.png
       alt: IMPH
   - resources:
       title: Latest News
