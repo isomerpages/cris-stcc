@@ -9,7 +9,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td width="25%">
-				<img style="width:200px" src="/images/Leaders/dr-jason-chan.jpg">
+				<img style="width:200px" src="/images/Leaders/dr-jason-chan.png">
 				<div align="center"><b>Dr Jason Chan</b></div>
 			</td>
 			<td width="25%">
