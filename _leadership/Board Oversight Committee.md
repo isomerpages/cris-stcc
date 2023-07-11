@@ -3,6 +3,8 @@ title: Board Oversight Committee
 permalink: /leadership/board-oversight-committee/
 description: ""
 ---
+<p style="text-align:center"></p><h2>Board Oversight Committee</h2><p></p>
+
 <div align="center">
 	<img style="width:300px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
 </div>
