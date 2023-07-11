@@ -8,7 +8,7 @@ description: ""
 		<tr>
 			<td width="25%">
 				<img style="width:200px" src="/images/Leaders/dr-eng-chon-boon.jpg">
-				<div align="center"><b>Dr Eng Chon Boonr</b></div>
+				<div align="center"><b>Dr Eng Chon Boon</b></div>
 			</td>
 			<td width="25%">
 				<img style="width:200px" src="/images/Leaders/tan-ern-yu.jpg">
