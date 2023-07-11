@@ -15,7 +15,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://form.gov.sg/64a39015b529c300125de2a6">Click here</a>
+      - other: <a href="https://form.gov.sg/64a39015b529c300125de2a6"
+          target="”_blank”">Click here</a>
     title: Inquiry Form
   - content:
       - phone: ""
