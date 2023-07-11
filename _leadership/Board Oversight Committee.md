@@ -6,7 +6,7 @@ description: ""
 <div style="text-align:center"><h2>Board Oversight Committee</h2></div>
 
 <div align="center">
-	<img style="width:300px" src="/images/Leaders/dr%20benjamin%20koh.jpg">
+	<img style="width:300px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </div>
 
 <div align="center">
@@ -28,25 +28,25 @@ description: ""
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/barry-halliwell__stcc.jpg">
+				<img src="/images/Leaders/barry-halliwell__stcc.png">
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/dr%20vicent%20ho.jpeg">
+				<img src="/images/Leaders/dr%20vicent%20ho.png">
 				<div align="center"><b>Dr Vincent Ho</b></div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/professor%20william%20hwang.jpg">
+				<img src="/images/Leaders/professor%20william%20hwang.png">
 				<div align="center"><b>Prof William Hwang</b></div>
 			</td>
 		</tr>
 		<tr> <!-- Row 2 -->
 			<td width="25%">
-				<img src="/images/Leaders/professor%20ng%20huck%20hui.jpg">
+				<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/ms%20elaine%20teo.jpg">
+				<img src="/images/Leaders/ms%20elaine%20teo.png">
 				<div align="center"><b>Ms. Elaine Teo</b></div>
 			</td>
 			<td width="25%">
