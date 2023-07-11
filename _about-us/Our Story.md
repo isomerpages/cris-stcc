@@ -28,14 +28,14 @@ STCC Phase 2 will be a continued effort from Phase 1 to further develop and augm
 
 * * *
 
-[Cancer Clinical Trials &amp; Investigational Medicine Units](https://www.stcc.sg//joint-platform/cancer-clinical-trials-investigational-medicine-units/)
+<a target="_blank" href="/cctimu/overview/">Cancer Clinical Trials &amp; Investigational Medicine Units</a>
 
-[Cancer Databases &amp; Tissue Banks](https://www.stcc.sg//joint-platform/cancer-databases-and-tissue-banks/)
+<a target="_blank" href="/cdtb/overview">Cancer Databases and Tissue Banks</a>
 
-[Translational Research Integration &amp; Support](https://www.stcc.sg//joint-platform/translational-assays-and-models-platform/)
+<a target="_blank" href="/tris/overview">Translational Research Integration &amp; Support</a>
 
-[Business Intelligence &amp; Development](https://www.stcc.sg/joint-platforms/business-intelligence-development/)
+<a target="_blank" href="/bid/overview">Business Intelligence &amp; Development</a>
 
-[Impact &amp; Population Health](https://www.stcc.sg/joint-platforms/impact-population-health/)
+<a target="_blank" href="/iph/overview">Impact &amp; Population Health</a>
 
 ***
