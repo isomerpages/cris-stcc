@@ -3,6 +3,8 @@ title: Executive Committee
 permalink: /leadership/executive-committee/
 description: ""
 ---
+<div style="text-align:center"><h2>Executive Committee</h2></div>
+
 <table>
 	<tbody>
 		<tr height="180">
