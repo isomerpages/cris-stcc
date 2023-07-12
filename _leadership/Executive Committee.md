@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 	<tbody>
-		<tr height="400">
+		<tr height="350">
 			<td width="25%">
 				<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
 				<div align="center"><b>Prof Chng Wee Joo</b></div>
@@ -27,7 +27,7 @@ description: ""
 				<div align="center">Platform Lead, Cancer Clinical Trials &amp; IMUs</div>
 			</td>
 		</tr>
-		<tr><!-- Second Row -->
+		<tr height="350"><!-- Second Row -->
 			<td width="25%"><!-- Table 1 -->
 				<img src="/images/Leaders/dr-eng-chon-boon.png">
 				<div align="center"><b>Dr Eng Chon Boon</b></div>
@@ -49,7 +49,7 @@ description: ""
 				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
 		</tr>
-		<tr><!-- Third Row -->
+		<tr height="350"><!-- Third Row -->
 			<td width="25%"><!-- Table 1 -->
 				<img src="/images/Leaders/anand-jeyasekharan.png">
 				<div align="center"><b>Dr&nbsp;Anand Jeyasekharan</b></div>
