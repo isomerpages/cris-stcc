@@ -48,7 +48,7 @@ sections:
       url: /joint-platforms/overview/
   - infopic:
       title: Cancer Clinical Trials & Investigational Medicine Units
-      subtitle: Joint Platforms 1
+      subtitle: Joint Platform 1
       description: The Cancer Clinical Trials and Investigational Medicine Units
         platform aims to drive impactful ...
       button: Learn more
@@ -57,7 +57,7 @@ sections:
       alt: CCTIMU
   - infopic:
       title: Cancer Databases and Tissue Banks
-      subtitle: Joint Platforms 2
+      subtitle: Joint Platform 2
       description: The Cancer Database and Tissue Banks Platform combines existing
         databases of the Singhealth and National University Health System ...
       button: Learn more
@@ -66,7 +66,7 @@ sections:
       alt: CDTB
   - infopic:
       title: Translational Research Integration & Support (TRIS)
-      subtitle: Joint Platforms 3
+      subtitle: Joint Platform 3
       description: The Translational Research Integration & Support (TRIS) platform
         offers potential solutions to several healthcare challenges in oncology
         by improving ...
@@ -76,7 +76,7 @@ sections:
       alt: TRIS
   - infopic:
       title: Business Intelligence & Development
-      subtitle: Joint Platforms 4
+      subtitle: Joint Platform 4
       description: The Business Intelligence and Development platform serves as STCC’s
         dedicated business team for active industry engagements. This platform
         develops ...
@@ -86,7 +86,7 @@ sections:
       alt: BID
   - infopic:
       title: Impact & Population Health
-      subtitle: Joint Platforms 5
+      subtitle: Joint Platform 5
       description: Impact & Population Health platform aims to support data generation
         and assessment relevant to health impact to support policy change and
         implementation ...
