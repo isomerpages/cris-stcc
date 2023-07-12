@@ -65,7 +65,7 @@ sections:
       image: /images/Homepage/platform 2 cover.png
       alt: CDTB
   - infopic:
-      title: Translational Research Integration & Support (TRIS)
+      title: Translational Research Integration & Support
       subtitle: Joint Platform 3
       description: The Translational Research Integration & Support (TRIS) platform
         offers potential solutions to several healthcare challenges in oncology
