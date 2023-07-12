@@ -23,6 +23,8 @@ description: ""
 				<div align="center"><b>Mr Clarence Khoo</b></div>
 				<div align="center">Director of Operations and Strategy</div>
 			</td>
+			<td>
+			</td>
 		</tr>
 	</tbody>
 </table>
