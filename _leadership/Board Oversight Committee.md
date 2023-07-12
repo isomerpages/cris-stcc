@@ -3,8 +3,6 @@ title: Board Oversight Committee
 permalink: /leadership/board-oversight-committee/
 description: ""
 ---
-
-
 <div align="center">
 	<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </div>
@@ -22,7 +20,7 @@ description: ""
 
 <table>
 	<tbody>
-		<tr height="180">
+		<tr height="250">
 			<td width="25%">
 				<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
