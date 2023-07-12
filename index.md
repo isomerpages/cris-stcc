@@ -62,7 +62,7 @@ sections:
         databases of the Singhealth and National University Health System ...
       button: Learn more
       url: /platform-2/overview/
-      image: /images/Homepage/cdtb jointplatform image.jpg
+      image: /images/Homepage/platform 2 cover.png
       alt: CDTB
   - infopic:
       title: Translational Research Integration & Support (TRIS)
@@ -82,7 +82,7 @@ sections:
         develops ...
       button: Learn More
       url: /platform-4/overview/
-      image: /images/Homepage/platforms-bid.jpg
+      image: /images/Homepage/platform 4 cover.png
       alt: BID
   - infopic:
       title: Impact & Population Health
