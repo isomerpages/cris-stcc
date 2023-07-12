@@ -3,8 +3,6 @@ title: Management Team
 permalink: /leadership/management-team/
 description: ""
 ---
-<div style="text-align:center"><h2>Management Team</h2></div>
-
 <table>
 	<tbody>
 		<tr>
