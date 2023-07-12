@@ -20,7 +20,7 @@ description: ""
 
 <table>
 	<tbody>
-		<tr height="250">
+		<tr height="220">
 			<td width="25%">
 				<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
