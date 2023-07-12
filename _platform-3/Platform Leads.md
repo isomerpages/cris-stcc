@@ -3,8 +3,6 @@ title: Platform Leads
 permalink: /platform-3/platform-leads/
 description: ""
 ---
-## Platform Leads
-
 <table>
 	<tbody>
 		<tr>
@@ -19,6 +17,8 @@ description: ""
 			<td width="25%">
 				<img style="width:200px" src="/images/Leaders/dr-alexandra-lezhava.png">
 				<div align="center"><b>Dr Alexander Lezhava</b></div>
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>
