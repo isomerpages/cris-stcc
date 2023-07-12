@@ -19,7 +19,7 @@ description: ""
 				<div align="center">Co-Director</div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/mr-clarence-khoo.jpg">
+				<img src="/images/Leaders/mr-clarence-khoo.png">
 				<div align="center"><b>Mr Clarence Khoo</b></div>
 				<div align="center">Director of Operations and Strategy</div>
 			</td>
