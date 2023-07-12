@@ -19,19 +19,19 @@ description: ""
 				<div align="center">Co-Director</div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/prof-goh-boon-cher.jpg">
+				<img src="/images/Leaders/prof-goh-boon-cher.png">
 				<div align="center"><b>Prof Goh Boon Cher</b></div>
 				<div align="center">Platform Lead, Cancer Clinical Trials and IMUs</div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/daniel-tan-shao-weng.jpg">
+				<img src="/images/Leaders/daniel-tan-shao-weng.png">
 				<div align="center"><b>Assoc Prof Daniel Tan</b></div>
 				<div align="center">Platform Lead, Cancer Clinical Trials &amp; IMUs</div>
 			</td>
 		</tr>
 		<tr><!-- Second Row -->
 			<td width="25%"><!-- Table 1 -->
-				<img src="/images/Leaders/dr-eng-chon-boon.jpg">
+				<img src="/images/Leaders/dr-eng-chon-boon.png">
 				<div align="center"><b>Dr Eng Chon Boon</b></div>
 				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
 			</td>
@@ -41,7 +41,7 @@ description: ""
 				<div align="center">Platform Lead, Cancer Databases &amp;Tissue Banks</div>
 			</td>
 			<td width="25%"><!-- Table 3 -->
-				<img src="/images/Leaders/assoc-prof-tan-bee-huat.jpg">
+				<img src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 				<div align="center"><b>Assoc Prof Iain Tan</b></div>
 				<div align="center">Platform Lead&nbsp;for&nbsp;Cancer Databases &amp; Tissue Banks &nbsp;&amp;&nbsp;Impact &amp; Population Health</div>
 			</td>
