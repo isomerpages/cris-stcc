@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 	<tbody>
-		<tr height="180">
+		<tr height="400">
 			<td width="25%">
 				<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
 				<div align="center"><b>Prof Chng Wee Joo</b></div>
