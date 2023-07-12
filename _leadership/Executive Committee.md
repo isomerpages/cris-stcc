@@ -8,7 +8,7 @@ description: ""
 		<tr height="180">
 			<td width="25%">
 				<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
-				<div align="center"><b>Profess Chng Wee Joo</b></div>
+				<div align="center"><b>Prof Chng Wee Joo</b></div>
 				<div align="center">Executive Director</div>
 			</td>
 			<td width="25%">
