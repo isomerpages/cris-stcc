@@ -7,8 +7,8 @@ description: ""
 	<tbody>
 		<tr>
 			<td width="25%">
-				<img style="width:200px" src="/images/Leaders/tan-ker-kan.png">
-				<div align="center"><b>Assoc Prof Tan Ker Kan</b></div>
+				<img src="/images/Leaders/mr-seck-yee-kwang.png">
+				<div align="center"><b>Mr Seck Yee Kwang</b></div>
 			</td>
 			<td>
 			</td>
