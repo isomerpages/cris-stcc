@@ -50,7 +50,7 @@ description: ""
 				<div align="center"><b>Ms. Elaine Teo</b></div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/professor%20ashok%20venkitaraman.jpg">
+				<img src="/images/Leaders/professor%20ashok%20venkitaraman.png">
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
 		</tr>		
