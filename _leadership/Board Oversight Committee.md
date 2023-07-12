@@ -6,22 +6,18 @@ description: ""
 <div align="center">
 	<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </div>
-
 <div align="center">
 	<b>Dr Benjamin Koh</b>
 </div>
-
 <div align="center">
 	<b>(BOC Chair)</b>
 </div>
-	
-<br>
 
 ---
 
 <table>
 	<tbody>
-		<tr height="300">
+		<tr height="500">
 			<td width="25%">
 				<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
