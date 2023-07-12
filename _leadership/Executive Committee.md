@@ -49,5 +49,27 @@ description: ""
 				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
 		</tr>
+		<tr><!-- Third Row -->
+			<td width="25%"><!-- Table 1 -->
+				<img src="/images/Leaders/anand-jeyasekharan.png">
+				<div align="center"><b>Dr&nbsp;Anand Jeyasekharan</b></div>
+				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
+			</td>
+			<td width="25%"><!-- Table 2 -->
+				<img src="/images/Leaders/dr-alexandra-lezhava.png">
+				<div align="center"><b>Dr Alexander Lezhava</b></div>
+				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
+			</td>
+			<td width="25%"><!-- Table 3 -->
+				<img src="/images/Leaders/mr-seck-yee-kwang.png">
+				<div align="center"><b>Mr Seck Yee Kwang</b></div>
+				<div align="center">Platform Lead, Business Intelligence &amp; Development</div>
+			</td>
+			<td width="25%"><!-- Table 4 -->
+				<img src="/images/Leaders/tan-ker-kan.png">
+				<div align="center"><b>Assoc Prof Tan Ker Kan</b></div>
+				<div align="center">Platform Lead,&nbsp;Impact &amp; Population Health</div>
+			</td>
+		</tr>
 	</tbody>
 </table>
