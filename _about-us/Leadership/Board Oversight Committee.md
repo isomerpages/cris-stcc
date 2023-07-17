@@ -29,7 +29,9 @@ third_nav_title: Leadership
 	<tbody>
 		<tr height="350">
 			<td width="25%">
-				<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
+				<a href="/leaders/prof-chong-yap-seng/">
+					<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
+				</a>
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
 			<td width="25%">
