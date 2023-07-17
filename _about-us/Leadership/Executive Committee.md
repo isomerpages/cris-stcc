@@ -68,22 +68,30 @@ third_nav_title: Leadership
 		</tr>
 		<tr height="350"><!-- Third Row -->
 			<td width="25%"><!-- Table 1 -->
-				<img src="/images/Leaders/anand-jeyasekharan.png">
+				<a href="/leaders/dr-anand-jeyasekharan/">
+					<img src="/images/Leaders/anand-jeyasekharan.png">
+				</a>
 				<div align="center"><b>Dr&nbsp;Anand Jeyasekharan</b></div>
 				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
 			<td width="25%"><!-- Table 2 -->
-				<img src="/images/Leaders/dr-alexandra-lezhava.png">
+				<a href="/leaders/dr-alexander-lezhava/">
+					<img src="/images/Leaders/dr-alexandra-lezhava.png">
+				</a>
 				<div align="center"><b>Dr Alexander Lezhava</b></div>
 				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
 			</td>
 			<td width="25%"><!-- Table 3 -->
-				<img src="/images/Leaders/mr-seck-yee-kwang.png">
+				<a href="/leaders/mr-seck-yee-kwang/">
+					<img src="/images/Leaders/mr-seck-yee-kwang.png">
+				</a>
 				<div align="center"><b>Mr Seck Yee Kwang</b></div>
 				<div align="center">Platform Lead, Business Intelligence &amp; Development</div>
 			</td>
 			<td width="25%"><!-- Table 4 -->
-				<img src="/images/Leaders/tan-ker-kan.png">
+				<a href="/leaders/assoc-prof-tan-ker-kan/">
+					<img src="/images/Leaders/tan-ker-kan.png">
+				</a>
 				<div align="center"><b>Assoc Prof Tan Ker Kan</b></div>
 				<div align="center">Platform Lead,&nbsp;Impact &amp; Population Health</div>
 			</td>
