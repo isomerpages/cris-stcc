@@ -3,20 +3,21 @@ title: Assoc Prof Tan Ker Kan
 permalink: /leaders/assoc-prof-tan-ker-kan/
 description: ""
 ---
+<img style="width:400px" src="/images/Leaders/tan-ker-kan..png">
 
-![](/images/Leaders/tan-ker-kan.jpg)**Affiliations** 
+**Affiliations**&nbsp;
 
 * * *
 
-Platform Lead, Impact & Population Health, Singapore Translational Cancer Consortium;
+Platform Lead,&nbsp;Impact &amp; Population Health, Singapore Translational Cancer Consortium;
 
-Head & Senior Consultant, Division of Colorectal Surgery, Department of Surgery, National University Hospital;
+Head &amp; Senior Consultant, Division of Colorectal Surgery, Department of Surgery, National University Hospital;
 
 Senior Consultant, Division of Surgical Oncology, National University Cancer Institute, Singapore;
 
 Associate Professor, Department of Surgery, Yong Loo Lin School of Medicine, National University of Singapore
 
-**Profile** 
+**Profile**&nbsp;
 
 * * *
 
