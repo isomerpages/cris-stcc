@@ -8,7 +8,7 @@ description: ""
 **Profile**&nbsp;
 
 * * *
-&gt;###### BSc. Pharmacy (Hons.), MSc. (Pharmacy), M. (Public Management)
+BSc. Pharmacy (Hons.), MSc. (Pharmacy), M. (Public Management)
 
 Ms Elaine Teo is the Director, Aged and Ancillary Services Regulation, and Regulatory Transformation in the Health Regulation Group, Ministry of Health, Singapore.&nbsp;
 
