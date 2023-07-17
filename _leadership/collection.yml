@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Example Title.md
-      - Executive Committee.md
       - Management Team.md
