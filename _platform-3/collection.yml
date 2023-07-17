@@ -2,5 +2,5 @@ collections:
   platform-3:
     output: true
     order:
-      - Overview.md
+      - Translational Research Integration & Support.md
       - Platform Leads.md
