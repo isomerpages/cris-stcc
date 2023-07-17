@@ -7,7 +7,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td height="180" width="25%"><!-- Table 1 -->
-				<a target="_blank" href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.jpg"></a>
+				<a target="_blank" href="/leaders/dr-benjamin-koh/"><img src="/images/Leaders/dr%20benjamin%20koh.png"></a>
 				<div align="center"><b>Dr Benjamin Koh</b></div>
 				<div align="center"><b>(BOC Chair)</b></div>
 			</td>
@@ -16,30 +16,30 @@ description: ""
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
 			<td width="25%"><!-- Table 3 -->
-				<a href="/leaders/prof-barry-halliwell/"><img src="/images/Leaders/barry-halliwell__stcc.jpg"></a>
+				<a href="/leaders/prof-barry-halliwell/"><img src="/images/Leaders/barry-halliwell__stcc.png"></a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
 			<td width="25%"><!-- Table 4 -->
-				<a href="/leaders/dr-vincent-ho/"><img src="/images/Leaders/dr%20vicent%20ho.jpeg"></a>
+				<a href="/leaders/dr-vincent-ho/"><img src="/images/Leaders/dr%20vicent%20ho.png"></a>
 				<div align="center"><b>Dr Vincent Ho</b></div>
 			</td>
 		</tr>
 		<!-- Second Row -->
 		<tr>
 			<td height="180" width="25%"><!-- Table 1 -->
-				<a href="/leaders/prof-william-hwang/"><img src="/images/Leaders/professor%20william%20hwang.jpg"></a>
+				<a href="/leaders/prof-william-hwang/"><img src="/images/Leaders/professor%20william%20hwang.png"></a>
 				<div align="center"><b>Prof William Hwang</b></div>
 			</td>
 			<td width="25%"><!-- Table 2 -->
-				<a href="/leaders/prof-ng-huck-hui/"><img src="/images/Leaders/professor%20ng%20huck%20hui.jpg"></a>
+				<a href="/leaders/prof-ng-huck-hui/"><img src="/images/Leaders/professor%20ng%20huck%20hui.png"></a>
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
 			<td width="25%"><!-- Table 3 -->
-				<a href="/leaders/ms-elaine-teo/"><img src="/images/Leaders/ms%20elaine%20teo.jpg"></a>
+				<a href="/leaders/ms-elaine-teo/"><img src="/images/Leaders/ms%20elaine%20teo.png"></a>
 				<div align="center"><b>Ms. Elaine Teo</b></div>
 			</td>
 			<td width="25%"><!-- Table 4 -->
-				<a href="/leaders/prof-ashok-venkitaraman/"><img src="/images/Leaders/professor%20ashok%20venkitaraman.jpg"></a>
+				<a href="/leaders/prof-ashok-venkitaraman/"><img src="/images/Leaders/professor%20ashok%20venkitaraman.png"></a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
 		</tr>		
