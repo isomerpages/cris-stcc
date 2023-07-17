@@ -3,7 +3,7 @@ title: Dr Vincent Ho
 permalink: /leaders/dr-vincent-ho/
 description: ""
 ---
-<img style="width:500px" src="/images/Leaders/dr%20vicent%20ho.png">
+<img style="width:400px" src="/images/Leaders/dr%20vicent%20ho.png">
 
 **Profile**&nbsp;
 
