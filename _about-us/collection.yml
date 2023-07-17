@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Leadership/Executive Committee.md
       - Leadership/Board Oversight Committee.md
       - Leadership/.keep
       - Our Story.md
