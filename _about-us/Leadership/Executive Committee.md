@@ -8,12 +8,16 @@ third_nav_title: Leadership
 	<tbody>
 		<tr height="350">
 			<td width="25%">
-				<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
+				<a href="/leaders/prof-chng-wee-joo/">
+					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
+				</a>
 				<div align="center"><b>Prof Chng Wee Joo</b></div>
 				<div align="center">Executive Director</div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/prof%20lim%20soon%20thye.png">
+				<a href="/leaders/prof-lim-soon-thye/">
+					<img src="/images/Leaders/prof%20lim%20soon%20thye.png">
+				</a>
 				<div align="center"><b>Prof Lim Soon Thye</b></div>
 				<div align="center">Co-Director</div>
 			</td>
