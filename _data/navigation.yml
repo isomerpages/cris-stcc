@@ -8,9 +8,5 @@ links:
     collection: joint-platforms
   - title: News & Updates
     resource_room: true
-  - title: Collaborate
-    url: /collaborate
   - title: Contact Us
     url: /contact-us
-  - title: Leadership Test
-    url: /leadershiptest/
