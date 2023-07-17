@@ -2,5 +2,5 @@ collections:
   platform-4:
     output: true
     order:
-      - Overview.md
+      - Business Intelligence & Development.md
       - Platform Leads.md
