@@ -1,5 +1,5 @@
 collections:
-  leaders-test:
+  leader-test:
     output: true
     order:
       - Dr Benjamin Koh (BOC Chair).md
