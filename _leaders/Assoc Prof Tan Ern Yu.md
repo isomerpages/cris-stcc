@@ -5,6 +5,8 @@ description: ""
 ---
 <img style="width:400px" src="/images/Leaders/tan-ern-yu.png">
 
+**Affiliations**
+
 * * *
 
 Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational Cancer Consortium;
