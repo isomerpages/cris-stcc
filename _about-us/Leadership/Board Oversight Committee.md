@@ -55,15 +55,21 @@ third_nav_title: Leadership
 		</tr>
 		<tr> <!-- Row 2 -->
 			<td width="25%">
-				<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
+				<a href="/leaders/prof-ng-huck-hui/">
+					<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
+				</a>
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/ms%20elaine%20teo.png">
+				<a href="/leaders/ms-elaine-teo/">
+					<img src="/images/Leaders/ms%20elaine%20teo.png">
+				</a>
 				<div align="center"><b>Ms. Elaine Teo</b></div>
 			</td>
 			<td width="25%">
-				<img src="/images/Leaders/professor%20ashok%20venkitaraman.png">
+				<a href="/leaders/prof-ashok-venkitaraman/">
+					<img src="/images/Leaders/professor%20ashok%20venkitaraman.png">
+				</a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
 		</tr>		
