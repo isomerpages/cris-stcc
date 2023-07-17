@@ -7,4 +7,4 @@ Impact &amp; Population Health platform aims to support data generation and asse
 
 This platform will actively engage, partner, or tap on existing expertise and resources from the local ecosystem, such as CRIS sister business units, academic institutions like Saw Swee Hock School of Public Health, and MOH agencies, with the eventual goals to enhance quality of care and reduce cost of cancer care in Singapore.
 
-<a target="_blank" href="/platform-5/overview/">Find out more about our capabilities and platform leads</a>
+<a target="_blank" href="/platform-5/impact-population-health/">Find out more about our capabilities and platform leads</a>
