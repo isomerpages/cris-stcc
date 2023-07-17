@@ -5,6 +5,8 @@ description: ""
 ---
 <img style="width:400px" src="/images/Leaders/prof%20lim%20soon%20thye.png">
 
+**Affiliations**
+
 * * *
 
 Co-Director, Singapore Translational Cancer Consortium;&nbsp;
