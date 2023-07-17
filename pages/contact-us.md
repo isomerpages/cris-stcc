@@ -16,8 +16,8 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a href="https://form.gov.sg/64af78bb7075fe00114ad913"
-          target="”_blank”">Click here</a>
-    title: Enquiry Form
+          target="”_blank”">Fill in this form</a>
+    title: For Enquries
   - content:
       - phone: ""
       - email: career@cris.sg
