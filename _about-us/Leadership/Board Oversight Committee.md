@@ -4,14 +4,21 @@ permalink: /leadership/board-oversight-committee/
 description: ""
 third_nav_title: Leadership
 ---
+<div align="left">
+	<h4>Chairman</h4>
+</div>
+
+--- 
+
 <div align="center">
 	<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 </div>
 <div align="center">
 	<b>Dr Benjamin Koh</b>
 </div>
-<div align="center">
-	<b>(BOC Chair)</b>
+
+<div align="left">
+	<h4>Members</h4>
 </div>
 
 ---
