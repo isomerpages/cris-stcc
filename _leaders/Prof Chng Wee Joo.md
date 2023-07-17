@@ -5,6 +5,7 @@ description: ""
 ---
 <img style="width:400px" src="/images/Leaders/prof%20chng%20wee%20joo.png">
 
+**Affiliations**
 
 * * *
 
