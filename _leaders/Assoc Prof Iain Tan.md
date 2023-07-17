@@ -5,6 +5,8 @@ description: ""
 ---
 <img style="width:400px" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 
+**Affiliations**
+
 * * *
 
 Platform Lead&nbsp; for&nbsp;Cancer Databases &amp; Tissue Banks, &amp;&nbsp;Impact &amp; Population Health,&nbsp;Singapore Translational Cancer Consortium;&nbsp;
