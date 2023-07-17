@@ -1,5 +1,0 @@
-collections:
-  leadership:
-    output: true
-    order:
-      - Example Title.md
