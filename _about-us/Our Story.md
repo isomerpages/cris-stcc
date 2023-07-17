@@ -26,14 +26,14 @@ STCC Phase 2 will be a continued effort from Phase 1 to further develop and augm
 
 * * *
 
-<a target="_blank" href="/platform-1/overview/">Cancer Clinical Trials &amp; Investigational Medicine Units</a>
+<a target="_blank" href="/platform-1/cancer-clinical-trials-and-investigational-medicine-units/">Cancer Clinical Trials &amp; Investigational Medicine Units</a>
 
-<a target="_blank" href="/platform-2/overview">Cancer Databases and Tissue Banks</a>
+<a target="_blank" href="/platform-2/cancer-databases-and-tissue-banks/">Cancer Databases and Tissue Banks</a>
 
-<a target="_blank" href="/platform-3/overview">Translational Research Integration &amp; Support</a>
+<a target="_blank" href="/platform-3/translational-research-integration-support/">Translational Research Integration &amp; Support</a>
 
-<a target="_blank" href="/platform-4/overview">Business Intelligence &amp; Development</a>
+<a target="_blank" href="/platform-4/business-intelligence-development/">Business Intelligence &amp; Development</a>
 
-<a target="_blank" href="/platform-5/overview">Impact &amp; Population Health</a>
+<a target="_blank" href="/platform-5/impact-population-health/">Impact &amp; Population Health</a>
 
 ***
