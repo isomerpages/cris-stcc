@@ -2,5 +2,5 @@ collections:
   platform-2:
     output: true
     order:
-      - Overview.md
+      - Cancer Databases and Tissue Banks.md
       - Platform Leads.md
