@@ -5,6 +5,8 @@ description: ""
 ---
 <img style="width:400px" src="/images/Leaders/dr-eng-chon-boon.png">
 
+**Affiliations**
+
 * * *
 
 Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational Cancer Consortium&nbsp;
