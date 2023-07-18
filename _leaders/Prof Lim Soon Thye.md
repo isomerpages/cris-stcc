@@ -3,7 +3,7 @@ title: Prof Lim Soon Thye
 permalink: /leaders/prof-lim-soon-thye/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/prof%20lim%20soon%20thye.png">
+<img style="width:350px" src="/images/Leaders/prof%20lim%20soon%20thye.png">
 
 **Affiliations**
 
