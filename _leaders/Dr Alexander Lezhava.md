@@ -3,7 +3,7 @@ title: Dr Alexander Lezhava
 permalink: /leaders/dr-alexander-lezhava/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/dr-alexandra-lezhava.png">
+<img style="width:350px" src="/images/Leaders/dr-alexandra-lezhava.png">
 
 **Affiliations**
 
