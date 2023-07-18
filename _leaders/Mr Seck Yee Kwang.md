@@ -3,7 +3,7 @@ title: Mr Seck Yee Kwang
 permalink: /leaders/mr-seck-yee-kwang/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/mr-seck-yee-kwang.png">
+<img style="width:350px" src="/images/Leaders/mr-seck-yee-kwang.png">
 
 Platform Lead, Business Intelligence &amp; Development, Singapore Translational Cancer Consortium;&nbsp;
 
