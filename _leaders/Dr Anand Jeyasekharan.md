@@ -3,7 +3,7 @@ title: Dr Anand Jeyasekharan
 permalink: /leaders/dr-anand-jeyasekharan/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/anand-jeyasekharan.png">
+<img style="width:350px" src="/images/Leaders/anand-jeyasekharan.png">
 
 **Affiliations**
 
