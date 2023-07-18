@@ -7,15 +7,21 @@ description: ""
 	<tbody>
 		<tr>
 			<td width="25%">
-				<img style="width:200px" src="/images/Leaders/dr-jason-chan.png">
+				<a href="/leaders/dr-jason-chan/">
+					<img style="width:200px" src="/images/Leaders/dr-jason-chan.png">
+				</a>
 				<div align="center"><b>Dr Jason Chan</b></div>
 			</td>
 			<td width="25%">
-				<img style="width:200px" src="/images/Leaders/anand-jeyasekharan.png">
+				<a href="/leaders/dr-anand-jeyasekharan/">
+					<img style="width:200px" src="/images/Leaders/anand-jeyasekharan.png">
+				</a>
 				<div align="center"><b>Dr Anand Jeyasekharan</b></div>
 			</td>
 			<td width="25%">
-				<img style="width:200px" src="/images/Leaders/dr-alexandra-lezhava.png">
+				<a href="/leaders/dr-alexander-lezhava/">
+					<img style="width:200px" src="/images/Leaders/dr-alexandra-lezhava.png">
+				</a>
 				<div align="center"><b>Dr Alexander Lezhava</b></div>
 			</td>
 			<td>
