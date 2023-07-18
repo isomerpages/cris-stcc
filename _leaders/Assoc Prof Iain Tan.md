@@ -3,7 +3,7 @@ title: Assoc Prof Iain Tan
 permalink: /leaders/assoc-prof-iain-tan/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
+<img style="width:350px" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 
 **Affiliations**
 
