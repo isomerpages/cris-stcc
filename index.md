@@ -77,7 +77,7 @@ sections:
         dedicated business team for active industry engagements. This platform
         develops ...
       button: Learn More
-      url: " /platform-4/business-intelligence-development/"
+      url: /platform-4/business-intelligence-development/
       image: /images/Homepage/platform 4 cover.png
       alt: BID
   - infopic:
@@ -92,11 +92,4 @@ sections:
   - resources:
       title: Latest News
       button: View More
-  - infobar:
-      title: Collaborate with Us
-      description: We partner with key stakeholders and institutions to implement
-        joint platforms that are functionally integrated and operational in
-        support of the nation's ...
-      button: FIND OUT MORE
-      url: /collaborate
 ---
