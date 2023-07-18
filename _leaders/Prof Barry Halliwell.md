@@ -3,7 +3,7 @@ title: Prof Barry Halliwell
 permalink: /leaders/prof-barry-halliwell/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/barry-halliwell__stcc.png">
+<img style="width:350px" src="/images/Leaders/barry-halliwell__stcc.png">
 
 **Profile**&nbsp;
 
