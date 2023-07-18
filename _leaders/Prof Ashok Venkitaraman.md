@@ -3,7 +3,7 @@ title: Prof Ashok Venkitaraman
 permalink: /leaders/prof-ashok-venkitaraman/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/professor%20ashok%20venkitaraman.png">
+<img style="width:350px" src="/images/Leaders/professor%20ashok%20venkitaraman.png">
 
 **Profile**&nbsp;
 
