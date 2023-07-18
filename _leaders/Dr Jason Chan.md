@@ -3,7 +3,7 @@ title: Dr Jason Chan
 permalink: /leaders/dr-jason-chan/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/dr-jason-chan.png">
+<img style="width:350px" src="/images/Leaders/dr-jason-chan.png">
 
 **Affiliations**
 
