@@ -3,7 +3,7 @@ title: Ms Elaine Teo
 permalink: /leaders/ms-elaine-teo/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/ms%20elaine%20teo.png">
+<img style="width:350px" src="/images/Leaders/ms%20elaine%20teo.png">
 
 **Profile**&nbsp;
 
