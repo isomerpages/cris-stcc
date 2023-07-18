@@ -3,7 +3,7 @@ title: Prof William Hwang
 permalink: /leaders/prof-william-hwang/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/professor%20william%20hwang.png">
+<img style="width:350px" src="/images/Leaders/professor%20william%20hwang.png">
 
 **Profile**&nbsp;
 
