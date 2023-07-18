@@ -3,7 +3,7 @@ title: Assoc Prof Daniel Tan
 permalink: /leaders/assoc-prof-daniel-tan/
 description: ""
 ---
-<img style="width:400px" src="/images/Leaders/daniel-tan-shao-weng.png">
+<img style="width:350px" src="/images/Leaders/daniel-tan-shao-weng.png">
 
 **Affiliations**&nbsp;
 
