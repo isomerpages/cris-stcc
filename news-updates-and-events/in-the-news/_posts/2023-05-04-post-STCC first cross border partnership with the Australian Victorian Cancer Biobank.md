@@ -32,5 +32,3 @@ _This article is also available in [LinkedIn.](https://www.linkedin.com/feed/up
 [Victorian Cancer Biobank](https://viccancerbiobank.org.au/) 
 
 * * *
-
-[BACK TO NEWS & EVENTS](https://www.stcc.sg/news-updates/)
