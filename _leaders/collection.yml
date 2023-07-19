@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Management Team/.keep
       - Executive Committee/Dr Alexander Lezhava.md
       - Executive Committee/Assoc Prof Tan Ker Kan.md
       - Executive Committee/Mr Seck Yee Kwang.md
