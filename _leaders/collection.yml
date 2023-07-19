@@ -2,8 +2,16 @@ collections:
   leaders:
     output: true
     order:
-      - Management Team/Mr Clarence Khoo.md
-      - Management Team/.keep
+      - Board Oversight Committee/.keep
+      - Board Oversight Committee/Prof Ashok Venkitaraman.md
+      - Board Oversight Committee/Ms Elaine Teo.md
+      - Board Oversight Committee/Prof Ng Huck Hui.md
+      - Board Oversight Committee/Prof William Hwang.md
+      - Board Oversight Committee/Dr Vincent Ho.md
+      - Board Oversight Committee/Prof Barry Halliwell.md
+      - Board Oversight Committee/Prof Chong Yap Seng.md
+      - Board Oversight Committee/Dr Benjamin Koh (BOC Chair).md
+      - Executive Committee/.keep
       - Executive Committee/Dr Alexander Lezhava.md
       - Executive Committee/Assoc Prof Tan Ker Kan.md
       - Executive Committee/Mr Seck Yee Kwang.md
@@ -16,13 +24,5 @@ collections:
       - Executive Committee/Prof Goh Boon Cher.md
       - Executive Committee/Prof Lim Soon Thye.md
       - Executive Committee/Prof Chng Wee Joo.md
-      - Executive Committee/.keep
-      - Board Oversight Committee/Prof Ashok Venkitaraman.md
-      - Board Oversight Committee/Ms Elaine Teo.md
-      - Board Oversight Committee/Prof Ng Huck Hui.md
-      - Board Oversight Committee/Prof William Hwang.md
-      - Board Oversight Committee/Dr Vincent Ho.md
-      - Board Oversight Committee/Prof Barry Halliwell.md
-      - Board Oversight Committee/Prof Chong Yap Seng.md
-      - Board Oversight Committee/Dr Benjamin Koh (BOC Chair).md
-      - Board Oversight Committee/.keep
+      - Management Team/.keep
+      - Management Team/Mr Clarence Khoo.md
