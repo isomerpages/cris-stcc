@@ -9,12 +9,12 @@ image: ""
 MiRXES strengthens global fight against cancer with launch of world’s first research project for a multi-cancer screening test using microRNA and multi-omics technology
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![MiRXES strengthens global fight against cancer with launch of world’s first research project for a multi-cancer screening test using microRNA and multi-omics technology](https://www.stcc.sg/wp-content/uploads/2022/09/78D9286B-C013-40C8-8F27-4DC8DD070BF0.jpeg)
+![](/images/Resources/Media%20Releases/july%207,%202022.jpeg)
 
 *   July 7, 2022
-    
 
-![](https://www.stcc.sg/wp-content/uploads/2022/09/FA84B53B-A612-41FB-BD47-6B85A2279D86-1024x447.jpeg)
+    
+![](/images/Resources/Media%20Releases/july%207,%202022%20-%202.jpeg)
 
 _SINGAPORE – MiRXES Pte Ltd, a Singapore-headquartered biotechnology company, whose mission is to save and improve lives through early, actionable, and personalized diagnoses with its innovative RNA-powered cancer early detection solutions, announced today the signing of a Memorandum of Understanding (MOU) that launched Project CADENCE (CAncer Detected Early caN be CurEd). Project CADENCE is the world’s first large-scale clinical research project for the discovery and validation of novel combinations blood-borne circulating microRNA (miRNA) and DNA methylation biomarkers that will lead to the development of a multi-cancer early detection test for up to nine high incidence and high mortality cancers, including lung, breast, colorectal, liver, stomach (gastric), esophageal, ovarian, pancreatic, and prostate cancers._
 
