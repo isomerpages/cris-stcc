@@ -12,7 +12,7 @@ third_nav_title: Executive Committee
 			</td>
 			<td>
 				<div style="font-size:15px">
-					**Affiliations**
+**Affiliations**
 					
 Executive Director, Singapore Translational Cancer Consortium;&nbsp;
 <br><br>
