@@ -6,11 +6,11 @@ third_nav_title: Executive Committee
 ---
 <img style="width:350px" src="/images/Leaders/prof%20chng%20wee%20joo.png">
 
-**Affiliations**
+**Affiliations**&nbsp;
 
 * * *
-<div style="font-size:12px">
-Executive Director, Singapore Translational Cancer Consortium<br>
+
+Executive Director, Singapore Translational Cancer Consortium;&nbsp;
 
 Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
 
@@ -21,7 +21,7 @@ Director, National University Cancer Institute, Singapore (NCIS);&nbsp;
 Head and Senior Consultant, Division of Haematology, Department of Haematology-Oncology, NCIS;&nbsp;
 
 Leader, Haematologic Malignancy Tumour Group, NCIS&nbsp;
-</div>
+
 **Profile**&nbsp;
 
 * * *
