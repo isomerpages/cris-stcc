@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![MOH supporting development of mRNA cancer vaccines in Singapore](https://www.stcc.sg/wp-content/uploads/2023/02/003A900C-60C5-491D-B4CA-75FC99CE24F1.png)
+![](/images/Resources/february%2014%202023.png)
 
 *   February 14, 2023
     
