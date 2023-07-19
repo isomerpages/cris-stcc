@@ -6,6 +6,10 @@ third_nav_title: Executive Committee
 ---
 <img style="width:350px" src="/images/Leaders/mr-seck-yee-kwang.png">
 
+**Affiliations**&nbsp;
+
+* * *
+
 Platform Lead, Business Intelligence &amp; Development, Singapore Translational Cancer Consortium;&nbsp;
 
 Director, Biomedical Sciences Industry Partnership Office, A\*Star
