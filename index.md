@@ -41,50 +41,45 @@ sections:
       alt: About Us Image
   - infobar:
       title: Joint Platforms
-      description: The STCC joint platforms enables collaboration between basic,
-        clinical and translational researchers to explore novel approaches, push
-        promising lines of ...
+      description: Driving transformative cancer research & translation, fostering
+        collaboration, innovation, and impactful outcomes
       button: Explore More
       url: /joint-platforms/overview/
   - infopic:
       title: Cancer Clinical Trials & Investigational Medicine Units
-      description: The Cancer Clinical Trials and Investigational Medicine Units
-        platform aims to drive impactful ...
+      description: Advancing cancer clinical trials through streamlined research and
+        cross-cluster collaboration
       button: Learn more
       url: /platform-1/cancer-clinical-trials-and-investigational-medicine-units/
       image: /images/Homepage/platform 1 cover.png
       alt: CCTIMU
   - infopic:
       title: Cancer Databases and Tissue Banks
-      description: The Cancer Database and Tissue Banks Platform combines existing
-        databases of the Singhealth and National University Health System ...
+      description: A national repository of cancer databases and tissue banks to
+        facilitate research for clinical, academic and industry collaborators
       button: Learn more
       url: /platform-2/cancer-databases-and-tissue-banks/
       image: /images/Homepage/platform 2 cover.png
       alt: CDTB
   - infopic:
       title: Translational Research Integration & Support
-      description: The Translational Research Integration & Support (TRIS) platform
-        offers potential solutions to several healthcare challenges in oncology
-        by improving ...
+      description: Driving translational research for cancer clinical trials studies &
+        establishing a national cancer organoid database for collaboration
       button: Learn More
       url: /platform-3/translational-research-integration-support/
       image: /images/Homepage/platform 3 cover.png
       alt: TRIS
   - infopic:
       title: Business Intelligence & Development
-      description: The Business Intelligence and Development platform serves as STCC’s
-        dedicated business team for active industry engagements. This platform
-        develops ...
+      description: Fostering partnerships & driving industry collaborations and engagement
       button: Learn More
       url: /platform-4/business-intelligence-development/
       image: /images/Homepage/platform 4 cover.png
       alt: BID
   - infopic:
       title: Impact & Population Health
-      description: Impact & Population Health platform aims to support data generation
-        and assessment relevant to health impact to support policy change and
-        implementation ...
+      description: Value-based cancer care through data-driven treatment guidelines
+        and policies
       button: Learn More
       url: /platform-5/impact-population-health/
       image: /images/Homepage/platform 5 cover.png
