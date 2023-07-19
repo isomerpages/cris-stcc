@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Executive Committee/Mr Seck Yee Kwang.md
       - Executive Committee/Dr Anand Jeyasekharan.md
       - Executive Committee/Dr Jason Chan.md
       - Executive Committee/Assoc Prof Iain Tan.md
