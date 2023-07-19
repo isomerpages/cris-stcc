@@ -10,7 +10,7 @@ image: ""
 Perspectives of Singaporean biomedical researchers & research support staff on actual and ideal IRB
 ---------------------------------------------------------------------------------------------------
 
-![Perspectives of Singaporean biomedical researchers & research support staff on actual and ideal IRB](https://www.stcc.sg/wp-content/uploads/2021/02/clinical-trials-graphic.jpg)
+![](/images/Resources/Publications/february%208,%202021.jpg)
 
 *   February 8, 2021
     
