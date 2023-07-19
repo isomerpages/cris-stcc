@@ -11,7 +11,7 @@ third_nav_title: Executive Committee
 					<img src="/images/Leaders/prof-goh-boon-cher.png">
 			</td>
 			<td>
-				<div style="font-size:30px">
+				<div style="font-size:15px">
 Executive Director, Singapore Translational Cancer Consortium;&nbsp;
 <br><br>
 Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
