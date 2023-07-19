@@ -16,7 +16,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a href="https://form.gov.sg/64af78bb7075fe00114ad913"
-          target="”_blank”">Fill in this form</a>
+          target="_blank">Fill in this form</a>
     title: For Enquiries
   - content:
       - phone: ""
