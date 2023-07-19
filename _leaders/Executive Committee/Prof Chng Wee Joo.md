@@ -12,6 +12,8 @@ third_nav_title: Executive Committee
 			</td>
 			<td>
 				<div style="font-size:15px">
+					**Affiliations**
+					
 Executive Director, Singapore Translational Cancer Consortium;&nbsp;
 <br><br>
 Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
