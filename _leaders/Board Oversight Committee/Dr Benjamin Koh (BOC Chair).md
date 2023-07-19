@@ -4,9 +4,7 @@ permalink: /leaders/dr-benjamin-koh/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<p>
-<img align="left" style="width:350px" src="/images/Leaders/dr%20benjamin%20koh.png">
-</p>
+<img style="width:350px" src="/images/Leaders/dr%20benjamin%20koh.png">
 	
 	
 **Profile**&nbsp;
