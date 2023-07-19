@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-![STCC first cross-border partnership with the Australian Victorian Cancer Biobank](https://www.stcc.sg/wp-content/uploads/2023/05/STCC-VCB-MOU.jpg)
+![](/images/Resources/may%204%202023.jpg)
 
 *   May 4, 2023
     
