@@ -9,8 +9,7 @@ image: ""
 ---
 New personalised healthcare partnership to improve outcomes for people with cancer in Singapore
 -----------------------------------------------------------------------------------------------
-
-![New personalised healthcare partnership to improve outcomes for people with cancer in Singapore](https://www.stcc.sg/wp-content/uploads/2022/03/New-Project.jpg)
+![](/images/Resources/Media%20Releases/february%209,%202021.jpg)
 
 *   February 9, 2021
     
