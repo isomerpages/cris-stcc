@@ -7,7 +7,7 @@ third_nav_title: Executive Committee
 <table>
 	<tbody>
 		<tr>
-			<td style="width:50%">
+			<td style="width:350px">
 					<img src="/images/Leaders/prof-goh-boon-cher.png">
 			</td>
 			<td>
