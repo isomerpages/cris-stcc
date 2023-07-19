@@ -11,7 +11,7 @@ third_nav_title: Leadership
 --- 
 
 <div align="center">
-	<a href="/leaders/dr-benjamin-koh/">
+	<a href="/leaders/dr-benjamin-koh/" target="_blank">
 		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 	</a>
 </div>
