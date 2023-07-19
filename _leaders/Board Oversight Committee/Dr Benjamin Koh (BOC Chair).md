@@ -6,7 +6,7 @@ third_nav_title: Board Oversight Committee
 ---
 <img style="width:350px" src="/images/Leaders/dr%20benjamin%20koh.png">
 
-<div> <strong>Profile</strong></div>
+<strong>Profile</strong>
 
 * * *
 
