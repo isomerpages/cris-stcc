@@ -22,7 +22,6 @@ Both organisations will also share tissue banking best practices, and establish 
 
 _This article is also available in [LinkedIn.](https://www.linkedin.com/feed/update/urn:li:activity:7059754757837455360/)_
 
-[![STCC - Victorian Cancer Biobank MOU](https://www.stcc.sg/wp-content/uploads/2023/05/STCC-MOU-signing--1024x674.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7059754757837455360/)
 
 #### Find out more:
 
