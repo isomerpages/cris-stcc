@@ -18,5 +18,3 @@ image: ""
 [MOH supporting development of mRNA cancer vaccines in Singapore | The Straits Times](https://www.straitstimes.com/singapore/health/moh-supporting-development-of-mrna-cancer-vaccines-in-singapore)
 
 * * *
-
-[BACK TO NEWS & EVENTS](https://www.stcc.sg/news-updates/)
