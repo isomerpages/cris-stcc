@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Board Oversight Committee/.keep
-      - Dr Benjamin Koh (BOC Chair).md
       - Prof Chong Yap Seng.md
       - Prof Barry Halliwell.md
       - Dr Vincent Ho.md
