@@ -10,7 +10,7 @@ image: ""
 Appointment of CEO, Consortium for Clinical Research and Innovation Singapore (CRIS)
 ------------------------------------------------------------------------------------
 
-![Appointment of CEO, Consortium for Clinical Research and Innovation Singapore (CRIS)](https://www.stcc.sg/wp-content/uploads/2021/10/danny-ceo.jpg)
+![](/images/Resources/june%2022,%202020.jpg)
 
 *   June 22, 2020
     
@@ -35,6 +35,6 @@ CRIS has been formed by repurposing the former Singapore Clinical Research Insti
     *   [National Health Innovation Centre Singapore (NHIC)](https://nhic.sg/web/)
     *   [Advanced Cell Therapy and Research Institute Singapore (ACTRIS)](https://www.actris.sg/)
     *   [Precision Health Research Programme Singapore (PRECISE)](https://www.npm.sg/), and
-    *   [Singapore Translational Cancer Consortium](https://www.stcc.sg//index.php/about-us/our-story/) (STCC)
+    *   [Singapore Translational Cancer Consortium](https://www.stcc.sg/) (STCC)
 
 Each business unit will continue to be accountable to their respective Board Oversight Committees for deliverables. The CRIS Board and CRIS HQ will address corporate governance and support matters, and optimise synergies in operations and research efforts across these entities.
