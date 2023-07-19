@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Board Oversight Committee/Prof William Hwang.md
       - Board Oversight Committee/Dr Vincent Ho.md
       - Board Oversight Committee/Prof Barry Halliwell.md
       - Board Oversight Committee/Prof Chong Yap Seng.md
