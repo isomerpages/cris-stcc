@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Executive Committee/Dr Alexander Lezhava.md
       - Executive Committee/Assoc Prof Tan Ker Kan.md
       - Executive Committee/Mr Seck Yee Kwang.md
       - Executive Committee/Dr Anand Jeyasekharan.md
