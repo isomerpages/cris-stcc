@@ -35,28 +35,6 @@ Leader, Haematologic Malignancy Tumour Group, NCIS&nbsp;
 	</tbody>
 </table>
 
-
-
-
-
-**Affiliations**&nbsp;
-
-* * *
-
-Executive Director, Singapore Translational Cancer Consortium;&nbsp;
-
-Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
-
-Provost’s Chair &amp; Professor, Yong Loo Lin School of Medicine, National University of Singapore;&nbsp;
-
-Director, National University Cancer Institute, Singapore (NCIS);&nbsp;
-
-Head and Senior Consultant, Division of Haematology, Department of Haematology-Oncology, NCIS;&nbsp;
-
-Leader, Haematologic Malignancy Tumour Group, NCIS&nbsp;
-
-
-
 **Profile**&nbsp;
 
 * * *
