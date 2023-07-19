@@ -8,11 +8,11 @@ third_nav_title: Executive Committee
 	<tbody>
 		<tr>
 			<td style="width:350px">
-					<img src="/images/Leaders/prof-goh-boon-cher.png">
+					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
 			</td>
 			<td>
 				<div style="font-size:15px">
-**Affiliations**
+					<b>Affiliations</b>
 					
 Executive Director, Singapore Translational Cancer Consortium;&nbsp;
 <br><br>
@@ -38,10 +38,6 @@ Leader, Haematologic Malignancy Tumour Group, NCIS&nbsp;
 
 
 
-
-
-
-<img style="width:350px" align="left" src="/images/Leaders/prof%20chng%20wee%20joo.png">
 
 **Affiliations**&nbsp;
 
