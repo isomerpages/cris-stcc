@@ -8,7 +8,7 @@ image: ""
 ---
 What does precision oncology entail?
 ------------------------------------
-![](/images/Resources/february%2025,%202021.jpg)
+![](/images/Resources/In%20the%20news/february%2025,%202021.jpg)
 
 *   February 25, 2021
     
