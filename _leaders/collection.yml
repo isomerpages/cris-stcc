@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Executive Committee/Prof Chng Wee Joo.md
       - Executive Committee/.keep
       - Board Oversight Committee/Prof Ashok Venkitaraman.md
       - Board Oversight Committee/Ms Elaine Teo.md
