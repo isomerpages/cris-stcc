@@ -10,7 +10,7 @@ image: ""
 Recommendations to improve the clinical adoption of NGS-based cancer diagnostics in singapore
 ---------------------------------------------------------------------------------------------
 
-![Recommendations to improve the clinical adoption of NGS-based cancer diagnostics in singapore](https://www.stcc.sg/wp-content/uploads/2020/10/publication-blog.jpg)
+![](/images/Resources/Publications/october%2022,%202020.jpg)
 
 *   October 22, 2020
     
