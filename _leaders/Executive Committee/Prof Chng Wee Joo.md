@@ -13,9 +13,9 @@ third_nav_title: Executive Committee
 <div style="font-size:10px">
 
 Executive Director, Singapore Translational Cancer Consortium;&nbsp;
-
+<br>
 Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
-
+<br><br>
 Provost’s Chair &amp; Professor, Yong Loo Lin School of Medicine, National University of Singapore;&nbsp;
 
 Director, National University Cancer Institute, Singapore (NCIS);&nbsp;
