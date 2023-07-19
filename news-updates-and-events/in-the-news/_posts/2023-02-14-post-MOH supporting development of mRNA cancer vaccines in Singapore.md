@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Resources/february%2014%202023.png)
+![](/images/Resources/In%20the%20news/february%2014%202023.png)
 
 *   February 14, 2023
     
