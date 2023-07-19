@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Board Oversight Committee/Prof Ashok Venkitaraman.md
       - Board Oversight Committee/Ms Elaine Teo.md
       - Board Oversight Committee/Prof Ng Huck Hui.md
       - Board Oversight Committee/Prof William Hwang.md
