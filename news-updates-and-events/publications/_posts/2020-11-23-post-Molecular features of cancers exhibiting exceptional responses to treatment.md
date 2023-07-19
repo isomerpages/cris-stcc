@@ -8,8 +8,7 @@ image: ""
 ---
 Molecular features of cancers exhibiting exceptional responses to treatment
 ---------------------------------------------------------------------------
-
-![Molecular features of cancers exhibiting exceptional responses to treatment](https://www.stcc.sg/wp-content/uploads/2020/11/clinical-diagnostic-blog-image.jpg)
+![](/images/Resources/Publications/november%2023,%202020.jpg)
 
 *   November 23, 2020
     
