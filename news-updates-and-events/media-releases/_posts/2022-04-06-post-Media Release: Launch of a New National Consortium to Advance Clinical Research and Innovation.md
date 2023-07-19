@@ -10,7 +10,7 @@ image: ""
 Media Release: Launch of a New National Consortium to Advance Clinical Research and Innovation for Singapore
 ------------------------------------------------------------------------------------------------------------
 
-![Media Release: Launch of a New National Consortium to Advance Clinical Research and Innovation for Singapore](https://www.stcc.sg/wp-content/uploads/2022/04/CRIS.png)
+![](/images/Resources/Media%20Releases/april%206,%202022.png)
 
 *   April 6, 2022
     
