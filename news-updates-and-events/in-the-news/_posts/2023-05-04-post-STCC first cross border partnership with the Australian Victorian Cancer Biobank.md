@@ -27,7 +27,7 @@ _This article is also available in [LinkedIn.](https://www.linkedin.com/feed/up
 
 * * *
 
-[STCC Cancer Databases and Tissue Banks platform](https://www.stcc.sg/platforms/cancer-databases-and-tissue-banks/)
+[STCC Cancer Databases and Tissue Banks platform](/platform-2/cancer-databases-and-tissue-banks/)
 
 [Victorian Cancer Biobank](https://viccancerbiobank.org.au/) 
 
