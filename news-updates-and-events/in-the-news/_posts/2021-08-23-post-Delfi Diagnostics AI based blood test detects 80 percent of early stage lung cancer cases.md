@@ -10,6 +10,7 @@ image: ""
 Delfi Diagnostics’ AI-based blood test detects 80% of early stage lung cancer cases, study finds
 ------------------------------------------------------------------------------------------------
 
+![](/images/Resources/august%2023,%202021.jpg)
 ![Delfi Diagnostics’ AI-based blood test detects 80% of early stage lung cancer cases, study finds](https://www.stcc.sg/wp-content/uploads/2021/08/diagnostics-liquid-biosy-test.jpg)
 
 *   August 23, 2021
