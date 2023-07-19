@@ -8,8 +8,7 @@ image: ""
 ---
 What does precision oncology entail?
 ------------------------------------
-
-![What does precision oncology entail?](https://www.stcc.sg/wp-content/uploads/2022/03/news-feature-1.jpg)
+![](/images/Resources/february%2025,%202021.jpg)
 
 *   February 25, 2021
     
