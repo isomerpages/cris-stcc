@@ -7,9 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-Media Release: Launch of a New National Consortium to Advance Clinical Research and Innovation for Singapore
-------------------------------------------------------------------------------------------------------------
-
 ![](/images/Resources/Media%20Releases/april%206,%202022.png)
 
 *   April 6, 2022
