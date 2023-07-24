@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-MiRXES strengthens global fight against cancer with launch of world’s first research project for a multi-cancer screening test using microRNA and multi-omics technology
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##### MiRXES strengthens global fight against cancer with launch of world’s first research project for a multi-cancer screening test using microRNA and multi-omics technology
+
 
 ![](/images/Resources/Media%20Releases/july%207,%202022.jpeg)
 
