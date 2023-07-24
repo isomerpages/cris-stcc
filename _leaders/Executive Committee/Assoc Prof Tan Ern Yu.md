@@ -10,9 +10,9 @@ third_nav_title: Executive Committee
 
 * * *
 
-Head of Service (Breast &amp; Endocrine Surgery), Senior Consultant
+Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational Cancer Consortium;
 
-MBBS, FRCSEd (Gen), MMed (Surgery), DPhil (Oxon)
+Head of Service (Breast &amp; Endocrine Surgery), Senior Consultant
 
 **Profile**
 
