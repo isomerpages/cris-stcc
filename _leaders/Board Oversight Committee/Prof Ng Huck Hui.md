@@ -4,7 +4,7 @@ permalink: /leaders/prof-ng-huck-hui/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img style="width:350px" src="/images/Leaders/professor%20ng%20huck%20hui.png">
+<img style="width:150px" src="/images/Leaders/professor%20ng%20huck%20hui.png">
 
 **Profile**&nbsp;
 
