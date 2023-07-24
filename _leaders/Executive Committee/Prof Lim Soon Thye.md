@@ -4,7 +4,7 @@ permalink: /leaders/prof-lim-soon-thye/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/prof%20lim%20soon%20thye.png">
+<img style="width:150px" src="/images/Leaders/prof%20lim%20soon%20thye.png">
 
 **Affiliations**
 
