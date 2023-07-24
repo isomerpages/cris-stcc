@@ -7,9 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-Appointment of CEO, Consortium for Clinical Research and Innovation Singapore (CRIS)
-------------------------------------------------------------------------------------
-
 ![](/images/Resources/In%20the%20news/june%2022,%202020.jpg)
 
 *   June 22, 2020
