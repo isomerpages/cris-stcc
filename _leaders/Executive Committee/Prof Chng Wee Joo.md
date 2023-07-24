@@ -4,36 +4,23 @@ permalink: /leaders/prof-chng-wee-joo/
 description: ""
 third_nav_title: Executive Committee
 ---
-<table>
-	<tbody>
-		<tr>
-			<td style="width:350px">
-					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
-			</td>
-			<td>
-				<div style="font-size:15px">
-					<b>Affiliations</b>
-<br><br>				
+<img src="/images/Leaders/prof%20chng%20wee%20joo.png" style="width:150px">
+
+**Affiliations**&nbsp;
+
+* * *
+
 Executive Director, Singapore Translational Cancer Consortium;&nbsp;
-<br><br>
+
 Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
-<br><br>
+
 Provost’s Chair &amp; Professor, Yong Loo Lin School of Medicine, National University of Singapore;&nbsp;
-<br><br>
+
 Director, National University Cancer Institute, Singapore (NCIS);&nbsp;
-<br><br>
+
 Head and Senior Consultant, Division of Haematology, Department of Haematology-Oncology, NCIS;&nbsp;
-<br><br>
+
 Leader, Haematologic Malignancy Tumour Group, NCIS&nbsp;
-				</div>
-			</td>
-			<td>
-			</td>
-			<td>
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 **Profile**&nbsp;
 
