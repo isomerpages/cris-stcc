@@ -36,7 +36,7 @@ These are:
 4.  [Precision Health Research, Singapore](https://www.npm.sg/) (PRECISE)
 5.  [Singapore Translational Cancer Consortium](https://www.stcc.sg/) (STCC)
 
-_Refer to [Annex 1](https://www.stcc.sg//wp-content/uploads/2022/04/Press-Release-Annex-1-About-CRIS-and-its-Programmes.pdf) for more information about each initiative._
+_Refer to [Annex 1](/files/press-release-annex-1-about-cris-and-its-programmes.pdf) for more information about each initiative._
 
 “As Singapore’s basic science capabilities and talent base have begun to mature, and as our research initiatives find footing to deliver impact, it is timely to bring them under one roof. Together as CRIS, we seek to ensure a unity of mission across our programmes, synergise our capabilities, scientific resources and industry engagement. This way, we stay relevant and aligned to the needs of Singapore patients, healthcare system and researchers, and build long-term sustainability for these efforts,” said Dr Danny Soon, Chief Executive Officer of CRIS and Executive Director of SCRI.
 
