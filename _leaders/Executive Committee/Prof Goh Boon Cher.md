@@ -4,7 +4,7 @@ permalink: /leaders/prof-goh-boon-cher/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/prof-goh-boon-cher.png">
+<img style="width:150px" src="/images/Leaders/prof-goh-boon-cher.png">
 
 
 **Affiliations**&nbsp;
