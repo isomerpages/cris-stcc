@@ -4,7 +4,7 @@ permalink: /leaders/mr-clarence-khoo/
 description: ""
 third_nav_title: Management Team
 ---
-<img style="width:350px" src="/images/Leaders/mr-clarence-khoo.png">
+<img style="width:150px" src="/images/Leaders/mr-clarence-khoo.png">
 
 **Profile**
 
