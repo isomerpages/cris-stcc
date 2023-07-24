@@ -4,7 +4,7 @@ permalink: /leaders/dr-eng-chon-boon/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/dr-eng-chon-boon.png">
+<img style="width:150px" src="/images/Leaders/dr-eng-chon-boon.png">
 
 **Affiliations**
 
