@@ -4,7 +4,7 @@ permalink: /leaders/assoc-prof-daniel-tan/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/daniel-tan-shao-weng.png">
+<img style="width:150px" src="/images/Leaders/daniel-tan-shao-weng.png">
 
 **Affiliations**&nbsp;
 
