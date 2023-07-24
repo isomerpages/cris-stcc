@@ -10,9 +10,9 @@ third_nav_title: Executive Committee
 
 * * *
 
-Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational Cancer Consortium;
+Head of Service (Breast &amp; Endocrine Surgery), Senior Consultant
 
-Senior Consultant, General Surgery &amp; Head of Breast Service, Tan Tock Seng Hospital (TTSH)
+MBBS, FRCSEd (Gen), MMed (Surgery), DPhil (Oxon)
 
 **Profile**
 
