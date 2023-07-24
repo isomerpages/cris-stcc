@@ -4,7 +4,7 @@ permalink: /leaders/dr-jason-chan/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/dr-jason-chan.png">
+<img style="width:150px" src="/images/Leaders/dr-jason-chan.png">
 
 **Affiliations**
 
