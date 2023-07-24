@@ -4,7 +4,7 @@ permalink: /leaders/assoc-prof-iain-tan/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
+<img style="width:150px" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 
 **Affiliations**
 
