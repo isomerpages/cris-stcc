@@ -4,7 +4,7 @@ permalink: /leaders/prof-william-hwang/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img style="width:350px" src="/images/Leaders/professor%20william%20hwang.png">
+<img style="width:150px" src="/images/Leaders/professor%20william%20hwang.png">
 
 **Profile**&nbsp;
 
