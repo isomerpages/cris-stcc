@@ -4,7 +4,7 @@ permalink: /leaders/assoc-prof-tan-ker-kan/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/tan-ker-kan.png">
+<img style="width:150px" src="/images/Leaders/tan-ker-kan.png">
 
 **Affiliations**&nbsp;
 
