@@ -4,7 +4,7 @@ permalink: /leaders/prof-barry-halliwell/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img style="width:350px" src="/images/Leaders/barry-halliwell__stcc.png">
+<img style="width:150px" src="/images/Leaders/barry-halliwell__stcc.png">
 
 **Profile**&nbsp;
 
