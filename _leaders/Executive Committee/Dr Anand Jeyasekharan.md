@@ -4,7 +4,7 @@ permalink: /leaders/dr-anand-jeyasekharan/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:350px" src="/images/Leaders/anand-jeyasekharan.png">
+<img style="width:150px" src="/images/Leaders/anand-jeyasekharan.png">
 
 **Affiliations**
 
