@@ -2,5 +2,4 @@ collections:
   collaborate:
     output: true
     order:
-      - Example Title.md
       - Collaborate.md
