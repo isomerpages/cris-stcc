@@ -1,0 +1,6 @@
+collections:
+  platform-3:
+    output: true
+    order:
+      - Translational Research Integration & Support.md
+      - Platform Leads.md

@@ -1,40 +1,49 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Singapore Translational Cancer Consortium (STCC)
+url: https://stcc.sg
+favicon: /images/Logos and Favicon/stcc - favicon.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#253d81"
+  secondary-color: "#00a0c5"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#244aa1"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#00a0c5"
     - title: media-color-three
-      color: '#00838f'
+      color: "#253d81"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00a0c5"
     - title: media-color-five
-      color: '#00838f'
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#919395"
+description: The Singapore Translational Cancer Consortium (STCC) is a
+  nationally coordinated consortium to synergise cancer research capabilities in
+  Singapore. Established in 2020, STCC brings together unmatched basic, clinical
+  and translational talent in Singapore to create globally significant peaks of
+  excellence in selected Asian cancers.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +55,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.devs1mdmyb7x0.amplifyapp.com
 prod: https://master.devs1mdmyb7x0.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/Logos and Favicon/stcc - logo.png
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
+resources_name: news-updates-and-events
