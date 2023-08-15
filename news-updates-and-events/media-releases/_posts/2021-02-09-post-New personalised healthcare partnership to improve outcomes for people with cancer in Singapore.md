@@ -9,8 +9,7 @@ image: ""
 ---
 ![](/images/Resources/Media%20Releases/february%209,%202021.jpg)
 
-*   February 9, 2021
-    
+
 
 _\[Left to Right\] Professor Tan Chorh Chuan (Chief Health Scientist, Ministry of Health), Professor Lim Soon Thye (Co-Executive Director of STCC and Deputy Medical Director (Clinical) at NCCS), Professor Chng Wee Joo (Executive Director of STCC and Director of NCIS), Mr Ryan Harper (General Manager of Roche Singapore) and Mr Jek Fong (Director, Patient Access and Personalised Healthcare, Roche Singapore) at the Memorandum of Understanding signing ceremony. The ceremony was witnessed by Prof Tan. This unique partnership between public and private sector institutions in Singapore aims to build the foundation for personalised healthcare in Singapore to advance its adoption in cancer care and help improve health outcomes for people with cancer._
 

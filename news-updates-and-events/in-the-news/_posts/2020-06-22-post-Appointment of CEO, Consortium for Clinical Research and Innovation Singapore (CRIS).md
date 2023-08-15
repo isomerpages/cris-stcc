@@ -9,8 +9,8 @@ image: ""
 ---
 ![](/images/Resources/In%20the%20news/june%2022,%202020.jpg)
 
-*   June 22, 2020
-    
+
+
 
 #### Appointment of Dr Danny Soon as inaugural Chief Executive Officer, CRIS and concurrent Executive Director, SCRI
 

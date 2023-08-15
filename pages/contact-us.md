@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: STCC
 locations:
   - address:
-      - "23 Rochester Park #06-01"
+      - "23 Rochester Park #06-01 "
       - Singapore 139234
       - ""
     operating_hours: []
@@ -16,8 +16,8 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a href="https://form.gov.sg/64af78bb7075fe00114ad913"
-          target="_blank">Fill in this form</a>
-    title: For Enquiries
+          target="_blank">Please fill in the online form.</a>
+    title: General enquiries
   - content:
       - phone: ""
       - email: career@cris.sg
