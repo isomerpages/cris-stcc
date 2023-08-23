@@ -6,7 +6,7 @@ description: The Singapore Translational Cancer Consortium (STCC) is a
   Singapore. Established in 2020, STCC brings together unmatched basic, clinical
   and translational talent in Singapore to create globally significant peaks of
   excellence in selected Asian cancers.
-image: /images/Logos and Favicon/stcc - logo.png
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
