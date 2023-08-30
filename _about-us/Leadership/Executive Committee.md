@@ -83,7 +83,7 @@ third_nav_title: Leadership
 			</td>
 			<td width="25%"><!-- Table 3 -->
 				<a href="/leaders/mr-seck-yee-kwang/" target="_blank">
-					<img src="/images/Leaders/mr-seck-yee-kwang.png">
+					<img src="/images/Leaders/seck yee kwang 150 x 200.jpg">
 				</a>
 				<div align="center"><b>Mr Seck Yee Kwang</b></div>
 				<div align="center">Platform Lead, Business Intelligence &amp; Development</div>
