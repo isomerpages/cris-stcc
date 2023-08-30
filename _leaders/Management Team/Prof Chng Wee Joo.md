@@ -13,7 +13,8 @@ third_nav_title: Management Team
 * Executive Director
 
 **NATIONAL UNIVERSITY OF SINGAPORE** 
-* Yong Loo Lin Professor in Medical Oncology, Department of Medicine;  
+*  Yong Loo Lin Professor in Medical Oncology, Department of Medicine;  
+*  Vice-President (Biomedical Sciences Research), Office of the Deputy President (Research and Technology);
 * Vice Dean of Research, Yong Loo Lin School of Medicine;    
 * Senior Principal Investigator, Cancer Science Institute of Singapore
 
