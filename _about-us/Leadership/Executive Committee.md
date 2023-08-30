@@ -46,7 +46,7 @@ third_nav_title: Leadership
 			</td>
 			<td width="25%"><!-- Table 2 -->
 				<a href="/leaders/assoc-prof-tan-ern-yu/" target="_blank">
-					<img src="/images/Leaders/tan-ern-yu.png">
+					<img src="/images/Leaders/tan ern yu.png">
 				</a>
 				<div align="center"><b>Assoc Prof Tan Ern Yu</b></div>
 				<div align="center">Platform Lead, Cancer Databases &amp;Tissue Banks</div>

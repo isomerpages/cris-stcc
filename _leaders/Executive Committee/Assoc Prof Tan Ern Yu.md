@@ -4,7 +4,7 @@ permalink: /leaders/assoc-prof-tan-ern-yu/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:150px" src="/images/Leaders/tan-ern-yu.png">
+<img style="width:150px" src="/images/Leaders/tan ern yu.png">
 
 **Affiliations**
 
