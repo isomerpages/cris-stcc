@@ -9,6 +9,21 @@ third_nav_title: Management Team
 **Affiliations**&nbsp;
 
 * * *
+**NATIONAL UNIVERSITY OF SINGAPORE**   
+* Yong Loo Lin Professor in Medical Oncology, Department of Medicine;  
+* Vice Dean of Research, Yong Loo Lin School of Medicine;    
+* Senior Principal Investigator, Cancer Science Institute of Singapore
+
+**NATIONAL UNIVERSITY HEALTH SYSTEM**
+* Group Director of Research
+
+        
+**NATIONAL UNIVERSITY CANCER INSTITUTE, SINGAPORE**  
+* Director &amp; Senior Consultant
+
+
+
+
 
 Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
 
