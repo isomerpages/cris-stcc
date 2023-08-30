@@ -23,11 +23,7 @@ third_nav_title: Management Team
         
 **NATIONAL UNIVERSITY CANCER INSTITUTE, SINGAPORE**  
 *  Director 
-*  Head and Senior Consultant, Division of Haematology, Department of Haematology-OncologySenior Consultant
-*  Leader, Haematologic Malignancy Tumour Group
-
-
-
+*  Head and Senior Consultant, Division of Haematology, Department of Haematology-Oncology
 
 
 **Profile**&nbsp;
