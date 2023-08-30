@@ -4,7 +4,8 @@ permalink: /leaders/mr-seck-yee-kwang/
 description: ""
 third_nav_title: Executive Committee
 ---
-<img style="width:150px" src="/images/Leaders/mr-seck-yee-kwang_STCC.png">
+<img style="width:150px" src="/images/Leaders/seck yee kwang 150 x 200">
+
 
 **Affiliations**&nbsp;
 
