@@ -13,9 +13,8 @@ third_nav_title: Management Team
 * Executive Director
 
 **NATIONAL UNIVERSITY OF SINGAPORE** 
-*  Yong Loo Lin Professor in Medical Oncology, Department of Medicine;  
-*  Vice-President (Biomedical Sciences Research), Office of the Deputy President (Research and Technology);
-* Vice Dean of Research, Yong Loo Lin School of Medicine;    
+*  Vice-President (Biomedical Sciences Research), Office of the Deputy President (Research and Technology); 
+*  Professor, Department of Medicine, Yong Loo Lin School of Medicine;
 * Senior Principal Investigator, Cancer Science Institute of Singapore
 
 **NATIONAL UNIVERSITY HEALTH SYSTEM**
@@ -23,7 +22,6 @@ third_nav_title: Management Team
 
         
 **NATIONAL UNIVERSITY CANCER INSTITUTE, SINGAPORE**  
-*  Director 
 *  Head and Senior Consultant, Division of Haematology, Department of Haematology-Oncology
 
 
@@ -32,7 +30,7 @@ third_nav_title: Management Team
 * * * 
 Professor Chng Wee Joo is the Executive Director of the Singapore Translational Cancer Consortium. 
 
-He is also the Vice-President (Biomedical Sciences Research) in the Office of the Deputy President (Research and Technology), NUS Yong Loo Lin School of Medicine, as well as Senior Principal Investigator at the NUS Cancer Science Institute of Singapore.  Prof Chng has been a Senior Consultant at the National University Hospital for over two decades, and is currently the Director of the National University Cancer Institute, Singapore (NCIS) as well as Group Director of Research at the National University Health System.
+He is also the Vice-President (Biomedical Sciences Research) in the Office of the Deputy President (Research and Technology), Group Director of Research at the National University Health System, and a Senior Principal Investigator at the NUS Cancer Science Institute of Singapore,
 
 A Professor in Medical Oncology and an esteemed researcher in the fields of genomics, therapeutics and haematologic malignancies, Prof Chng has a wealth of experience spanning clinical practice, administration, and leadership.
 
