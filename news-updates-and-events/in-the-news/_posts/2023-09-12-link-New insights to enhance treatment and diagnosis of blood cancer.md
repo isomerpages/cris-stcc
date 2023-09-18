@@ -4,5 +4,5 @@ date: 2023-09-12
 layout: link
 description: ""
 image: ""
-external: https://https://news.nus.edu.sg/treatment-diagnosis-of-blood-cancer/
+external: https://news.nus.edu.sg/treatment-diagnosis-of-blood-cancer/
 ---
