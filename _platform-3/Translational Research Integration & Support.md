@@ -5,7 +5,7 @@ description: Translational Research Integration & Support
 ---
 The Translational Research Integration & Support platform creates and delivers end-to-end solutions that supports multi-institutional translational and pre-clinical studies, from study design to outcomes. We bring together expertise from cancer research institutes and academic centres across Singapore, with the common goal of developing, testing and validating potential new biomarkers and molecular diagnostics. Our platform boasts a comprehensive facilitation pipeline for translational and pre-clinical research, and functions as a coordinating hub for molecular assays and ex vivo tumour models. This supports our mission to promote collaboration and cohesiveness among academia and industry players in the cancer research community.
 
-
+![Translational and Pre-clinical Research Pipeline](/images/pf3_chart_v5,1b.png)
 
 ##### **Translational and Pre-clinical Research Pipeline**
 
