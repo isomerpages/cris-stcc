@@ -2,5 +2,6 @@ collections:
   platform-3:
     output: true
     order:
+      - Assay Catalogue.md
       - Translational Research Integration & Support.md
       - Platform Leads.md
