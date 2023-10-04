@@ -11,13 +11,13 @@ In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local tran
     <thead>
       </thead><colgroup>
         <col style="width: 20%;">
-        <col style="width: 15%;">
-        <col style="width: 7.5%;">
-        <col style="width: 7.5%;">
-        <col style="width: 40%;">
+        <col style="width: 10%;">
+        <col style="width: 5%;">
+        <col style="width: 5%;">
+        <col style="width: 50%;">
         <col style="width: 10%;">
       </colgroup>
-      <tbody><tr>
+      <tbody><tr style="font-size: 14px; border-bottom: 2px;" valign="top" align="center">
         <th>Assay</th>
         <th>Platform</th>
         <th>Spatial</th>
