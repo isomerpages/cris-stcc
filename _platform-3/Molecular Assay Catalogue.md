@@ -17,11 +17,11 @@ In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local tran
         <col style="width: 50%;">
         <col style="width: 10%;">
       </colgroup>
-      <tbody><tr style="font-size: 14px; border-bottom: 2px;" valign="top" align="center">
+      <tbody><tr style="font-size: 14px;" valign="top" align="center">
         <th>Assay</th>
         <th>Platform</th>
         <th>Spatial</th>
-        <th>Single-cell resolution</th>
+        <th valign="top" align="center" style="font-size: 10px;">Single-cell resolution</th>
         <th>Description</th>
         <th>Service partner</th>
       </tr>
