@@ -3,27 +3,41 @@ title: Molecular Assay Catalogue
 permalink: /platform-3/permalink/
 description: ""
 ---
+In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community.
+#### Research Use Only (RUO) assays
+
+<details>
+  <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
+  <table>
+    <thead>
+      </thead><colgroup>
+        <col style="width: 20%;">
+        <col style="width: 15%;">
+        <col style="width: 7.5%;">
+        <col style="width: 7.5%;">
+        <col style="width: 40%;">
+        <col style="width: 10%;">
+      </colgroup>
+      <tbody><tr>
+        <th>Assay</th>
+        <th>Platform</th>
+        <th>Spatial</th>
+        <th>Single-cell resolution</th>
+        <th>Description</th>
+        <th>Service partner</th>
+      </tr>
+    
+    </tbody><tbody>
+      <tr>
+        <td>Whole Exome Sequencing (WES)</td>
+        <td>NGS, Illumina NextSeq 500/550</td>
+        <td></td>
+        <td></td>
+        <td>Targeted sequencing of protein-coding regions.</td>
+        <td>A*STAR CGD POLARIS</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 
-| Assay | Spatial | Single-cell <br> resolution  | Platform |Features |
-| -------- | :--: | :-: | ----------- |  - |
-| Whole Exome Sequencing (WES)      | 0 | 0    |
-
-<table style="background-color: #f2f2f2;"> <colgroup> <col style="width: 20%;"> <col style="width: 40%;"> <col style="width: 40%;"> </colgroup><colgroup> </colgroup><thead> <tr> <th>Column 1</th> <th>Column 2</th> <th>Column 3</th> </tr> </thead> <tbody> <tr> <td>Row 1, Col 1</td> <td style="background-color: #ffcccb;">Row 1, Col 2</td> <td>Row 1, Col 3</td> </tr> <tr> <td>Row 2, Col 1</td> <td>Row 2, Col 2</td> <td>Row 2, Col 3</td> </tr> </tbody> </table>
-
-
-<details> <summary style="font-size: 30px; color: red;">Clinical Assays</summary> <table> <thead> <tr> <th>Header 1</th> <th>Header 2</th> <th>Header 3</th> </tr> </thead> <tbody> <tr> <td>Row 1, Col 1</td> <td>Row 1, Col 2</td> <td>Row 1, Col 3</td> </tr> <tr> <td>Row 2, Col 1</td> <td>Row 2, Col 2</td> <td>Row 2, Col 3</td> </tr> </tbody> </table> </details>
-
-<table>
-  <tbody><tr>
-    <td style="font-size: 16px;">Text 1</td>
-    <td style="font-size: 18px;">Text 2</td>
-  </tr>
-  <tr>
-    <td style="font-size: 14px;">Text 3</td>
-    <td style="font-size: 20px;">Text 4</td>
-  </tr>
-</tbody></table>
-
-
-Coming in October 2023!
