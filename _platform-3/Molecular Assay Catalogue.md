@@ -113,7 +113,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <tr>
 
   <td>Nanostring CosMx</td>
-		<td>🅢 <b>⁂</b></td>
+		<td>🅢<br><b>⁂</b></td>
   <td>Gene expression analysis of a 6,000-gene panel.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.nextlevelgenomics.com//"><u>Next Level Genomics</u></a></td>
   </tr>
@@ -134,7 +134,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <tr>
   <td>DNA Methylation Profiling</td>
   <td>Illumina (Twist EM-Seq)</td>
-		<td>🅢 <b>⁂</b></td>
+		<td>🅢<br><b>⁂</b></td>
   <td>Profiling methylated regions in the human genome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
