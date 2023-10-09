@@ -143,8 +143,10 @@ NGS - Next Generation Sequencing</td>
   </tbody>
 	</table>
 	</details>
-	<details>
-  <summary style="font-size: 24px; color: #344470;">  Proteomics</summary></details>
+	
+	
+
+ <details><summary style="font-size: 24px; color: #344470;">  Proteomics</summary></details>
 	
 #### Clinical (CAP-accredited) assays 
 <details>
