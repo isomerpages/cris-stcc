@@ -7,7 +7,7 @@ In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local tran
 
 <p style="font-size: 12px; line-height: 1.5;">
 Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▦  - spatial resolution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ⓢ  - spatial resolution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ❖ - single-cell resolution
 	</p>
 
@@ -101,21 +101,21 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <tr>
   <td rowspan="4">Spatial Transcriptomics</td>
   <td>Nanostring GeoMx, nCounter</td>
-		<th>▦ </th>
+		<th>ⓢ</th>
   <td>Area-based analysis of the entire human transcriptome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
   </tr>
   <tr>
 
   <td>Nanostring CosMx</td>
-		<th>▦ ❖</th>
+		<th>ⓢ ❖</th>
   <td>Gene expression analysis of a 6,000-gene panel.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.nextlevelgenomics.com//"><u>Next Level Genomics</u></a></td>
   </tr>
   <tr>
 
   <td>10X Visum + CytAssist</td>
-		<th>▦ </th>
+		<th>ⓢ</th>
   <td>Whole-transcriptomic profiling at 55 µm resolution.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
@@ -129,7 +129,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <tr>
   <td>DNA Methylation Profiling</td>
   <td>Illumina (Twist EM-Seq)</td>
-		<th>▦ ❖</th>
+		<th>ⓢ ❖</th>
   <td>Profiling methylated regions in the human genome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
