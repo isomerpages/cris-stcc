@@ -7,8 +7,7 @@ In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local tran
 Symbols:
 ▦  - spatial resolution, 
 ❖ - single-cell resolution
-
-Research Use Only (RUO) assays
+#### Research Use Only (RUO) assays
 
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
