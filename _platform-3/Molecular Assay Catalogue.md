@@ -3,9 +3,15 @@ title: Molecular Assay Catalogue
 permalink: /platform-3/permalink/
 description: ""
 ---
+In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community. <br>
+▦  - spatial resolution <br>
+❖ - single-cell resolution
 
-  
-  <table>
+Research Use Only (RUO) assays
+
+<details>
+  <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
+<table style="font-size: 12px;">
   <colgroup><col style="width: 25%;">
   <col style="width: 20%;">
   <col style="width: 40%;">
@@ -62,13 +68,13 @@ description: ""
   <tr>
   <td>Targeted RNA Sequencing</td>
   <td>Agilent Magnis</td>
-  <td>Whole-exome RNA sequencing for FFPE samples</td>
+  <td>Whole-exome RNA sequencing for FFPE samples.</td>
   <td>NCCS CDH</td>
   </tr>
   <tr>
   <td>Targeted Genome Sequencing</td>
   <td>Agilent Magnis</td>
-  <td>Targeted DNA/RNA panel sequencing (Asian Pancancer Panel)</td>
+  <td>Targeted DNA/RNA panel sequencing (Asian Pancancer Panel).</td>
   <td>NCCS CDH</td>
   </tr>
   <tr>
@@ -120,4 +126,4 @@ description: ""
   <td>NCCS CDH</td>
   </tr>
   </tbody></table>
-  
+	</details>
