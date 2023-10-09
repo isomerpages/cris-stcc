@@ -99,28 +99,28 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <tr>
   <td>Single-cell RNA Sequencing (scRNA-seq)</td>
   <td>10X Chromium</td>
-		<td><b>∵</b></td>
+		<td><b>⁂</b></td>
   <td>Single-cell resolution whole-transcriptomic profiling.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td rowspan="4">Spatial Transcriptomics</td>
   <td>Nanostring GeoMx, nCounter</td>
-		<td>ⓢ</td>
+		<td>🅢</td>
   <td>Area-based analysis of the entire human transcriptome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
   </tr>
   <tr>
 
   <td>Nanostring CosMx</td>
-		<td>ⓢ <b>∵</b></td>
+		<td>🅢 <b>⁂</b></td>
   <td>Gene expression analysis of a 6,000-gene panel.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.nextlevelgenomics.com//"><u>Next Level Genomics</u></a></td>
   </tr>
   <tr>
 
   <td>10X Visum + CytAssist</td>
-		<td>ⓢ</td>
+		<td>🅢</td>
   <td>Whole-transcriptomic profiling at 55 µm resolution.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
@@ -134,7 +134,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <tr>
   <td>DNA Methylation Profiling</td>
   <td>Illumina (Twist EM-Seq)</td>
-		<td>ⓢ <b>∵</b></td>
+		<td>🅢 <b>⁂</b></td>
   <td>Profiling methylated regions in the human genome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
@@ -148,7 +148,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <tr>
   <td>Circulating Tumor Cells (CTCs)</td>
   <td>DEPArray</td>
-		<td><b>∵</b></td>
+		<td><b>⁂</b></td>
   <td>Isolation of circulating tumor cells (CTCs) for profiling.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
