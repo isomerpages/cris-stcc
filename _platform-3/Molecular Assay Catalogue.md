@@ -11,7 +11,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;
 	spatial resolution
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<b>∵</b>
+	<b>∵ ⁂ ※ ⁘ ⁜ ⁙ ⁛ ❉ </b>
 	&nbsp;&nbsp;
 	single-cell resolution
 	</p>
