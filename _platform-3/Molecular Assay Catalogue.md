@@ -10,6 +10,7 @@ Symbols:<br>
 ❖ - single-cell resolution
 
 <h4 style="margin: 0; padding: 0;"> Research Use Only (RUO) assays </h4>
+<div style="height: 10px;"></div>
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
 <table style="font-size: 12px;">
@@ -133,7 +134,8 @@ Service partners:<br>
 <br>
 Methods:<br>
 EM-Seq - Enzymatic Methyl-sequencing<br>
-NGS - Next Generation Sequencing<br><br></td>
+NGS - Next Generation Sequencing<br>
+FFPE - Formalin-Fixed Paraffin-Embedded<br><br></td>
 	</tr>
   </tbody>
 	</table>
@@ -143,10 +145,11 @@ NGS - Next Generation Sequencing<br><br></td>
 </details>
 
 
-<div style="height: 20px;"></div>
+<div style="height: 30px;"></div>
 
 
 <h4 style="margin: 0; padding: 0;">Clinical (CAP-accredited) assays </h4>
+<div style="height: 10px;"></div>
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
 </details>
