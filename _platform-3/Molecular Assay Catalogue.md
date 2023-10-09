@@ -3,173 +3,121 @@ title: Molecular Assay Catalogue
 permalink: /platform-3/permalink/
 description: ""
 ---
-In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community.
-#### Research Use Only (RUO) assays
-<details>
-  <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
-  <table>
-    <thead>
-      </thead><colgroup>
-        <col style="width: 20%;">
-        <col style="width: 10%;">
-        <col style="width: 5%;">
-        <col style="width: 5%;">
-        <col style="width: 50%;">
-        <col style="width: 10%;">
-      </colgroup>
-      <tbody><tr style="font-size: 14px;" valign="top" align="center">
-        <th>Assay</th>
-        <th>Platform</th>
-        <th>Spatial</th>
-        <th valign="top" align="center" style="font-size: 10px;">Single-cell resolution</th>
-        <th>Description</th>
-        <th>Service partner</th>
-      </tr>
-    
-    </tbody><tbody>
-      <tr style="font-size: 12px;">
-        <td>Whole Exome Sequencing (WES)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Targeted sequencing of protein-coding regions.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-      <tr style="font-size: 12px;">
-        <td>Whole Genome Sequencing (WGS)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Comprehensive whole-genome sequencing.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
 
-<details>
-  <summary style="font-size: 24px; color: #344470;">  Proteomics</summary>
+  
   <table>
-    <thead>
-      </thead><colgroup>
-        <col style="width: 20%;">
-        <col style="width: 15%;">
-        <col style="width: 7.5%;">
-        <col style="width: 7.5%;">
-        <col style="width: 40%;">
-        <col style="width: 10%;">
-      </colgroup>
-      <tbody><tr>
-        <th>Assay</th>
-        <th>Platform</th>
-        <th>Spatial</th>
-        <th>Single-cell resolution</th>
-        <th>Description</th>
-        <th>Service partner</th>
-      </tr>
-    
-    </tbody><tbody>
-      <tr style="font-size: 12px;">
-        <td>Whole Exome Sequencing (WES)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Targeted sequencing of protein-coding regions.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-      <tr style="font-size: 12px;">
-        <td>Whole Genome Sequencing (WGS)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Comprehensive whole-genome sequencing.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-#### Clinical (CAP-certified) assays
-<details>
-  <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
-  <table>
-    <thead>
-      </thead><colgroup>
-        <col style="width: 20%;">
-        <col style="width: 15%;">
-        <col style="width: 7.5%;">
-        <col style="width: 7.5%;">
-        <col style="width: 40%;">
-        <col style="width: 10%;">
-      </colgroup>
-      <tbody><tr>
-        <th>Assay</th>
-        <th>Platform</th>
-        <th>Spatial</th>
-        <th>Single-cell resolution</th>
-        <th>Description</th>
-        <th>Service partner</th>
-      </tr>
-    
-    </tbody><tbody>
-      <tr style="font-size: 12px;">
-        <td>Whole Exome Sequencing (WES)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Targeted sequencing of protein-coding regions.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-      <tr style="font-size: 12px;">
-        <td>Whole Genome Sequencing (WGS)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Comprehensive whole-genome sequencing.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<details>
-  <summary style="font-size: 24px; color: #344470;">  Proteomics</summary>
-  <table>
-    <thead>
-      </thead><colgroup>
-        <col style="width: 20%;">
-        <col style="width: 15%;">
-        <col style="width: 7.5%;">
-        <col style="width: 7.5%;">
-        <col style="width: 40%;">
-        <col style="width: 10%;">
-      </colgroup>
-      <tbody><tr>
-        <th>Assay</th>
-        <th>Platform</th>
-        <th>Spatial</th>
-        <th>Single-cell resolution</th>
-        <th>Description</th>
-        <th>Service partner</th>
-      </tr>
-    
-    </tbody><tbody>
-      <tr style="font-size: 12px;">
-        <td>Whole Exome Sequencing (WES)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Targeted sequencing of protein-coding regions.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-      <tr style="font-size: 12px;">
-        <td>Whole Genome Sequencing (WGS)</td>
-        <td>NGS, Illumina NextSeq 500/550</td>
-        <td></td>
-        <td></td>
-        <td>Comprehensive whole-genome sequencing.</td>
-        <td>A*STAR CGD POLARIS</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+  <colgroup><col style="width: 25%;">
+  <col style="width: 20%;">
+  <col style="width: 40%;">
+  <col style="width: 15%;">
+  
+  </colgroup><tbody><tr>
+  <th>Assay</th>
+  <th>Platform</th>
+  <th>Description</th>
+  <th>Service partner</th>
+  </tr>
+  <tr>
+  <td>Whole Exome Sequencing (WES)</td>
+  <td>NGS, Illumina NextSeq 500/550 <br>▦ ❖</td>
+  <td>Targeted sequencing of protein-coding regions.</td>
+  <td>A*STAR CGD POLARIS</td>
+  </tr>
+  <tr>
+  <td>Whole Exome Sequencing (WES)</td>
+  <td>NGS, MGI G400</td>
+  <td>Targeted sequencing of protein-coding regions.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Whole Genome Sequencing (WGS)</td>
+  <td>NGS, Illumina NextSeq 500/550</td>
+  <td>Comprehensive whole-genome sequencing.</td>
+  <td>A*STAR CGD POLARIS</td>
+  </tr>
+  <tr>
+  <td>Whole Genome Sequencing (WGS)</td>
+  <td>NGS, MGI G400</td>
+  <td>Comprehensive whole-genome sequencing.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Bulk RNA Sequencing (RNA-seq)</td>
+  <td>NGS, Illumina NextSeq 500/550</td>
+  <td>Gene expression analysis from bulk samples.</td>
+  <td>A*STAR CGD POLARIS</td>
+  </tr>
+  <tr>
+  <td>Bulk RNA Sequencing (RNA-seq)</td>
+  <td>NGS, MGI G400</td>
+  <td>Gene expression analysis from bulk samples.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Targeted RNA Sequencing</td>
+  <td>Nanostring nCounter</td>
+  <td>Targeted gene expression analysis with Nanostring panels.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Targeted RNA Sequencing</td>
+  <td>Agilent Magnis</td>
+  <td>Whole-exome RNA sequencing for FFPE samples</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Targeted Genome Sequencing</td>
+  <td>Agilent Magnis</td>
+  <td>Targeted DNA/RNA panel sequencing (Asian Pancancer Panel)</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Single-cell RNA Sequencing (scRNA-seq)</td>
+  <td>10X Chromium</td>
+  <td>Single-cell resolution whole-transcriptomic profiling.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Spatial Transcriptomics</td>
+  <td>Nanostring GeoMx, nCounter</td>
+  <td>Area-based analysis of the entire human transcriptome.</td>
+  <td>NUS CSI MMA Core</td>
+  </tr>
+  <tr>
+  <td>Spatial Transcriptomics</td>
+  <td>Nanostring CosMx</td>
+  <td>Gene expression analysis of a 6,000-gene panel.</td>
+  <td>Next Level Genomics</td>
+  </tr>
+  <tr>
+  <td>Spatial Transcriptomics</td>
+  <td>10X Visum + CytAssist</td>
+  <td>Whole-transcriptomic profiling at 55 µm resolution.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Spatial Transcriptomics</td>
+  <td>BGI Stereoseq</td>
+  <td>Single-cell spatial whole-transcriptomic profiling.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>DNA Methylation Profiling</td>
+  <td>Illumina (Twist EM-Seq)</td>
+  <td>Profiling methylated regions in the human genome.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Metagenomic Profiling</td>
+  <td>Illumina (Twist Panviral)</td>
+  <td>Profiling of 1,000+ viral human pathogens DNA samples.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  <tr>
+  <td>Circulating Tumor Cells (CTCs)</td>
+  <td>DEPArray</td>
+  <td>Isolation of circulating tumor cells (CTCs) for profiling.</td>
+  <td>NCCS CDH</td>
+  </tr>
+  </tbody></table>
+  
