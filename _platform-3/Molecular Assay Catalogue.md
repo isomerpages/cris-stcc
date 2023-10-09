@@ -244,44 +244,38 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
 	<tr>
   <td>Spatial Proteomics</td>
-  <td></td>
-	<td></td>
+  <td>Nanostring GeoMx</td>
+	<td>🅢</td>
   <td></td>
 	<td></td>
   </tr>
 	<tr>
   <td>Multiplexed Flow Cytometry</td>
-  <td></td>
-	<td></td>
-  <td></td>
-	<td></td>
+  <td>CyTEK Aurora</td>
+	<td>⁂</td>
+  <td>Immune profiling with a 39-plex panel.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
   </tr>
 			<tr>
   <td>Serum Cytokine Profiling</td>
-  <td></td>
+  <td>Luminex xMAP</td>
 	<td></td>
-  <td></td>
-	<td></td>
+  <td>Multiplexed analysis of cytokines, chemokines, and growth factors.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
   </tr>
 			<tr>
   <td>Secreted Protein Analysis</td>
-  <td></td>
-	<td></td>
-  <td></td>
-	<td></td>
+  <td>Isoplexis IsoLight</td>
+	<td>⁂</td>
+  <td>Ultra-high multiplex secreted protein analysis.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
   </tr>
 	<tr>
 	<td style="font-size: 9px;" colspan="5"><br>
 Service partners:<br>
-<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
-<a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a> - National Cancer Centre Singapore, Cancer Discovery Hub<br>
 <a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a> - National University of Singapore, Cancer Science Institute of Singapore, Microscopy and Multiplex Assays Core<br>
-<br>
-Methods:<br>
-EM-Seq - Enzymatic Methyl-sequencing<br>
-NGS - Next Generation Sequencing<br>
-FFPE - Formalin-Fixed Paraffin-Embedded<br><br></td>
-	</tr>
+<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a>  - Agency for Science, Technology and Research - Institute of Molecular and Cell Biology<br><br>
+</td></tr>
   </tbody>
 	</table>
 </details>
