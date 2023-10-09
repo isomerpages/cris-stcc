@@ -7,11 +7,11 @@ In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local tran
 
 <p style="font-size: 12px; line-height: 1.5;">
 Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ⓢ Ⓢ 🅢 🆂 
+🅢 🆂 
 	&nbsp;&nbsp;
 	spatial resolution
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<b>∵ ⁂ ※ ⁘ ⁜ ⁙ ⁛ ❉ </b>
+	<b>⁂</b>
 	&nbsp;&nbsp;
 	single-cell resolution
 	</p>
