@@ -9,7 +9,7 @@ In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local tran
 <div style="height: 10px;"></div>
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
-	<p style="font-size: 12px; line-height: 1.5;">
+	<p align="right" style="font-size: 12px; line-height: 1.5;">
 Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🅢
 	&nbsp;&nbsp;
@@ -166,7 +166,7 @@ FFPE - Formalin-Fixed Paraffin-Embedded<br><br></td>
 </details>
 <details>
 <summary style="font-size: 24px; color: #344470;">Proteomics</summary>
-<p style="font-size: 12px; line-height: 1.5;">
+<p align="right" style="font-size: 12px; line-height: 1.5;">
 Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🅢
 	&nbsp;&nbsp;
@@ -223,20 +223,18 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		
 	<tr>
   <td rowspan="3">Hyperplex Fluorescent IHC</td>
-		<td>Lunaphore COMET</td>
+	<td>Lunaphore COMET</td>
   <td>🅢<br><b>⁂</b></td>
 	<td>Up to 40 targets at sub-cellular resolution.</td>
-		  <td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
   </tr>
 	<tr>
-
   <td>Akoya Phenocycler</td>
 	<td>🅢<br><b>⁂</b></td>
-		<td>Up to 100+ targets at sub-cellular resolution.</td>
+	<td>Up to 100+ targets at sub-cellular resolution.</td>
 	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
   </tr>
 	<tr>
-
   <td>Miltenyi MACSima</td>
 	<td>🅢<br><b>⁂</b></td>
   <td>Up to 50+ targets at sub-cellular resolution.</td>
@@ -246,8 +244,8 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Spatial Proteomics</td>
   <td>Nanostring GeoMx</td>
 	<td>🅢</td>
-  <td></td>
-	<td></td>
+  <td>Area-based analysis of up to 570 protein targets.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
   </tr>
 	<tr>
   <td>Multiplexed Flow Cytometry</td>
