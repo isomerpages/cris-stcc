@@ -125,5 +125,14 @@ Symbols:
   <td>Isolation of circulating tumor cells (CTCs) for profiling.</td>
   <td>NCCS CDH</td>
   </tr>
-  </tbody></table>
+  </tbody>
+	</table>
 	</details>
+	<details>
+  <summary style="font-size: 24px; color: #344470;">  Proteomics</summary></details>
+	
+#### Clinical (CAP-accredited) assays 
+<details>
+  <summary style="font-size: 24px; color: #344470;">  Genomics</summary></details>
+		<details>
+  <summary style="font-size: 24px; color: #344470;">  Proteomics</summary></details>
