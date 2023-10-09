@@ -38,7 +38,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <th>Service partner</th>
   </tr>
   <tr>
-  <td rowspan="2">Whole Exome Sequencing (WES)</td>
+  <td rowspan="2" valign="middle">Whole Exome Sequencing (WES)</td>
   <td>NGS, Illumina NextSeq 500/550 <br></td>
 		<th></th>
   <td>Targeted sequencing of protein-coding regions.</td>
