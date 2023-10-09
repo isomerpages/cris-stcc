@@ -3,11 +3,20 @@ title: Molecular Assay Catalogue
 permalink: /platform-3/permalink/
 description: ""
 ---
-In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community. <br><br>
-Symbols:
+<style> 
+	h1 { 
+	margin: 0;
+	padding: 0; 
+	}
+</style>
+
+In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community. <br>
+
+Symbols:<br>
 ▦  - spatial resolution, 
 ❖ - single-cell resolution
-#### Research Use Only (RUO) assays
+
+<h4> Research Use Only (RUO) assays </h4>
 
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
