@@ -37,7 +37,7 @@ Symbols:<br>
   <td rowspan="2">Whole Exome Sequencing (WES)</td>
   <td>NGS, Illumina NextSeq 500/550 <br>▦ ❖</td>
   <td>Targeted sequencing of protein-coding regions.</td>
-		<td><a style="text-decoration: none; color: black;" href="https://www.example.com"><u>A*STAR CGD POLARIS</u></a></td>
+		<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
   <tr>
   <td>NGS, MGI G400</td>
@@ -48,7 +48,7 @@ Symbols:<br>
   <td rowspan="2">Whole Genome Sequencing (WGS)</td>
   <td>NGS, Illumina NextSeq 500/550</td>
   <td>Comprehensive whole-genome sequencing.</td>
-  <td>A*STAR CGD POLARIS</td>
+  <td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
   <tr>
 
@@ -135,7 +135,7 @@ Symbols:<br>
 	<tr>
 	<td style="font-size: 9px;" colspan="4"><br>
 Service partners:<br>
-A*STAR CGD POLARIS - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
+<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
 NCCS CDH - National Cancer Centre Singapore, Cancer Discovery Hub<br>
 NUS CSI MMA Core - National University of Singapore, Cancer Science Institute of Singapore, Microscopy and Multiplex Assays Core<br>
 <br>
