@@ -16,7 +16,7 @@ Symbols:<br>
 ▦  - spatial resolution, 
 ❖ - single-cell resolution
 
-<h4> Research Use Only (RUO) assays </h4>
+<h4 style="margin: 0; padding: 0;"> Research Use Only (RUO) assays </h4>
 
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
@@ -138,7 +138,7 @@ Symbols:<br>
 NCCS CDH - National Cancer Centre Singapore, Cancer Discovery Hub<br>
 NUS CSI MMA Core - National University of Singapore, Cancer Science Institute of Singapore, Microscopy and Multiplex Assays Core<br>
 EM-Seq - Enzymatic Methyl-sequencing<br>
-NGS - Next Generation Sequencing</td>
+NGS - Next Generation Sequencing<br><br></td>
 	</tr>
   </tbody>
 	</table>
@@ -147,8 +147,9 @@ NGS - Next Generation Sequencing</td>
 	
 
  <details><summary style="font-size: 24px; color: #344470;">  Proteomics</summary></details>
-	
-#### Clinical (CAP-accredited) assays 
+
+<br>
+<h4 style="margin: 0; padding: 0;">Clinical (CAP-accredited) assays </h4>
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary></details>
 		<details>
