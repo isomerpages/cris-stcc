@@ -21,7 +21,6 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
 <table style="font-size: 12px;">
-	
   <colgroup>
 	<col style="width: 25%;">
   <col style="width: 20%;">
@@ -29,7 +28,6 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <col style="width: 40%;">
   <col style="width: 10%;">
   </colgroup>
-	
 	<tbody><tr>
   <th>Assay</th>
   <th>Platform</th>
@@ -38,9 +36,9 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <th>Service partner</th>
   </tr>
   <tr>
-  <td rowspan="2" valign="middle">Whole Exome Sequencing (WES)</td>
-  <td>NGS, Illumina NextSeq 500/550 <br></td>
-		<th></th>
+  <td rowspan="2">Whole Exome Sequencing (WES)</td>
+  <td>NGS, Illumina NextSeq 500/550</td>
+		<td></td>
   <td>Targeted sequencing of protein-coding regions.</td>
 		<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
@@ -153,7 +151,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
 	<tr>
-	<td style="font-size: 9px;" colspan="4"><br>
+	<td style="font-size: 9px;" colspan="5"><br>
 Service partners:<br>
 <a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
 <a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a> - National Cancer Centre Singapore, Cancer Discovery Hub<br>
@@ -169,6 +167,104 @@ FFPE - Formalin-Fixed Paraffin-Embedded<br><br></td>
 </details>
 <details>
 <summary style="font-size: 24px; color: #344470;">Proteomics</summary>
+
+<table style="font-size: 12px;">
+  <colgroup>
+	<col style="width: 25%;">
+  <col style="width: 20%;">
+	<col style="width: 5%;">
+  <col style="width: 40%;">
+  <col style="width: 10%;">
+  </colgroup>
+	<tbody>
+		<tr>
+  <th>Assay</th>
+  <th>Platform</th>
+	<th></th>
+  <th>Description</th>
+  <th>Service partner</th>
+  </tr>
+  <tr>
+  <td>Chromogenic Immunohistochemistry (IHC)</td>
+  <td>Leica Bond-MAX</td>
+	<td>🅢<br><b>⁂</b></td>
+  <td>Visualization of proteins in tissues using antibodies.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+  </tr>
+	<tr>
+  <td>Multiplex Chromogenic IHC</td>
+  <td>Leica Bond-MAX</td>
+	<td>🅢<br><b>⁂</b></td>
+  <td>Up to 4 targets at sub-cellular resolution.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+  </tr>
+	<tr>
+  <td rowspan="2">Multiplex Fluorescent IHC</td>
+	<td>Akoya PhenoImager HT</td>
+  <td>🅢<br><b>⁂</b></td>
+	<td>Up to 8 targets at sub-cellular resolution.</td>
+			<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+  </tr>
+
+	<tr>
+  <td>ZEISS Axioscan 7</td>
+  <td>🅢<br><b>⁂</b></td>
+	<td>Up to 6 targets at sub-cellular resolution.</td>
+  <td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
+  </tr>
+		
+	<tr>
+  <td rowspan="3">Hyperplex Fluorescent IHC</td>
+		<td>Lunaphore COMET</td>
+  <td>🅢<br><b>⁂</b></td>
+	<td>Up to 40 targets at sub-cellular resolution.</td>
+		  <td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
+  </tr>
+	<tr>
+
+  <td>Akoya Phenocycler</td>
+	<td>🅢<br><b>⁂</b></td>
+		<td></td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+  </tr>
+	<tr>
+
+  <td>Miltenyi MACSima</td>
+
+	<td>🅢<br><b>⁂</b></td>
+  <td>Up to 50+ targets at sub-cellular resolution.</td>
+	<td></td>
+  </tr>
+	<tr>
+		</tr><tr>
+  <td></td>
+  <td></td>
+	<td></td>
+  <td></td>
+	<td></td>
+  </tr>
+	<tr>
+		</tr><tr>
+  <td></td>
+  <td></td>
+	<td></td>
+  <td></td>
+	<td></td>
+  </tr>
+	<tr>
+	<td style="font-size: 9px;" colspan="5"><br>
+Service partners:<br>
+<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
+<a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a> - National Cancer Centre Singapore, Cancer Discovery Hub<br>
+<a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a> - National University of Singapore, Cancer Science Institute of Singapore, Microscopy and Multiplex Assays Core<br>
+<br>
+Methods:<br>
+EM-Seq - Enzymatic Methyl-sequencing<br>
+NGS - Next Generation Sequencing<br>
+FFPE - Formalin-Fixed Paraffin-Embedded<br><br></td>
+	</tr>
+  </tbody>
+	</table>
 </details>
 
 
