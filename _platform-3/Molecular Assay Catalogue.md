@@ -17,7 +17,6 @@ Symbols:<br>
 ❖ - single-cell resolution
 
 <h4 style="margin: 0; padding: 0;"> Research Use Only (RUO) assays </h4>
-<br>
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
 <table style="font-size: 12px;">
@@ -147,12 +146,14 @@ NGS - Next Generation Sequencing<br><br></td>
 	</table>
 </details>
 <details>
-<summary style="font-size: 24px; color: #344470;">  Proteomics</summary>
+<summary style="font-size: 24px; color: #344470;">Proteomics</summary>
 </details>
 
-<br><br>
+
+<div style="height: 20px;"></div>
+
+
 <h4 style="margin: 0; padding: 0;">Clinical (CAP-accredited) assays </h4>
-<br>
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
 </details>
