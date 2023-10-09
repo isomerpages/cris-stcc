@@ -6,8 +6,8 @@ description: ""
 In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community. <br>
 
 <p style="font-size: 12px; line-height: 1.5;">
-Symbols:<br>
-▦  - spatial resolution<br>
+Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+▦  - spatial resolution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ❖ - single-cell resolution
 	</p>
 
