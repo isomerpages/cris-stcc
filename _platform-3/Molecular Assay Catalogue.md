@@ -125,6 +125,14 @@ Symbols:
   <td>Isolation of circulating tumor cells (CTCs) for profiling.</td>
   <td>NCCS CDH</td>
   </tr>
+	<tr>
+	<td style="font-size: 9px;" colspan="4"><br>
+		A*STAR CGD POLARIS - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
+NCCS CDH - National Cancer Centre Singapore, Cancer Discovery Hub<br>
+NUS CSI MMA Core - National University of Singapore, Cancer Science Institute of Singapore, Microscopy and Multiplex Assays Core<br>
+EM-Seq - Enzymatic Methyl-sequencing<br>
+NGS - Next Generation Sequencing</td>
+	</tr>
   </tbody>
 	</table>
 	</details>
