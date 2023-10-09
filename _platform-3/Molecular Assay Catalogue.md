@@ -5,7 +5,11 @@ description: ""
 ---
 In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community. <br>
 
-<p style="font-size: 12px; line-height: 1.5;">
+<h4 style="margin: 0; padding: 0;"> Research Use Only (RUO) assays </h4>
+<div style="height: 10px;"></div>
+<details>
+  <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
+	<p style="font-size: 12px; line-height: 1.5;">
 Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🅢
 	&nbsp;&nbsp;
@@ -15,11 +19,6 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;
 	single-cell resolution
 	</p>
-
-<h4 style="margin: 0; padding: 0;"> Research Use Only (RUO) assays </h4>
-<div style="height: 10px;"></div>
-<details>
-  <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
 <table style="font-size: 12px;">
   <colgroup>
 	<col style="width: 25%;">
@@ -167,7 +166,16 @@ FFPE - Formalin-Fixed Paraffin-Embedded<br><br></td>
 </details>
 <details>
 <summary style="font-size: 24px; color: #344470;">Proteomics</summary>
-
+<p style="font-size: 12px; line-height: 1.5;">
+Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🅢
+	&nbsp;&nbsp;
+	spatial resolution
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<b>⁂</b>
+	&nbsp;&nbsp;
+	single-cell resolution
+	</p>
 <table style="font-size: 12px;">
   <colgroup>
 	<col style="width: 25%;">
@@ -224,28 +232,39 @@ FFPE - Formalin-Fixed Paraffin-Embedded<br><br></td>
 
   <td>Akoya Phenocycler</td>
 	<td>🅢<br><b>⁂</b></td>
-		<td></td>
+		<td>Up to 100+ targets at sub-cellular resolution.</td>
 	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
   </tr>
 	<tr>
 
   <td>Miltenyi MACSima</td>
-
 	<td>🅢<br><b>⁂</b></td>
   <td>Up to 50+ targets at sub-cellular resolution.</td>
+	<td>Miltenyi Biotec</td>
+  </tr>
+	<tr>
+  <td>Spatial Proteomics</td>
+  <td></td>
+	<td></td>
+  <td></td>
 	<td></td>
   </tr>
 	<tr>
-		</tr><tr>
-  <td></td>
+  <td>Multiplexed Flow Cytometry</td>
   <td></td>
 	<td></td>
   <td></td>
 	<td></td>
   </tr>
-	<tr>
-		</tr><tr>
+			<tr>
+  <td>Serum Cytokine Profiling</td>
   <td></td>
+	<td></td>
+  <td></td>
+	<td></td>
+  </tr>
+			<tr>
+  <td>Secreted Protein Analysis</td>
   <td></td>
 	<td></td>
   <td></td>
