@@ -37,7 +37,7 @@ Symbols:<br>
   <td rowspan="2">Whole Exome Sequencing (WES)</td>
   <td>NGS, Illumina NextSeq 500/550 <br>▦ ❖</td>
   <td>Targeted sequencing of protein-coding regions.</td>
-  <td>A*STAR CGD POLARIS</td>
+		<td><a style="text-decoration: none; color: black;" href="https://www.example.com"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
   <tr>
   <td>NGS, MGI G400</td>
