@@ -17,113 +17,133 @@ Symbols:<br>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
 <table style="font-size: 12px;">
 	
-  <colgroup><col style="width: 25%;">
+  <colgroup>
+	<col style="width: 25%;">
   <col style="width: 20%;">
+	<col style="width: 5%;">
   <col style="width: 40%;">
-  <col style="width: 15%;">
-  
-  </colgroup><tbody><tr>
+  <col style="width: 10%;">
+  </colgroup>
+	
+	<tbody><tr>
   <th>Assay</th>
   <th>Platform</th>
+	<th></th>
   <th>Description</th>
   <th>Service partner</th>
   </tr>
   <tr>
   <td rowspan="2">Whole Exome Sequencing (WES)</td>
-  <td>NGS, Illumina NextSeq 500/550 <br>▦ ❖</td>
+  <td>NGS, Illumina NextSeq 500/550 <br></td>
+		<th>▦ ❖</th>
   <td>Targeted sequencing of protein-coding regions.</td>
 		<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
   <tr>
   <td>NGS, MGI G400</td>
+		<th></th>
   <td>Targeted sequencing of protein-coding regions.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td rowspan="2">Whole Genome Sequencing (WGS)</td>
   <td>NGS, Illumina NextSeq 500/550</td>
+		<th></th>
   <td>Comprehensive whole-genome sequencing.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
   <tr>
-
   <td>NGS, MGI G400</td>
+		<th></th>
   <td>Comprehensive whole-genome sequencing.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td rowspan="2">Bulk RNA Sequencing (RNA-seq)</td>
   <td>NGS, Illumina NextSeq 500/550</td>
+		<th></th>
   <td>Gene expression analysis from bulk samples.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
   <tr>
   <td>NGS, MGI G400</td>
+		<th></th>
   <td>Gene expression analysis from bulk samples.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td rowspan="2">Targeted RNA Sequencing</td>
   <td>Nanostring nCounter</td>
+		<th></th>
   <td>Targeted gene expression analysis with Nanostring panels.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td>Agilent Magnis</td>
+		<th></th>
   <td>Whole-exome RNA sequencing for FFPE samples.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td>Targeted Genome Sequencing</td>
   <td>Agilent Magnis</td>
+		<th></th>
   <td>Targeted DNA/RNA panel sequencing (Asian Pancancer Panel).</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td>Single-cell RNA Sequencing (scRNA-seq)</td>
   <td>10X Chromium</td>
+		<th></th>
   <td>Single-cell resolution whole-transcriptomic profiling.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td rowspan="4">Spatial Transcriptomics</td>
   <td>Nanostring GeoMx, nCounter</td>
+		<th></th>
   <td>Area-based analysis of the entire human transcriptome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
   </tr>
   <tr>
 
   <td>Nanostring CosMx</td>
+		<th></th>
   <td>Gene expression analysis of a 6,000-gene panel.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.nextlevelgenomics.com//"><u>Next Level Genomics</u></a></td>
   </tr>
   <tr>
 
   <td>10X Visum + CytAssist</td>
+		<th></th>
   <td>Whole-transcriptomic profiling at 55 µm resolution.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
 
   <td>BGI Stereoseq</td>
+		<th></th>
   <td>Single-cell spatial whole-transcriptomic profiling.</td>
   <td>NCCS CDH</td>
   </tr>
   <tr>
   <td>DNA Methylation Profiling</td>
   <td>Illumina (Twist EM-Seq)</td>
+		<th></th>
   <td>Profiling methylated regions in the human genome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td>Metagenomic Profiling</td>
   <td>Illumina (Twist Panviral)</td>
+		<th></th>
   <td>Profiling of 1,000+ viral human pathogens DNA samples.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td>Circulating Tumor Cells (CTCs)</td>
   <td>DEPArray</td>
+		<th></th>
   <td>Isolation of circulating tumor cells (CTCs) for profiling.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
