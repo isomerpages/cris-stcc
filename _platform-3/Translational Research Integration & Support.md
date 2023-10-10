@@ -16,7 +16,7 @@ A versatile end-to-end pipeline designed to enable and expedite multipartite tra
 
 Coordinating hub for non-interventional clinical studies and downstream translational research of clinical trials. We support all stages of these translational studies, from case identification, sample retrieval, molecular profiling (genomics, transcriptomics and spatial profiling) at multiple institutes to data analysis and management. Applications of the Cancer Tissue Profiling arm includes characterising therapeutic response / disease progression, patient stratification and biomarker development.
 
-In our **Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community.
+In our **[Molecular Assay Catalogue](/platform-3/molecular-assay-catalogue/)**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community.
 
 ·         **Ex vivo Tumour Models**
 
