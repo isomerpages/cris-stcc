@@ -445,4 +445,43 @@ MSP - Methyl-Specific Polymerase Chain Reaction<br><br></td>
 
 <details>
 <summary style="font-size: 24px; color: #344470;">  Proteomics</summary>
+		<p align="right" style="font-size: 12px; line-height: 1.5;">
+Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🅢
+	&nbsp;&nbsp;
+	spatial resolution
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<b>⁂</b>
+	&nbsp;&nbsp;
+	single-cell resolution
+	</p>
+	<table style="font-size: 12px;">
+  <colgroup>
+	<col style="width: 25%;">
+  <col style="width: 20%;">
+	<col style="width: 5%;">
+  <col style="width: 40%;">
+  <col style="width: 10%;">
+  </colgroup>
+	<tbody><tr>
+  <th>Assay</th>
+  <th>Platform</th>
+	<th></th>
+  <th>Description</th>
+  <th>Service partner</th>
+  </tr>
+<tr>
+  <td>Chromogenic Immunohistochemistry (IHC)</td>
+  <td>Ventana BenchMark</td>
+	<td>🅢<br><b>⁂</b></td>
+  <td>Visualization of proteins in tissues using antibodies.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+	<td style="font-size: 9px;" colspan="5">
+		Service partners:<br>
+NUH DMOC - National University Hospital, Diagnostic Molecular Oncology Centre<br></td>
+	</tr>
+  </tbody>
+	</table>
 </details>
