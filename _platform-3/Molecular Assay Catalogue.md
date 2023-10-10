@@ -286,7 +286,163 @@ Service partners:<br>
 <div style="height: 10px;"></div>
 <details>
   <summary style="font-size: 24px; color: #344470;">  Genomics</summary>
+<table style="font-size: 12px;">
+  <colgroup>
+	<col style="width: 25%;">
+  <col style="width: 20%;">
+	<col style="width: 5%;">
+  <col style="width: 40%;">
+  <col style="width: 10%;">
+  </colgroup>
+	<tbody><tr>
+  <th>Assay</th>
+  <th>Platform</th>
+	<th></th>
+  <th>Description</th>
+  <th>Service partner</th>
+  </tr>
+<tr>
+  <td>POLARIS® Clinical Exome Test (Technical)</td>
+  <td>NGS, Illumina NextSeq 500/550</td>
+	<td></td>
+  <td>Targeted sequencing of protein-coding regions.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
+  </tr>
+<tr>
+  <td>POLARIS Somatic Cancer Test</td>
+  <td>NGS, Illumina NextSeq 500/550</td>
+	<td></td>
+  <td>Detection of somatic mutations in 70 genes (lung, breast, prostate, colon).</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
+  </tr>
+<tr>
+  <td>Alternative Promoter Score (APS) Test</td>
+  <td>NGS, Illumina NextSeq 500/550</td>
+	<td></td>
+  <td>Test predicting response to immuno-therapy in gastric cancer.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
+  </tr>
+ <tr>
+  <td>Copy Number Variation (CNV) Profiling</td>
+  <td>OncoScan SNP microarray</td>
+	<td></td>
+  <td>Genome-wide copy number profiling.</td>
+	<td>NUH DMOC</td>
+  </tr>
+  <tr>
+  <td>POLARIS Droplet Digital PCR (DdPCR) EGFR Mutation Test</td>
+  <td>ddPCR</td>
+	<td></td>
+  <td>EGFR mutation test for lung cancer.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
+  </tr>
+ <tr>
+  <td>EGFR amplification, chromosome 7 and 10 status</td>
+  <td>OncoScan SNP microarray</td>
+	<td></td>
+  <td>Detection of EGFR amplification, chromosome 7 and 10 status.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>Gene Fusion Detection</td>
+  <td>Archer FusionPlex pan-solid V2</td>
+	<td></td>
+  <td>Gene fusion detection via anchored multiplex PCR.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>POLARIS RSPO Gene Fusion TEST</td>
+  <td>RT-qPCR</td>
+	<td></td>
+  <td>Detection of gene fusions involving RSPO2/3 for colorectal cancer.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
+  </tr>
+<tr>
+  <td>Chromosomes 1p and 19q co-deletion</td>
+  <td>FISH</td>
+	<td></td>
+  <td>Detection of chromosomes 1p and 19q co-deletion.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>CDKN2A deletion</td>
+  <td>FISH</td>
+	<td></td>
+  <td>Detection of CDKN2A deletion.</td>
+	<td>NUH DMOC</td>
+  </tr>
+ <tr>
+  <td>MYCN amplification</td>
+  <td>FISH</td>
+	<td></td>
+  <td>Detection of MYCN amplification.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>MGMT promoter methylation</td>
+  <td>MSP</td>
+	<td></td>
+  <td>Detection of MGMT promoter methylation.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>POLARIS Sanger Sequencing TEST</td>
+  <td>Sanger sequencing</td>
+	<td></td>
+  <td>Confirmation of mutation status via Sanger sequencing technology.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
+  </tr>
+ <tr>
+  <td>IDH1 and IDH2 mutations</td>
+  <td>Sanger sequencing</td>
+	<td></td>
+  <td>Detection og IDH1 and IDH2 mutations.</td>
+	<td>NUH DMOC</td>
+  </tr>
+ <tr>
+  <td>BRAF p.V600 mutation</td>
+  <td>Sanger sequencing</td>
+	<td></td>
+  <td>Detection of BRAF p.V600 mutation.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>Chromosome 1q gain</td>
+  <td>OncoScan SNP microarray</td>
+	<td></td>
+  <td>Detection of  chromosome 1q gain.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>Medulloblastoma Molecular Group Determination</td>
+  <td>Nanostring nCounter</td>
+	<td></td>
+  <td>Determination of Medulloblastoma Molecular Group.</td>
+	<td>NUH DMOC</td>
+  </tr>
+<tr>
+  <td>Childhood Cancer Panel</td>
+  <td>Illumina NGS AmpliSeq</td>
+	<td></td>
+  <td>Evalauation of the Childhood Cancer Panel.</td>
+	<td>NUH DMOC</td>
+  </tr><tr>
+	<td style="font-size: 9px;" colspan="5">
+		Service partners:<br>
+<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
+NUH DMOC - National University Hospital, Diagnostic Molecular Oncology Centre<br><br>
+Methods:<br>
+NGS - Next-Generation Sequencing<br>
+SNP - Single Nucleotide Polymorphism<br>
+ddPCR - Droplet Digital Polymerase Chain Reaction<br>
+RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
+FISH - Fluorescence In Situ Hybridization<br>
+MSP - Methyl-Specific Polymerase Chain Reaction<br><br></td>
+	</tr>
+  </tbody>
+	</table>
 </details>
+
 <details>
 <summary style="font-size: 24px; color: #344470;">  Proteomics</summary>
 </details>
