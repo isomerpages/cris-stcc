@@ -354,7 +354,29 @@ RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
 	</table>
 </details>
 
+		
 For further inquiries, partnerships and projects please reach out to us!<br>
-**Dr Eddy Miow**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>eddy.miow@stcc.cris.sg</u></a>
-
-
+<table cellspacing="0" cellpadding="0" style="margin: 0; padding: 0;">
+	<colgroup>
+	<col style="width: 150px;">
+  <col style="width: 300px;">
+		</colgroup>
+	<tbody>
+		<tr>
+			<td><b>Dr Eddy Miow</b></td>
+			<td><a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>eddy.miow@stcc.cris.sg</u></a></td>
+		</tr>
+	</tbody>
+	</table>
+	<table cellspacing="0" cellpadding="0" style="margin: 0; padding: 0;">
+	<colgroup>
+	<col style="width: 150px;">
+  <col style="width: 300px;">
+		</colgroup>
+	<tbody>
+		<tr>
+			<td><b>Dr Michał Marek Hoppe</b></td>
+			<td><a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>michal.hoppe@stcc.cris.sg</u></a></td>
+		</tr>
+	</tbody>
+	</table>
