@@ -108,25 +108,22 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
   </tr>
   <tr>
-
   <td>Nanostring CosMx</td>
 		<td>🅢<br><b>⁂</b></td>
   <td>Gene expression analysis of a 6,000-gene panel.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.nextlevelgenomics.com//"><u>Next Level Genomics</u></a></td>
   </tr>
   <tr>
-
   <td>10X Visum + CytAssist</td>
 		<td>🅢</td>
   <td>Whole-transcriptomic profiling at 55 µm resolution.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
-
   <td>BGI Stereoseq</td>
 		<td></td>
   <td>Single-cell spatial whole-transcriptomic profiling.</td>
-  <td>NCCS CDH</td>
+  <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
   <td>DNA Methylation Profiling</td>
@@ -322,33 +319,12 @@ Service partners:<br>
   <td>Test predicting response to immuno-therapy in gastric cancer.</td>
 	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
- <tr>
-  <td>Copy Number Variation (CNV) Profiling</td>
-  <td>OncoScan SNP microarray</td>
-	<td></td>
-  <td>Genome-wide copy number profiling.</td>
-	<td>NUH DMOC</td>
-  </tr>
   <tr>
   <td>POLARIS Droplet Digital PCR (DdPCR) EGFR Mutation Test</td>
   <td>ddPCR</td>
 	<td></td>
   <td>EGFR mutation test for lung cancer.</td>
 	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
-  </tr>
- <tr>
-  <td>EGFR amplification, chromosome 7 and 10 status</td>
-  <td>OncoScan SNP microarray</td>
-	<td></td>
-  <td>Detection of EGFR amplification, chromosome 7 and 10 status.</td>
-	<td>NUH DMOC</td>
-  </tr>
-<tr>
-  <td>Gene Fusion Detection</td>
-  <td>Archer FusionPlex pan-solid V2</td>
-	<td></td>
-  <td>Gene fusion detection via anchored multiplex PCR.</td>
-	<td>NUH DMOC</td>
   </tr>
 <tr>
   <td>POLARIS RSPO Gene Fusion TEST</td>
@@ -358,130 +334,27 @@ Service partners:<br>
 	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
 <tr>
-  <td>Chromosomes 1p and 19q co-deletion</td>
-  <td>FISH</td>
-	<td></td>
-  <td>Detection of chromosomes 1p and 19q co-deletion.</td>
-	<td>NUH DMOC</td>
-  </tr>
-<tr>
-  <td>CDKN2A deletion</td>
-  <td>FISH</td>
-	<td></td>
-  <td>Detection of CDKN2A deletion.</td>
-	<td>NUH DMOC</td>
-  </tr>
- <tr>
-  <td>MYCN amplification</td>
-  <td>FISH</td>
-	<td></td>
-  <td>Detection of MYCN amplification.</td>
-	<td>NUH DMOC</td>
-  </tr>
-<tr>
-  <td>MGMT promoter methylation</td>
-  <td>MSP</td>
-	<td></td>
-  <td>Detection of MGMT promoter methylation.</td>
-	<td>NUH DMOC</td>
-  </tr>
-<tr>
   <td>POLARIS Sanger Sequencing TEST</td>
   <td>Sanger sequencing</td>
 	<td></td>
   <td>Confirmation of mutation status via Sanger sequencing technology.</td>
 	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a></td>
   </tr>
- <tr>
-  <td>IDH1 and IDH2 mutations</td>
-  <td>Sanger sequencing</td>
-	<td></td>
-  <td>Detection og IDH1 and IDH2 mutations.</td>
-	<td>NUH DMOC</td>
-  </tr>
- <tr>
-  <td>BRAF p.V600 mutation</td>
-  <td>Sanger sequencing</td>
-	<td></td>
-  <td>Detection of BRAF p.V600 mutation.</td>
-	<td>NUH DMOC</td>
-  </tr>
 <tr>
-  <td>Chromosome 1q gain</td>
-  <td>OncoScan SNP microarray</td>
-	<td></td>
-  <td>Detection of  chromosome 1q gain.</td>
-	<td>NUH DMOC</td>
-  </tr>
-<tr>
-  <td>Medulloblastoma Molecular Group Determination</td>
-  <td>Nanostring nCounter</td>
-	<td></td>
-  <td>Determination of Medulloblastoma Molecular Group.</td>
-	<td>NUH DMOC</td>
-  </tr>
-<tr>
-  <td>Childhood Cancer Panel</td>
-  <td>Illumina NGS AmpliSeq</td>
-	<td></td>
-  <td>Evalauation of the Childhood Cancer Panel.</td>
-	<td>NUH DMOC</td>
-  </tr><tr>
 	<td style="font-size: 9px;" colspan="5">
 		Service partners:<br>
-<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
-NUH DMOC - National University Hospital, Diagnostic Molecular Oncology Centre<br><br>
+<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br><br>
 Methods:<br>
 NGS - Next-Generation Sequencing<br>
-SNP - Single Nucleotide Polymorphism<br>
 ddPCR - Droplet Digital Polymerase Chain Reaction<br>
 RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
-FISH - Fluorescence In Situ Hybridization<br>
-MSP - Methyl-Specific Polymerase Chain Reaction<br><br></td>
+<br></td>
 	</tr>
   </tbody>
 	</table>
 </details>
 
-<details>
-<summary style="font-size: 24px; color: #344470;">  Proteomics</summary>
-		<p align="right" style="font-size: 12px; line-height: 1.5;">
-Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🅢
-	&nbsp;&nbsp;
-	spatial resolution
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<b>⁂</b>
-	&nbsp;&nbsp;
-	single-cell resolution
-	</p>
-	<table style="font-size: 12px;">
-  <colgroup>
-	<col style="width: 25%;">
-  <col style="width: 20%;">
-	<col style="width: 5%;">
-  <col style="width: 40%;">
-  <col style="width: 10%;">
-  </colgroup>
-	<tbody><tr>
-  <th>Assay</th>
-  <th>Platform</th>
-	<th></th>
-  <th>Description</th>
-  <th>Service partner</th>
-  </tr>
-<tr>
-  <td>Chromogenic Immunohistochemistry (IHC)</td>
-  <td>Ventana BenchMark</td>
-	<td>🅢<br><b>⁂</b></td>
-  <td>Visualization of proteins in tissues using antibodies.</td>
-	<td>NUH DMOC</td>
-  </tr>
-<tr>
-	<td style="font-size: 9px;" colspan="5">
-		Service partners:<br>
-NUH DMOC - National University Hospital, Diagnostic Molecular Oncology Centre<br></td>
-	</tr>
-  </tbody>
-	</table>
-</details>
+For further inquiries, partnerships and projects please reach out to us!<br>
+**Dr Eddy Miow**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>eddy.miow@stcc.cris.sg</u></a>
+
+
