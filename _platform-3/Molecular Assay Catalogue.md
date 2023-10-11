@@ -209,15 +209,13 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>🅢<br><b>⁂</b></td>
 	<td>Up to 8 targets at sub-cellular resolution.</td>
 			<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
-  </tr>
-
+		</tr>
 	<tr>
   <td>ZEISS Axioscan 7</td>
   <td>🅢<br><b>⁂</b></td>
 	<td>Up to 6 targets at sub-cellular resolution.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
   </tr>
-		
 	<tr>
   <td rowspan="3">Hyperplex Fluorescent IHC</td>
 	<td>Lunaphore COMET</td>
