@@ -355,4 +355,4 @@ RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
 		
 For further inquiries, partnerships and projects please reach out to us!<br>
 <b>Dr Eddy Miow</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>eddy.miow@stcc.cris.sg</u></a><br>
-<b>Dr Michał Marek Hoppe</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>michal.hoppe@stcc.cris.sg</u></a>
+<b>Dr Michał Marek Hoppe</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>michal.hoppe@stcc.cris.sg</u></a>
