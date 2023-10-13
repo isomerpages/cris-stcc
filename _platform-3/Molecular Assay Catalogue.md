@@ -101,17 +101,11 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
-  <td rowspan="4">Spatial Transcriptomics</td>
+  <td rowspan="3">Spatial Transcriptomics</td>
   <td>Nanostring GeoMx, nCounter</td>
 		<td>🅢</td>
   <td>Area-based analysis of the entire human transcriptome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
-  </tr>
-  <tr>
-  <td>Nanostring CosMx</td>
-		<td>🅢<br><b>⁂</b></td>
-  <td>Gene expression analysis of a 6,000-gene panel.</td>
-  <td><a style="text-decoration: none; color: black;" href="https://www.nextlevelgenomics.com//"><u>Next Level Genomics</u></a></td>
   </tr>
   <tr>
   <td>10X Visum + CytAssist</td>
@@ -354,5 +348,5 @@ RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
 
 		
 For further inquiries, partnerships and projects, please reach out to us!<br>
-<b>Dr Eddy Miow</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>eddy.miow@stcc.cris.sg</u></a><br>
-<b>Dr Michał Marek Hoppe</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>michal.hoppe@stcc.cris.sg</u></a>
+<b>Dr Eddy Miow</b> - <a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>eddy.miow@stcc.cris.sg</u></a><br>
+<b>Dr Michał Marek Hoppe</b> - <a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>michal.hoppe@stcc.cris.sg</u></a>
