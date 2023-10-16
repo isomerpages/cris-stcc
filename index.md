@@ -32,9 +32,9 @@ sections:
       title: Welcome to STCC
   - infopic:
       title: About Us
-      description: STCC was set up in November 2019 under the RIE2020 funding as a
-        nationally coordinated, virtual organisation to address the need for a
-        cohesive and ...
+      description: The STCC is a nationally coordinated, virtual organisation set up
+        in 2020, under the Research, Innovation and Enterprise (RIE) 2020 Plan,
+        to address...
       button: READ MORE
       url: /our-story/
       image: /images/Homepage/stcc about us.jpg
