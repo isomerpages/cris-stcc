@@ -3,13 +3,9 @@ title: Cancer Clinical Trials & Investigational Medicine Units
 permalink: /platform-1/cancer-clinical-trials-and-investigational-medicine-units/
 description: Cancer Clinical Trials & Investigational Medicine Units
 ---
-Cancer Clinical Trials & Investigational Medicine Units
--------------------------------------------------------
-
 The Cancer Clinical Trials and Investigational Medicine Units platform aims to drive impactful and innovative clinical research and elevate Singapore’s position as a leading destination for conducting cancer clinical trials. We offer unique solutions to support and streamline clinical trial conduct by bringing together the expertise, capabilities and resources across the three healthcare clusters in Singapore. Our platform works closely with research and pharmaceutical/ biotechnology organisations in both the public sector and industry with the common goal of facilitating access to innovative treatments for cancer patients.
 
-Our capabilities and initiatives
---------------------------------
+### **Our capabilities and initiatives**
 
 *   An established framework for multi-centre, collaborative cancer research with streamlined contracting and centralised multi-centre study facilitation workflows
 *   A national cross-cluster Key Opinion Leader network comprising of multidisciplinary experts across oncology indications and key areas of cancer research for efficient feasibility assessments that captures a response across the three healthcare clusters

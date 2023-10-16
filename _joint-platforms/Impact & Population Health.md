@@ -1,6 +1,6 @@
 ---
 title: Impact & Population Health
-permalink: /joint-platforms/impact-population-health/
+permalink: /platform-5/impact-population-health/
 description: ""
 ---
 Impact &amp; Population Health platform aims to support data generation and assessment relevant to health impact to support policy change and implementation aligned with value-based cancer care.
