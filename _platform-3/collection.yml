@@ -2,7 +2,7 @@ collections:
   platform-3:
     output: true
     order:
-      - Operational staff.md
       - Translational Research Integration & Support.md
       - Molecular Assay Catalogue.md
       - Platform Leads.md
+      - Operational staff.md
