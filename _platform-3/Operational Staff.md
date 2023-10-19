@@ -5,7 +5,7 @@ description: ""
 ---
 Meet our operational staff, the hardworking team that keeps our company running smoothly. We welcome collaboration and invite you to reach out to explore potential partnerships and growth opportunities together.
 
-##### Option 1
+### Option 1
 
 <table border="0" style="font-size: 16px;">
 	<colgroup>
@@ -47,7 +47,7 @@ Meet our operational staff, the hardworking team that keeps our company running 
 	</tbody></table>
 
 
-##### Option 2
+### Option 2
 
 <table border="0" style="font-size: 16px;">
 	<colgroup>
@@ -94,7 +94,7 @@ Meet our operational staff, the hardworking team that keeps our company running 
 		</tr>
 	</tbody></table>
 
-##### Option 3
+### Option 3
 
 <table border="0" style="font-size: 16px;">
 	<colgroup>
@@ -131,7 +131,7 @@ Meet our operational staff, the hardworking team that keeps our company running 
 			<a style="text-decoration: none; color: #169CC0;" href="mailto:carmen.yuen@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>carmen.yuen@stcc.cris.sg</u></a></td>
 		</tr></tbody></table>
 		
-##### Option 4
+### Option 4
 
 <span style="font-size: 20px; color: #169CC0;"><b>Project Management</b></span><br>
 <b>Dr Eddy Miow</b>   ✉ <a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>eddy.miow@stcc.cris.sg</u></a><br>
