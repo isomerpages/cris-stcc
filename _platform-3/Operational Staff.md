@@ -98,9 +98,7 @@ Meet our operational staff, the hardworking team that keeps our company running 
 
 <table border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 33%;">
-  <col style="width: 33%;">
-	<col style="width: 33%;">
+	<col style="width: 33%;"><col style="width: 33%;"><col style="width: 33%;">
 	</colgroup>
 	<tbody>
 		<tr>
@@ -146,4 +144,3 @@ Meet our operational staff, the hardworking team that keeps our company running 
 <b>Vikneswari D/O Rajasegaran</b>   (Tumor Models)    ✉ <a style="text-decoration: none; color: #169CC0;" href="mailto:vikneswari.rajasegaran@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>vikneswari.rajasegaran@stcc.cris.sg</u></a><br>
 <b>Yu Hui Cheng</b>   (Histopathology)   ✉ <a style="text-decoration: none; color: #169CC0;" href="mailto:yuhui.cheng@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>yuhui.cheng@stcc.cris.sg</u></a><br>
 <b>Carmen Yuen Yu Fei</b>   (Clinical Data)   ✉ <a style="text-decoration: none; color: #169CC0;" href="mailto:carmen.yuen@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>carmen.yuen@stcc.cris.sg</u></a>
-
