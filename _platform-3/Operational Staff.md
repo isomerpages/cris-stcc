@@ -7,9 +7,9 @@ Meet our operational staff, the hardworking team that keeps our company running 
 
 ##### Option 1A
 
-<table border="0" style="font-size: 14px;">
+<table border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 300px;">
+	<col style="width: 250px;">
   <col style="width: 200px;">
 	<col style="width: 310px;">
 	</colgroup>
@@ -49,9 +49,9 @@ Meet our operational staff, the hardworking team that keeps our company running 
 
 ##### Option 1B
 
-<table border="0" style="font-size: 14px;">
+<table border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 300px;">
+	<col style="width: 250px;">
   <col style="width: 200px;">
 	<col style="width: 310px;">
 	</colgroup>
