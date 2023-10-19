@@ -96,7 +96,7 @@ Meet our operational staff, the hardworking team that keeps our company running 
 
 ##### Option 2
 
-<table border="0" style="font-size: 14px;">
+<table border="0" style="font-size: 16px;">
 	<colgroup>
 	<col style="width: 33%;">
   <col style="width: 33%;">
