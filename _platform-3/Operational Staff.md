@@ -95,10 +95,11 @@ Meet our operational staff, the hardworking team that keeps our company running 
 	</tbody></table>
 
 ### Option 3
-
 <table border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 33%;"><col style="width: 33%;"><col style="width: 33%;">
+		<col style="width: 33%;">
+		<col style="width: 33%;">
+		<col style="width: 33%;">
 	</colgroup>
 	<tbody>
 		<tr>
@@ -111,12 +112,14 @@ Meet our operational staff, the hardworking team that keeps our company running 
 	<td align="center"><b>Dr Michał Marek Hoppe</b><br>
 			Data Analyst<br>
 			<a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>michal.hoppe@stcc.cris.sg</u></a></td>
-		</tr></tbody></table><br>
-		<table border="0" style="font-size: 16px;">
+		</tr>
+	</tbody>
+</table><br>
+<table border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 33%;">
-  <col style="width: 33%;">
-	<col style="width: 33%;">
+		<col style="width: 33%;">
+		<col style="width: 33%;">
+		<col style="width: 33%;">
 	</colgroup>
 	<tbody>
 		<tr>
@@ -129,7 +132,9 @@ Meet our operational staff, the hardworking team that keeps our company running 
 	<td align="center"><b>Carmen Yuen Yu Fei</b><br>
 		Executive<br>(Clinical Data)<br>
 			<a style="text-decoration: none; color: #169CC0;" href="mailto:carmen.yuen@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>carmen.yuen@stcc.cris.sg</u></a></td>
-		</tr></tbody></table>
+		</tr>
+	</tbody>
+</table>
 		
 ### Option 4
 
