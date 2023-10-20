@@ -4,7 +4,7 @@ permalink: /platform-3/operational-team/
 description: ""
 ---
 Meet our operational team, the hardworking staff that keeps our company running smoothly. We welcome collaboration and invite you to reach out to explore potential partnerships and growth opportunities together.
-<br>
+<br><br>
 <table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
 		<col style="width: 250px;">
@@ -24,7 +24,7 @@ Meet our operational team, the hardworking staff that keeps our company running 
 			<a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>michal.hoppe@stcc.cris.sg</u></a></td>
 		</tr>
 	</tbody>
-</table><br>
+</table>
 <table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
 		<col style="width: 250px;">
