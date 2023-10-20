@@ -3,7 +3,7 @@ title: Operational Team
 permalink: /platform-3/operational-team/
 description: ""
 ---
-Meet our operational team, the hardworking team that keeps our company running smoothly. We welcome collaboration and invite you to reach out to explore potential partnerships and growth opportunities together.
+Meet our operational team, the hardworking staff that keeps our company running smoothly. We welcome collaboration and invite you to reach out to explore potential partnerships and growth opportunities together.
 
 <br>
 <table border="0" style="font-size: 16px;" align="center">
