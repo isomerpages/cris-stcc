@@ -5,12 +5,18 @@ description: ""
 ---
 Meet our operational team, the hardworking staff that keeps our company running smoothly. We welcome collaboration and invite you to reach out to explore potential partnerships and growth opportunities together.
 
-<br>
+<table border="0" style="font-size: 16px;" align="center">
+		<colgroup>
+		<col style="width: 750px;">
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>
 <table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
-		<col style="width: 33%;">
-		<col style="width: 33%;">
-		<col style="width: 33%;">
+		<col style="width: 250px;">
+		<col style="width: 250px;">
+		<col style="width: 250px;">
 	</colgroup>
 	<tbody>
 		<tr>
@@ -26,11 +32,15 @@ Meet our operational team, the hardworking staff that keeps our company running 
 		</tr>
 	</tbody>
 </table>
+			</td>
+		</tr>
+		<tr>
+			<td>
 <table border="0" style="font-size: 16px;">
 	<colgroup>
-		<col style="width: 33%;">
-		<col style="width: 33%;">
-		<col style="width: 33%;">
+		<col style="width: 250px;">
+		<col style="width: 250px;">
+		<col style="width: 250px;">
 	</colgroup>
 	<tbody>
 		<tr>
@@ -46,3 +56,8 @@ Meet our operational team, the hardworking staff that keeps our company running 
 		</tr>
 	</tbody>
 </table>
+				</td>
+		</tr>
+	</tbody>
+</table>
+	
