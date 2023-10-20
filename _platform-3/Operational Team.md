@@ -25,6 +25,7 @@ Meet our operational team, the hardworking staff that keeps our company running 
 		</tr>
 	</tbody>
 </table>
+<div style="height: 10px;"></div>
 <table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
 		<col style="width: 250px;">
