@@ -24,8 +24,8 @@ Meet our operational team, the hardworking staff that keeps our company running 
 			<a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>michal.hoppe@stcc.cris.sg</u></a></td>
 		</tr>
 	</tbody>
-</table>
-<table border="0" style="font-size: 16px;">
+</table><br>
+<table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
 		<col style="width: 250px;">
 		<col style="width: 250px;">
