@@ -4,7 +4,7 @@ permalink: /platform-3/operational-team/
 description: ""
 ---
 Meet our operational team, the hardworking staff that keeps our company running smoothly. We welcome collaboration and invite you to reach out to explore potential partnerships and growth opportunities together.
-<br><br>
+<div style="height: 40px;"></div>
 <table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
 		<col style="width: 250px;">
@@ -25,7 +25,7 @@ Meet our operational team, the hardworking staff that keeps our company running 
 		</tr>
 	</tbody>
 </table>
-<div style="height: 10px;"></div>
+<div style="height: 20px;"></div>
 <table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
 		<col style="width: 250px;">
