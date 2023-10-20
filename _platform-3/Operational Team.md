@@ -6,7 +6,7 @@ description: ""
 Meet our operational team, the hardworking team that keeps our company running smoothly. We welcome collaboration and invite you to reach out to explore potential partnerships and growth opportunities together.
 
 <br>
-<table border="0" style="font-size: 16px;">
+<table border="0" style="font-size: 16px;" align="center">
 	<colgroup>
 		<col style="width: 33%;">
 		<col style="width: 33%;">
