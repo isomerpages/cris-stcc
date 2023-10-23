@@ -37,7 +37,7 @@ Meet our operational team, the hardworking staff that keeps our platform running
 			<td><div align="center"><b>Vikneswari D/O Rajasegaran</b><br>
 			Senior Executive<br>
 			<a style="text-decoration: none; color: #169CC0;" href="mailto:vikneswari.rajasegaran@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>vikneswari.rajasegaran@stcc.cris.sg</u></a></div></td>
-			<td><div align="center"><b>Yu Hui Cheng</b><br>
+			<td><div align="center"><b>Cheng Yu Hui</b><br>
 			Executive<br>
 			<a style="text-decoration: none; color: #169CC0;" href="mailto:yuhui.cheng@stcc.cris.sg?subject=STCC%20Project%20inquiry"><u>yuhui.cheng@stcc.cris.sg</u></a></div></td>
 	<td><div align="center"><b>Carmen Yuen Yu Fei</b><br>
