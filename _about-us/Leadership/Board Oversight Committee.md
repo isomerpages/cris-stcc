@@ -48,7 +48,7 @@ third_nav_title: Leadership
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
-					<img src="/images/Leaders/barry-halliwell__stcc.png">
+					<img src="/images/Leaders/sanjay haresh chotirmall.png">
 				</a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
