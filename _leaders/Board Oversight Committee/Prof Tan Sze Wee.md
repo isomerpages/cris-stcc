@@ -10,9 +10,9 @@ third_nav_title: Board Oversight Committee
 
 * * *
 
-Prof Tan Sze Wee is currently the Assistant Chief Executive of A\*STAR’s Biomedical Research Council (BMRC) and Senior Advisor of the Innovation and Enterprise (I&amp;E) Group.
+Prof Tan Sze Wee is currently the Assistant Chief Executive of A*STAR’s Biomedical Research Council (BMRC) and Senior Advisor of the Innovation and Enterprise (I&amp;E) Group.
 
-Prof Tan’s career in A\*STAR started in 2009. He was first appointed as Programme Director of the A\*STAR Medical Technology initiative in Science and Engineering Research Council (SERC) and was subsequently appointed as Director, SERC, where he oversaw all SERC cluster-led research and development (R&amp;D). From 2012 to 2015, Prof Tan was Deputy Executive Director (DED), BMRC and his cross-Council experience enabled A\*STAR to engage companies across industry sectors.
+Prof Tan’s career in A*STAR started in 2009. He was first appointed as Programme Director of the A*STAR Medical Technology initiative in Science and Engineering Research Council (SERC) and was subsequently appointed as Director, SERC, where he oversaw all SERC cluster-led research and development (R&amp;D). From 2012 to 2015, Prof Tan was Deputy Executive Director (DED), BMRC and his cross-Council experience enabled A\*STAR to engage companies across industry sectors.
 
 In 2016, Prof Tan was appointed ED, SERC and was subsequently redesignated as ACE, SERC in 2019. As ACE SERC, Prof Tan drove the implementation of strategic plans and initiatives set for A\*STAR in the Science and Engineering areas. Prof Tan was appointed ACE, I&amp;E as well as Acting Chief Executive of A\*ccelerate Technologies Pte Ltd in 2020. He aligned A\*STAR industry engagement, licensing and venture creation value chain among the A\*STAR Research Institutes and the National Platforms. This is to drive efforts to translate A\*STAR’s R&amp;D to market so as to enable research-fuelled economic and societal impact.
 
