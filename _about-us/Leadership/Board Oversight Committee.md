@@ -50,7 +50,7 @@ third_nav_title: Leadership
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
 					<img src="/images/Leaders/sanjay haresh chotirmall.png">
 				</a>
-				<div align="center"><b>A/Prof Sanjay Haresh</b></div>
+				<div align="center"><b>A/Prof Sanjay Haresh Chortim</b></div>
 			</td>
 		</tr>
 		<tr> <!-- Row 2 -->
