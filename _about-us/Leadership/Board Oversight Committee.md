@@ -27,8 +27,7 @@ third_nav_title: Leadership
 
 <table>
 	<tbody>
-		<tr height="350">
-			         
+		<tr height="350">      
 <td width="25%">
  <a href="/leaders/amanda-ang/" target="_blank">
  <img src="/images/Leaders/amanda ang.png">
@@ -81,9 +80,7 @@ third_nav_title: Leadership
 		</div></td></tr>		
 			<tr> <!-- Row 3 -->
 			<td width="25%">
-					<img src="/images/Leaders/professor%20william%20hwang.png">
-				
-				<div align="center"><b>Prof William Hwang</b>
+					<img src="/images/Leaders/professor%20william%20hwang.png"><div align="center"><b>Prof William Hwang</b>
 		</div></td></tr>		
 		</tbody>
 </table>
