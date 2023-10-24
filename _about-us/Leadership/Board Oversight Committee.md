@@ -77,8 +77,9 @@ third_nav_title: Leadership
 		</tr>
 <tr> <!-- Row 3 -->
 			<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="\_blank"></a>
-					<img src="/images/Leaders/professor%20william%20hwang.png"><div align="center"><b>Prof William Hwang</b>
+				<a href="/leaders/prof-william-hwang/" target="\_blank">
+					<img src="/images/Leaders/professor%20william%20hwang.png"></a>
+				<div align="center"><b>Prof William Hwang</b>
 		</div></td></tr>		
 		</tbody>
 </table>
