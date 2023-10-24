@@ -58,7 +58,7 @@ third_nav_title: Leadership
 				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
 					<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
 				</a>
-				<div align="center"><b>Prof Ng Huck Hui</b></div>
+				<div align="center"><b>Prof Tan Sze Wee</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/ms-elaine-teo/" target="_blank">
