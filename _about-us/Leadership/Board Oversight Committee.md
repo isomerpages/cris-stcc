@@ -41,17 +41,17 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
+						<td width="25%">
+				<a href="/leaders/prof-william-hwang/" target="_blank">
+					<img src="/images/Leaders/professor%20william%20hwang.png">
+				</a>
+				<div align="center"><b>Prof William Hwang</b></div>
+			</td>
 			<td width="25%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
 					<img src="/images/Leaders/barry-halliwell__stcc.png">
 				</a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
-			</td>
-			<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="_blank">
-					<img src="/images/Leaders/professor%20william%20hwang.png">
-				</a>
-				<div align="center"><b>Prof William Hwang</b></div>
 			</td>
 		</tr>
 		<tr> <!-- Row 2 -->
