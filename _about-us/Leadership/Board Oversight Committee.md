@@ -54,7 +54,13 @@ third_nav_title: Leadership
 			</td>
 		</tr>
 		<tr> <!-- Row 2 -->
-			<td width="25%">
+<td width="25%">
+<a href="/leaders/prof-barry-halliwell/" target="_blank">
+<img src="/images/Leaders/barry-halliwell__stcc.png">
+				</a>
+				<div align="center"><b>Prof Barry Halliwell</b></div>
+			</td>
+		</tr><tr><td width="25%">
 				<a href="/leaders/tan-sze-wee/" target="_blank">
 					<img src="/images/Leaders/tan sze wee.png">
 				</a>
@@ -72,13 +78,8 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
-						<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="_blank">
-					<img src="/images/Leaders/professor%20william%20hwang.png">
-				</a>
-				<div align="center"><b>Prof William Hwang</b>
-		</div></td></tr>		
-			<tr> <!-- Row 3 -->
+
+			</tr><tr> <!-- Row 3 -->
 			<td width="25%">
 					<img src="/images/Leaders/professor%20william%20hwang.png"><div align="center"><b>Prof William Hwang</b>
 		</div></td></tr>		
