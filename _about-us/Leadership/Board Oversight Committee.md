@@ -28,6 +28,13 @@ third_nav_title: Leadership
 <table>
 	<tbody>
 		<tr height="350">
+			         
+<td width="25%">
+ <a href="/leaders/amanda-ang/" target="_blank">
+&nbsp; <img src="/images/Leaders/amanda ang.png">
+&nbsp; </a>
+&nbsp; <div align="center"><b>Ms Amanda Ang</b></div>
+</td>
 			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
 					<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
@@ -39,12 +46,6 @@ third_nav_title: Leadership
 					<img src="/images/Leaders/barry-halliwell__stcc.png">
 				</a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
-			</td>
-			<td width="25%">
-				<a href="/leaders/amanda-ang/" target="_blank">
-					<img src="/images/Leaders/amanda ang.png">
-				</a>
-				<div align="center"><b>Ms Amanda Ang</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-william-hwang/" target="_blank">
