@@ -2,6 +2,7 @@ collections:
   leaders:
     output: true
     order:
+      - Board Oversight Committee/Asst Prof Sanjay Haresh Chotirmall.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Dr Benjamin Koh (BOC Chair).md
       - Board Oversight Committee/Ms Amanda Ang.md
