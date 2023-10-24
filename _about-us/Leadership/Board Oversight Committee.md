@@ -24,7 +24,6 @@ third_nav_title: Leadership
 </div>
 
 ---
-
 <table>
 	<tbody>
 		<tr height="350">      
@@ -46,21 +45,20 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>A/Prof Sanjay Haresh Chotirmall</b></div>
 			</td>
-		</tr>
-	<tr><td width="25%">
+<td width="25%">
 				<a href="/leaders/chow-wai-leng/" target="_blank">
-					<img src="/images/Leaders/chow wai leng.png">
-				</a>
+					<img src="/images/Leaders/chow wai leng.png"></a>
 	<div align="center"><b>Dr Chow Wai Leng</b></div>
-</td>
-		</tr><tr> <!-- Row 2 -->
+</td></tr>
+		
+<tr> <!-- Row 2 -->
 <td width="25%">
 <a href="/leaders/prof-barry-halliwell/" target="_blank">
 <img src="/images/Leaders/barry-halliwell__stcc.png">
 				</a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
-		</tr><tr><td width="25%">
+	<td width="25%">
 				<a href="/leaders/tan-sze-wee/" target="_blank">
 					<img src="/images/Leaders/tan sze wee.png">
 				</a>
