@@ -42,9 +42,9 @@ third_nav_title: Leadership
 			</td>
 			<td width="25%">
 				<a href="/leaders/dr-vincent-ho/" target="_blank">
-					<img src="/images/Leaders/dr%20vicent%20ho.png">
+					<img src="/images/Leaders/amanda ang.png">
 				</a>
-				<div align="center"><b>Dr Vincent Ho</b></div>
+				<div align="center"><b>Ms Amanda Ang</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-william-hwang/" target="_blank">
