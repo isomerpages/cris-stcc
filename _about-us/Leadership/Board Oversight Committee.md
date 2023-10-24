@@ -41,7 +41,7 @@ third_nav_title: Leadership
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
 	<td width="25%">
-				<a href="/leaders/sanjay-halliwell/" target="_blank">
+				<a href="/leaders/sanjay-haresh-chotirmall/" target="_blank">
 					<img src="/images/Leaders/sanjay haresh chotirmall.png">
 				</a>
 				<div align="center"><b>A/Prof Sanjay Haresh Chotirmall</b></div>
