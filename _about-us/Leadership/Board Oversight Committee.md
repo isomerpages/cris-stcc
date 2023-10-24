@@ -45,7 +45,7 @@ third_nav_title: Leadership
 				<a href="/leaders/prof-william-hwang/" target="_blank">
 					<img src="/images/Leaders/chow wai leng.png">
 				</a>
-				<div align="center"><b>Prof William Hwang</b></div>
+				<div align="center"><b>Prof  Hwang</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
