@@ -78,8 +78,8 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
-
-			</tr><tr> <!-- Row 3 -->
+		</tr>
+<tr> <!-- Row 3 -->
 			<td width="25%">
 					<img src="/images/Leaders/professor%20william%20hwang.png"><div align="center"><b>Prof William Hwang</b>
 		</div></td></tr>		
