@@ -55,8 +55,8 @@ third_nav_title: Leadership
 		</tr>
 		<tr> <!-- Row 2 -->
 			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
-					<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
+				<a href="/leaders/tan-sze-wee/" target="_blank">
+					<img src="/images/Leaders/tan sze wee.png">
 				</a>
 				<div align="center"><b>Prof Tan Sze Wee</b></div>
 			</td>
