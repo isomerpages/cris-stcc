@@ -41,7 +41,7 @@ third_nav_title: Leadership
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/dr-vincent-ho/" target="_blank">
+				<a href="/leaders/amanda-ang/" target="_blank">
 					<img src="/images/Leaders/amanda ang.png">
 				</a>
 				<div align="center"><b>Ms Amanda Ang</b></div>
