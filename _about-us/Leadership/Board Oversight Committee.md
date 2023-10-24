@@ -40,20 +40,20 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
-						<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="_blank">
-					<img src="/images/Leaders/chow wai leng.png">
-				</a>
-				<div align="center"><b>Dr Chow Wai Leng</b></div>
-			</td>
-			<td width="25%">
+	<td width="25%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
 					<img src="/images/Leaders/sanjay haresh chotirmall.png">
 				</a>
 				<div align="center"><b>A/Prof Sanjay Haresh Chotirmall</b></div>
 			</td>
 		</tr>
-		<tr> <!-- Row 2 -->
+	<tr><td width="25%">
+				<a href="/leaders/prof-william-hwang/" target="_blank">
+					<img src="/images/Leaders/chow wai leng.png">
+				</a>
+	<div align="center"><b>Dr Chow Wai Leng</b></div>
+</td>
+		</tr><tr> <!-- Row 2 -->
 <td width="25%">
 <a href="/leaders/prof-barry-halliwell/" target="_blank">
 <img src="/images/Leaders/barry-halliwell__stcc.png">
