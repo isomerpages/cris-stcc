@@ -81,10 +81,9 @@ third_nav_title: Leadership
 		</div></td></tr>		
 			<tr> <!-- Row 3 -->
 			<td width="25%">
-				<a href="/leaders/tan-sze-wee/" target="_blank">
-					<img src="/images/Leaders/tan sze wee.png">
-				</a>
-				<div align="center"><b>Prof Tan Sze Wee</b></div>
-			</td>
-	</tr></tbody>
+					<img src="/images/Leaders/professor%20william%20hwang.png">
+				
+				<div align="center"><b>Prof William Hwang</b>
+		</div></td></tr>		
+		</tbody>
 </table>
