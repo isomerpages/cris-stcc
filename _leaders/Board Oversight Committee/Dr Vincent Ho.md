@@ -15,4 +15,4 @@ Amanda has around 15 years of experience in biomedical healthcare strategy and R
 
 In industry, Amanda has worked at Johnson &amp; Johnson to develop a well-defined government affairs strategy across the pharmaceuticals, medtech and consumer health sectors in Asia Pacific. At Boston Scientific, she held roles in regional marketing, product management and strategy for interventional cardiology and structural heart medical device products, overseeing the marketing and market access needs for the Asia, Middle East and Africa region.  
 
-Amanda has a Bachelor of Arts in Biological Sciences from the University of Chicago and an MBA from INSEAD.  
+Amanda has a Bachelor of Arts in Biological Sciences from the University of Chicago and an MBA from INSEAD.
