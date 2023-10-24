@@ -31,9 +31,9 @@ third_nav_title: Leadership
 			         
 <td width="25%">
  <a href="/leaders/amanda-ang/" target="_blank">
-&nbsp; <img src="/images/Leaders/amanda ang.png">
-&nbsp; </a>
-&nbsp; <div align="center"><b>Ms Amanda Ang</b></div>
+ <img src="/images/Leaders/amanda ang.png">
+ </a>
+ <div align="center"><b>Ms Amanda Ang</b></div>
 </td>
 			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
