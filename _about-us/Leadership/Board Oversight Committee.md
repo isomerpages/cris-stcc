@@ -24,41 +24,43 @@ third_nav_title: Leadership
 </div>
 
 ---
-
 <table>
 	<tbody>
-		<tr height="350">
+		<tr height="350">      
+<td width="25%">
+ <a href="/leaders/amanda-ang/" target="_blank">
+ <img src="/images/Leaders/amanda ang.png">
+ </a>
+ <div align="center"><b>Ms Amanda Ang</b></div>
+</td>
 			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
 					<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
 				</a>
 				<div align="center"><b>Prof Chong Yap Seng</b></div>
 			</td>
-			<td width="25%">
-				<a href="/leaders/prof-barry-halliwell/" target="_blank">
-					<img src="/images/Leaders/barry-halliwell__stcc.png">
+	<td width="25%">
+				<a href="/leaders/sanjay-haresh-chotirmall/" target="_blank">
+					<img src="/images/Leaders/sanjay haresh chotirmall.png">
+				</a>
+				<div align="center"><b>A/Prof Sanjay Haresh Chotirmall</b></div>
+			</td>
+<td width="25%">
+				<a href="/leaders/chow-wai-leng/" target="_blank">
+					<img src="/images/Leaders/chow wai leng.png"></a>
+	<div align="center"><b>Dr Chow Wai Leng</b></div></td></tr>
+<tr> <!-- Row 2 -->
+<td width="25%">
+<a href="/leaders/prof-barry-halliwell/" target="_blank">
+<img src="/images/Leaders/barry-halliwell__stcc.png">
 				</a>
 				<div align="center"><b>Prof Barry Halliwell</b></div>
 			</td>
-			<td width="25%">
-				<a href="/leaders/dr-vincent-ho/" target="_blank">
-					<img src="/images/Leaders/dr%20vicent%20ho.png">
+	<td width="25%">
+				<a href="/leaders/tan-sze-wee/" target="_blank">
+					<img src="/images/Leaders/tan sze wee.png">
 				</a>
-				<div align="center"><b>Dr Vincent Ho</b></div>
-			</td>
-			<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="_blank">
-					<img src="/images/Leaders/professor%20william%20hwang.png">
-				</a>
-				<div align="center"><b>Prof William Hwang</b></div>
-			</td>
-		</tr>
-		<tr> <!-- Row 2 -->
-			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
-					<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
-				</a>
-				<div align="center"><b>Prof Ng Huck Hui</b></div>
+				<div align="center"><b>Prof Tan Sze Wee</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/ms-elaine-teo/" target="_blank">
@@ -72,6 +74,12 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
-		</tr>		
-	</tbody>
+		</tr>
+<tr> <!-- Row 3 -->
+			<td width="25%">
+				<a href="/leaders/prof-william-hwang/" target="_blank">
+					<img src="/images/Leaders/professor%20william%20hwang.png"></a>
+				<div align="center"><b>Prof William Hwang</b>
+		</div></td></tr>		
+		</tbody>
 </table>
