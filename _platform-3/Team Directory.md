@@ -3,6 +3,7 @@ title: Team Directory
 permalink: /platform-3/platform-leads/
 description: ""
 ---
+Meet our platform staff!
 ### Platform Leads
 <table>
 	<tbody>
@@ -28,7 +29,7 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-# Operations Team
+### Operations Team
 <table border="0" style="font-size: 16px;">
 	<colgroup>
 	<col style="width: 250px;">
