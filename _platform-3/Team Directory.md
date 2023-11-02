@@ -32,8 +32,8 @@ Meet our platform staff!
 ## Operations Team
 <table border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 250px;">
-  <col style="width: 200px;">
+	<col style="width: 200px;">
+  <col style="width: 300px;">
 	</colgroup>
 	<tbody>
 		<tr align="left">
