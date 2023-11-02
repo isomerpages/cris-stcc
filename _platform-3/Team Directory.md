@@ -3,7 +3,6 @@ title: Team Directory
 permalink: /platform-3/platform-leads/
 description: ""
 ---
-Meet our platform staff!
 ## Platform Leads
 <table>
 	<tbody>
