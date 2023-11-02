@@ -7,23 +7,25 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td width="25%">
+			<td width="33%">
 				<a href="/leaders/dr-jason-chan/">
 					<img style="width:200px" src="/images/Leaders/dr-jason-chan.png">
 				</a>
-				<div align="center"><b>Dr Jason Chan</b></div>
+				<div align="center"><b>Dr Jason Chan</b><br>
+				National Cancer Centre Singapore</div>
 			</td>
-			<td width="25%">
+			<td width="33%">
 				<a href="/leaders/dr-anand-jeyasekharan/">
 					<img style="width:200px" src="/images/Leaders/anand-jeyasekharan.png">
 				</a>
-				<div align="center"><b>Dr Anand Jeyasekharan</b></div>
+				<div align="center"><b>Dr Anand Jeyasekharan</b><br>
+				Cancer Science Institute of Singapore</div>
 			</td>
-			<td width="25%">
+			<td width="33%">
 				<a href="/leaders/dr-alexander-lezhava/">
 					<img style="width:200px" src="/images/Leaders/dr-alexandra-lezhava.png">
 				</a>
-				<div align="center"><b>Dr Alexander Lezhava</b></div>
+				<div align="center"><b>Dr Alexander Lezhava</b><br>Genome Institute of Singapore</div>
 			</td>
 		</tr>
 	</tbody>
