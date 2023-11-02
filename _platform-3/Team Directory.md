@@ -25,8 +25,6 @@ description: ""
 				</a>
 				<div align="center"><b>Dr Alexander Lezhava</b></div>
 			</td>
-			<td>
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -60,6 +58,5 @@ description: ""
 											<tr>
 			<td><b>Carmen Yuen Yu Fei</b></td>
 			<td>Executive</td>
-
 		</tr>
 	</tbody></table>
