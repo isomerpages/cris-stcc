@@ -30,6 +30,7 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+<div style="height: 1px;"></div>
 ## Operations Team
 <table border="0" style="font-size: 16px;">
 	<colgroup>
