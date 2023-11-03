@@ -1,11 +1,11 @@
 ---
-title: "Media Release: Launch of a New National Consortium to Advance Clinical
-  Research and Innovation"
+title: Launch of a New National Consortium to Advance Clinical Research and In
 date: 2022-04-06
 layout: link
 description: ""
 image: ""
 external: https://www.cris.sg/news-and-events/media-releases/220406-CRIS-launch/
+variant: tiptap
 ---
 ![](/images/Resources/Media%20Releases/april%206,%202022.png)
 
