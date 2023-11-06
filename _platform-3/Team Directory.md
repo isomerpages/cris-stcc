@@ -2,6 +2,7 @@
 title: Team Directory
 permalink: /platform-3/platform-leads/
 description: ""
+variant: markdown
 ---
 ## Platform Leads
 <table>
@@ -32,7 +33,45 @@ description: ""
 </table>
 <div style="height: 1px;"></div>
 ## Operations Team
-<table border="0" style="font-size: 16px;">
+
+<table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
+			<td><b>Dr Eddy Miow</b></td>
+			<td>Project Manager</td>
+		</tr>
+	</tbody></table>
+	<table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
+			<td><b>Dr Eddy Miow</b></td>
+			<td>Project Manager</td>
+		</tr>
+	</tbody>
+	</table>
+	<table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
+			<td><b>Dr Eddy Miow</b></td>
+			<td>Project Manager</td>
+		</tr>
+	</tbody>
+	</table>
+	
+<br><br><br>
+	<table border="0" style="font-size: 16px;">
 	<colgroup>
 	<col style="width: 200px;">
   <col style="width: 300px;">
