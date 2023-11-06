@@ -51,7 +51,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Dr Eddy Miow</b></td>
+			<td><b>Dr Nimmi Baby</b></td>
 			<td>Project Manager</td>
 		</tr>
 	</tbody>
@@ -63,89 +63,44 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Dr Eddy Miow</b></td>
-			<td>Project Manager</td>
-		</tr>
-	</tbody>
-</table></div>
-<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Dr Eddy Miow</b></td>
-			<td>Project Manager</td>
-		</tr>
-	</tbody>
-</table></div>
-<br><br><br>
-<table cellspacing="0" border="0" style="font-size: 16px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Dr Nimmi Baby</b></td>
-			<td>Project Manager</td>
-		</tr>
-	</tbody>
-</table>
-	<table cellspacing="0" border="0" style="font-size: 16px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Dr Michał Marek Hoppe</b></td>
-			<td>Data Analyst</td>
-		</tr>
-	</tbody>
-	</table>
-	<table cellspacing="0" border="0" style="font-size: 16px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Dr Eddy Miow</b></td>
-			<td>Project Manager</td>
-		</tr>
-	</tbody>
-	</table>
-<br><br><br>
-	<table border="0" style="font-size: 16px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Dr Eddy Miow</b></td>
-			<td>Project Manager</td>
-		</tr>
-			<tr align="left">
-			<td><b>Dr Nimmi Baby</b></td>
-			<td>Project Manager</td>
-		</tr>
-			<tr>
 			<td><b>Dr Michal Marek Hoppe</b></td>
 			<td>Data Analyst</td>
 		</tr>
-							<tr align="left">
+	</tbody>
+</table></div>
+<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
 			<td><b>Vikneswari D/O Rajasegaran</b></td>
 			<td>Senior Executive</td>
-			</tr>
-									<tr>
-			<td><b>Yu Hui Cheng</b></td>
+		</tr>
+	</tbody>
+</table></div>
+<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
+			<td><b>Cheng Yu Hui</b></td>
 			<td>Executive</td>
 		</tr>
-											<tr>
+	</tbody>
+</table></div>
+<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
 			<td><b>Carmen Yuen Yu Fei</b></td>
 			<td>Executive</td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table></div>
