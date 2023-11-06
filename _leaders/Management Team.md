@@ -42,15 +42,3 @@ description: ""
 		</tr>
 	</tbody>
 </table></div>
-<div align="center"><table cellspacing="0" border="0" style="font-size: 15px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Ms. Lin Liyin</b></td>
-			<td>Senior Executive</td>
-		</tr>
-	</tbody>
-</table></div>
