@@ -32,6 +32,30 @@ variant: markdown
 <div style="height: 1px;"></div>
 ## Operations Team
 
+<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
+			<td><b>Dr Eddy Miow</b></td>
+			<td>Project Manager</td>
+		</tr>
+	</tbody>
+</table></div>
+<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
+			<td><b>Dr Eddy Miow</b></td>
+			<td>Project Manager</td>
+		</tr>
+	</tbody>
+</table></div>
 <table cellspacing="0" border="0" style="font-size: 16px;">
 	<colgroup>
 	<col style="width: 200px;">
