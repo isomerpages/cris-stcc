@@ -2,6 +2,7 @@
 title: Molecular Assay Catalogue
 permalink: /platform-3/molecular-assay-catalogue/
 description: ""
+variant: markdown
 ---
 In our&nbsp;**Molecular Assay Catalogue**, we have compiled a list of local translational research capabilities and core facilities at partner cancer research institutes in Singapore. These assays are accessible to the Singapore cancer research community and STCC collaborators.<br>
 
@@ -347,6 +348,4 @@ RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
 </details>
 
 		
-For further inquiries, partnerships and projects, please reach out to us!<br>
-<b>Dr Eddy Miow</b> - <a style="text-decoration: none; color: #169CC0;" href="mailto:eddy.miow@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>eddy.miow@stcc.cris.sg</u></a><br>
-<b>Dr Michał Marek Hoppe</b> - <a style="text-decoration: none; color: #169CC0;" href="mailto:michal.hoppe@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>michal.hoppe@stcc.cris.sg</u></a>
+For further inquiries, partnerships and projects, please reach out to us at <a style="text-decoration: none; color: #169CC0;" href="mailto:tris@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>TRIS@stcc.cris.sg</u></a>.
