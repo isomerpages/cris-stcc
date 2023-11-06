@@ -32,9 +32,9 @@ variant: markdown
 <div style="height: 1px;"></div>
 ## Operations Team
 
-<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+<div align="center"><table cellspacing="0" border="0" style="font-size: 14px;">
 	<colgroup>
-	<col style="width: 200px;">
+	<col style="width: 170px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -44,9 +44,9 @@ variant: markdown
 		</tr>
 	</tbody>
 </table></div>
-<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+<div align="center"><table cellspacing="0" border="0" style="font-size: 14px;">
 	<colgroup>
-	<col style="width: 300px;">
+	<col style="width: 170px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -56,9 +56,9 @@ variant: markdown
 		</tr>
 	</tbody>
 </table></div>
-<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+<div align="center"><table cellspacing="0" border="0" style="font-size: 14px;">
 	<colgroup>
-	<col style="width: 400px;">
+	<col style="width: 170px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -68,9 +68,9 @@ variant: markdown
 		</tr>
 	</tbody>
 </table></div>
-<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+<div align="center"><table cellspacing="0" border="0" style="font-size: 14px;">
 	<colgroup>
-	<col style="width: 500px;">
+	<col style="width: 190px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -80,9 +80,9 @@ variant: markdown
 		</tr>
 	</tbody>
 </table></div>
-<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+<div align="center"><table cellspacing="0" border="0" style="font-size: 14px;">
 	<colgroup>
-	<col style="width: 600px;">
+	<col style="width: 170px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -92,9 +92,9 @@ variant: markdown
 		</tr>
 	</tbody>
 </table></div>
-<div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
+<div align="center"><table cellspacing="0" border="0" style="font-size: 14px;">
 	<colgroup>
-	<col style="width: 200px;">
+	<col style="width: 170px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
