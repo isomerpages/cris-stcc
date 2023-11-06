@@ -4,15 +4,14 @@ permalink: /leaders/management-team/
 variant: markdown
 description: ""
 ---
-### Platform Leads
 <table>
 	<tbody>
 		<tr>
 			<td width="33%">
-				<a href="/leaders/dr-jason-chan/">
-					<img style="width:200px" src="/images/Leaders/dr-jason-chan.png">
+				<a href="/leaders/prof-chng-wee-joo/">
+					<img style="width:200px" src="/images/Leaders/prof-chng-wee-joo.png">
 				</a>
-				<div align="center"><b>Dr Jason Chan</b></div>
+				<div align="center"><b>Prof. Chng Wee Joo</b><br>Executive Director</div>
 			</td>
 			<td width="33%">
 				<a href="/leaders/dr-anand-jeyasekharan/">
