@@ -31,7 +31,6 @@ variant: markdown
 </table>
 <div style="height: 1px;"></div>
 ### Operations Team
-
 <div align="center"><table cellspacing="0" border="0" style="font-size: 15px;">
 	<colgroup>
 	<col style="width: 200px;">
