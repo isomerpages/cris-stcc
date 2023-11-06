@@ -36,21 +36,6 @@ variant: markdown
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 </table>
 
 
