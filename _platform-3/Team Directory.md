@@ -46,7 +46,7 @@ variant: markdown
 </table></div>
 <div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 200px;">
+	<col style="width: 300px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -58,7 +58,7 @@ variant: markdown
 </table></div>
 <div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 200px;">
+	<col style="width: 400px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -70,7 +70,7 @@ variant: markdown
 </table></div>
 <div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 200px;">
+	<col style="width: 500px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
@@ -82,7 +82,7 @@ variant: markdown
 </table></div>
 <div align="center"><table cellspacing="0" border="0" style="font-size: 16px;">
 	<colgroup>
-	<col style="width: 200px;">
+	<col style="width: 600px;">
   <col style="width: 300px;">
 	</colgroup>
 	<tbody>
