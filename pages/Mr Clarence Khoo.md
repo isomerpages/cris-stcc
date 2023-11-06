@@ -1,6 +1,6 @@
 ---
 title: Mr Clarence Khoo
 permalink: /leaders/mr-clarence-khoo/
-variant: tiptap
+variant: markdown
 description: ""
 ---
