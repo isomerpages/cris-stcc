@@ -88,7 +88,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Dr Eddy Miow</b></td>
+			<td><b>Dr Nimmi Baby</b></td>
 			<td>Project Manager</td>
 		</tr>
 	</tbody>
@@ -100,8 +100,8 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Dr Eddy Miow</b></td>
-			<td>Project Manager</td>
+			<td><b>Dr Michał Marek Hoppe</b></td>
+			<td>Data Analyst</td>
 		</tr>
 	</tbody>
 	</table>
