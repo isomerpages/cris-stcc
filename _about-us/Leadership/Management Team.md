@@ -31,4 +31,6 @@ variant: markdown
 			</td>
 			<td>
 			</td>
-</tr></tbody></table>
+	</tr>
+	</tbody>
+</table>
