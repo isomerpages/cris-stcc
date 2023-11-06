@@ -4,7 +4,7 @@ permalink: /platform-4/team-directory/
 description: ""
 variant: markdown
 ---
-### Platform Leads
+### Platform Lead
 <table>
 	<tbody>
 		<tr>
