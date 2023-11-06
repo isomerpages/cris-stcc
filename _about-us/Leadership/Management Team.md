@@ -3,6 +3,7 @@ title: Management Team
 permalink: /leadership/management-team/
 description: ""
 third_nav_title: Leadership
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -30,6 +31,11 @@ third_nav_title: Leadership
 			</td>
 			<td>
 			</td>
-		</tr>
+	</tr>
 	</tbody>
+	
 </table>
+
+
+
+
