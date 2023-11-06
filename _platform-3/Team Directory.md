@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 ### Platform Leads
-<table align="left">
+<div align="left">
+<table>
 	<tbody>
 		<tr>
 			<td width="33%">
@@ -28,7 +29,7 @@ variant: markdown
 			</td>
 		</tr>
 	</tbody>
-</table>
+</table></div>
 <div style="height: 1px;"></div>
 ### Operations Team
 <div align="center"><table cellspacing="0" border="0" style="font-size: 15px;">
