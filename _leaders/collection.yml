@@ -2,7 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Management Team.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Dr Benjamin Koh (BOC Chair).md
       - Board Oversight Committee/Ms Amanda Ang.md
@@ -31,3 +30,4 @@ collections:
       - Management Team OLD/Prof Chng Wee Joo.md
       - Management Team OLD/Prof Lim Soon Thye.md
       - Management Team OLD/Mr Clarence Khoo.md
+      - Management Team.md
