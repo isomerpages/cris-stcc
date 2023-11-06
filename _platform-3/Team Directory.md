@@ -68,7 +68,6 @@ variant: markdown
 		</tr>
 	</tbody>
 	</table>
-	
 <br><br><br>
 	<table border="0" style="font-size: 16px;">
 	<colgroup>
