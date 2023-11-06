@@ -4,25 +4,25 @@ permalink: /platform-3/platform-leads/
 description: ""
 variant: markdown
 ---
-## Platform Leads
+### Platform Leads
 <table>
 	<tbody>
 		<tr>
 			<td width="33%">
 				<a href="/leaders/dr-jason-chan/">
-					<img style="width:200px" src="/images/Leaders/dr-jason-chan.png">
+					<img style="width:150px" src="/images/Leaders/dr-jason-chan.png">
 				</a>
 				<div align="center"><b>Dr Jason Chan</b></div>
 			</td>
 			<td width="33%">
 				<a href="/leaders/dr-anand-jeyasekharan/">
-					<img style="width:200px" src="/images/Leaders/anand-jeyasekharan.png">
+					<img style="width:150px" src="/images/Leaders/anand-jeyasekharan.png">
 				</a>
 				<div align="center"><b>Dr Anand Jeyasekharan</b></div>
 			</td>
 			<td width="33%">
 				<a href="/leaders/dr-alexander-lezhava/">
-					<img style="width:200px" src="/images/Leaders/dr-alexandra-lezhava.png">
+					<img style="width:150px" src="/images/Leaders/dr-alexandra-lezhava.png">
 				</a>
 				<div align="center"><b>Dr Alexander Lezhava</b></div>
 			</td>
@@ -30,7 +30,7 @@ variant: markdown
 	</tbody>
 </table>
 <div style="height: 1px;"></div>
-## Operations Team
+### Operations Team
 
 <div align="center"><table cellspacing="0" border="0" style="font-size: 14px;">
 	<colgroup>
