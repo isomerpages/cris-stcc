@@ -2,6 +2,7 @@
 title: Translational Research Integration & Support
 permalink: /platform-3/translational-research-integration-support/
 description: Translational Research Integration & Support
+variant: markdown
 ---
 The Translational Research Integration &amp; Support platform creates and delivers end-to-end solutions that supports multi-institutional translational and pre-clinical studies, from study design to outcomes. We bring together&nbsp;expertise&nbsp;from cancer research institutes and academic centres across Singapore, with the common goal of developing, testing and validating potential new biomarkers and molecular diagnostics. Our platform boasts a comprehensive facilitation pipeline for translational and pre-clinical research, and functions as a coordinating hub for molecular assays and ex vivo tumour models. This supports our mission to promote collaboration and cohesiveness among academia and industry players in the cancer research community.
 
@@ -39,3 +40,7 @@ We will be setting up the **DIVERSITY Tumour Model Virtual Catalogue (go-live in
 a)&nbsp;&nbsp;&nbsp; **STCC Unified PD1/PDL1 Evaluation of Response (SUPER)**: This multi-institutional study aims to identify and profile matched pairs of immuno-oncology exceptional responders and hyper-progressors using a suite of nucleic acid-based and image-based assay platforms. Tissues samples are retrospectively retrieved from various hospitals and molecular profiling assays are performed at multiple institutes under STCC’s auspice. Data generated from this study will be used to validate an optimal combination of assays that best models the response to anti-PD1/PDL1 immunotherapy. A secondary objective is to identify and utilise new biomarkers to guide treatment choices for anti-PD1/PDL1 immunotherapy across multiple cancers
 
 b)&nbsp;&nbsp;&nbsp; **Spatial Phenotypes Ascribed to Cancers with Extreme Resistance (SPACER)**: This multi-institutional study aims to use advanced spatial phenotyping tools to investigate how the transcriptomic and proteomic landscapes in the tumour microenvironment (TME) contribute to or correlate with extreme resistance in four cancer cohorts (soft tissue sarcomas, breast cancer, multiple myeloma, hepatocellular carcinoma). Various spatial profiling platforms will be employed to identify molecular features in the TME that associate with primary resistance. The collected multidimensional spatial profiling data will be utilised to generate novel bioinformatics pipelines to define spatial phenotypes and biomarkers relevant to predicting outcomes in each of these cohorts.
+
+
+		
+For further inquiries, partnerships and projects, please reach out to us at <a style="text-decoration: none; color: #169CC0;" href="mailto:tris@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>TRIS@stcc.cris.sg</u></a>.
