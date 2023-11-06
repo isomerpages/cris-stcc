@@ -32,7 +32,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms Joanna Chang</b></td>
+			<td><b>Ms. Joanna Chang</b></td>
 			<td>Senior Manager</td>
 		</tr>
 	</tbody>
@@ -44,7 +44,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms Jessica Lee</b></td>
+			<td><b>Ms. Jessica Lee</b></td>
 			<td>Study Manager</td>
 		</tr>
 	</tbody>
@@ -56,7 +56,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms Tan Shiok Hui</b></td>
+			<td><b>Ms. Tan Shiok Hui</b></td>
 			<td>Project Coordinator</td>
 		</tr>
 	</tbody>
@@ -68,7 +68,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms Priscilla Tay</b></td>
+			<td><b>Ms. Priscilla Tay</b></td>
 			<td>Assistant Study Manager</td>
 		</tr>
 	</tbody>
