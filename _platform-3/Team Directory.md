@@ -12,21 +12,19 @@ variant: markdown
 				<a href="/leaders/dr-jason-chan/">
 					<img style="width:200px" src="/images/Leaders/dr-jason-chan.png">
 				</a>
-				<div align="center"><b>Dr Jason Chan</b><br>
-					<i>National Cancer Centre Singapore</i></div>
+				<div align="center"><b>Dr Jason Chan</b></div>
 			</td>
 			<td width="33%">
 				<a href="/leaders/dr-anand-jeyasekharan/">
 					<img style="width:200px" src="/images/Leaders/anand-jeyasekharan.png">
 				</a>
-				<div align="center"><b>Dr Anand Jeyasekharan</b><br>
-					<i>Cancer Science Institute of Singapore</i></div>
+				<div align="center"><b>Dr Anand Jeyasekharan</b></div>
 			</td>
 			<td width="33%">
 				<a href="/leaders/dr-alexander-lezhava/">
 					<img style="width:200px" src="/images/Leaders/dr-alexandra-lezhava.png">
 				</a>
-				<div align="center"><b>Dr Alexander Lezhava</b><br><i>Genome Institute of Singapore</i></div>
+				<div align="center"><b>Dr Alexander Lezhava</b></div>
 			</td>
 		</tr>
 	</tbody>
@@ -44,7 +42,8 @@ variant: markdown
 			<td><b>Dr Eddy Miow</b></td>
 			<td>Project Manager</td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 	<table cellspacing="0" border="0" style="font-size: 16px;">
 	<colgroup>
 	<col style="width: 200px;">
