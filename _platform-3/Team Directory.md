@@ -56,6 +56,7 @@ variant: markdown
 		</tr>
 	</tbody>
 </table></div>
+<br><br><br>
 <table cellspacing="0" border="0" style="font-size: 16px;">
 	<colgroup>
 	<col style="width: 200px;">
