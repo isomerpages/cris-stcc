@@ -348,4 +348,4 @@ RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
 </details>
 
 		
-For further inquiries, partnerships and projects, please reach out to us at <a style="text-decoration: none; color: #169CC0;" href="mailto:tris@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>TRIS@stcc.cris.sg</u></a>.
+For further inquiries, partnerships and projects, please reach out to us at <a style="text-decoration: none; color: #169CC0;" href="mailto:tris@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>contact@stcc.cris.sg</u></a>.
