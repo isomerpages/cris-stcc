@@ -348,4 +348,4 @@ RT-qPCR - Reverse Transcription Quantitative Polymerase Chain Reaction<br>
 </details>
 
 		
-For further inquiries, partnerships and projects, please fill in the&nbsp;<a href="https://form.gov.sg/64af78bb7075fe00114ad913" target="”_blank”">online form</a>
+For further inquiries, partnerships and projects, please fill in the&nbsp;<a href="https://form.gov.sg/64af78bb7075fe00114ad913" target="”_blank”">online form</a>.
