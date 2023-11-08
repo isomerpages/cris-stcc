@@ -22,3 +22,16 @@ variant: markdown
 		</td></tr>
 	</tbody>
 </table>
+
+### Operations Team
+<div align="center"><table cellspacing="0" border="0" style="font-size: 15px;">
+	<colgroup>
+	<col style="width: 200px;">
+  <col style="width: 300px;">
+	</colgroup>
+	<tbody>
+		<tr align="left">
+			<td><b>Ms. Wan Su Wei</b></td>
+			<td>Research Fellow</td>
+		</tr>
+	</tbody></table></div>
