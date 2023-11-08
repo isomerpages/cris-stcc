@@ -12,7 +12,7 @@ variant: markdown
 --- 
 <div align="center"> 	
 	<a href="/leaders/dr-benjamin-koh/" target="_blank">
-		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
+		<img style="width:150px" src="/images/Leaders/dr%20benjamin%20koh.png">
 	</a>
 </div>
 <div align="center">
