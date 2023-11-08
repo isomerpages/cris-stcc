@@ -43,4 +43,4 @@ b)&nbsp;&nbsp;&nbsp; **Spatial Phenotypes Ascribed to Cancers with Extreme Resis
 
 
 		
-For further inquiries, partnerships and projects, please reach out to us at <a style="text-decoration: none; color: #169CC0;" href="mailto:tris@stcc.cris.sg?subject=STCC%20Molecular%20Assay%20Catalogue"><u>TRIS@stcc.cris.sg</u></a>.
+For further inquiries, partnerships and projects, please fill in the&nbsp;<a href="https://form.gov.sg/64af78bb7075fe00114ad913" target="”_blank”">online form</a>
