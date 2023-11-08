@@ -45,12 +45,13 @@ variant: markdown
 				</a>
 				<div align="center"><b>A/Prof Sanjay Haresh Chotirmall</b></div>
 			</td>
-<td width="25%">
+
+</tr><tr> <!-- Row 2 -->
+	<td width="25%">
 				<a href="/leaders/chow-wai-leng/" target="_blank">
 					<img src="/images/Leaders/chow wai leng.png"></a>
 	<div align="center"><b>Dr Chow Wai Leng</b></div></td></tr>
-<tr> <!-- Row 2 -->
-<td width="25%">
+<tr><td width="25%">
 <a href="/leaders/prof-barry-halliwell/" target="_blank">
 <img src="/images/Leaders/barry-halliwell__stcc.png">
 				</a>
