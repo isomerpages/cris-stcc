@@ -77,8 +77,7 @@ variant: markdown
 				</a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
-		
-			</tr><tr><td width="25%">
+			<td width="25%">
 				<a href="/leaders/prof-william-hwang/" target="_blank">
 					<img src="/images/Leaders/professor%20william%20hwang.png"></a>
 				<div align="center"><b>Prof William Hwang</b>
