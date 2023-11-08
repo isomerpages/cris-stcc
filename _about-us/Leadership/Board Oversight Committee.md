@@ -11,7 +11,8 @@ variant: markdown
 
 --- 
 
-<div align="center"> 	      
+<div align="center"> 	
+	      
 
 	<a href="/leaders/dr-benjamin-koh/" target="_blank">
 		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
@@ -19,7 +20,7 @@ variant: markdown
 </div>
 <div align="center">
 	<b>Dr Benjamin Koh</b>
-</div>
+</div> 
 
 <div align="left">
 	<h4>Members</h4>
