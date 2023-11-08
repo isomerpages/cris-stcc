@@ -3,6 +3,7 @@ title: Board Oversight Committee
 permalink: /leadership/board-oversight-committee/
 description: ""
 third_nav_title: Leadership
+variant: markdown
 ---
 <div align="left">
 	<h4>Chairman</h4>
@@ -10,7 +11,8 @@ third_nav_title: Leadership
 
 --- 
 
-<div align="center">
+<div align="center"> 	      
+
 	<a href="/leaders/dr-benjamin-koh/" target="_blank">
 		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 	</a>
