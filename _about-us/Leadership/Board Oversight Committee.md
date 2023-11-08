@@ -45,8 +45,8 @@ variant: markdown
 				</a>
 				<div align="center"><b>A/Prof Sanjay Haresh Chotirmall</b></div>
 			</td>
-
-</tr><tr> <!-- Row 2 -->
+</tr>
+		<tr> <!-- Row 2 -->
 	<td width="25%">
 				<a href="/leaders/chow-wai-leng/" target="_blank">
 					<img src="/images/Leaders/chow wai leng.png"></a>
@@ -63,8 +63,8 @@ variant: markdown
 				</a>
 				<div align="center"><b>Prof Tan Sze Wee</b></div>
 			</td>
-			
-</tr><tr> <!-- Row 3 -->
+		</tr>
+		<tr> <!-- Row 3 -->
 	<td width="25%">
 				<a href="/leaders/ms-elaine-teo/" target="_blank">
 					<img src="/images/Leaders/ms%20elaine%20teo.png">
