@@ -3,21 +3,21 @@ title: Board Oversight Committee
 permalink: /leadership/board-oversight-committee/
 description: ""
 third_nav_title: Leadership
+variant: markdown
 ---
 <div align="left">
 	<h4>Chairman</h4>
 </div>
 
 --- 
-
-<div align="center">
+<div align="center"> 	
 	<a href="/leaders/dr-benjamin-koh/" target="_blank">
 		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 	</a>
 </div>
 <div align="center">
 	<b>Dr Benjamin Koh</b>
-</div>
+</div> 
 
 <div align="left">
 	<h4>Members</h4>
@@ -26,8 +26,7 @@ third_nav_title: Leadership
 ---
 <table>
 	<tbody>
-		<tr height="350">      
-<td width="25%">
+	<tr><td width="25%">
  <a href="/leaders/amanda-ang/" target="_blank">
  <img src="/images/Leaders/amanda ang.png">
  </a>
@@ -45,11 +44,12 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>A/Prof Sanjay Haresh Chotirmall</b></div>
 			</td>
-<td width="25%">
+</tr>
+		<tr> <!-- Row 2 -->
+	<td width="25%">
 				<a href="/leaders/chow-wai-leng/" target="_blank">
 					<img src="/images/Leaders/chow wai leng.png"></a>
-	<div align="center"><b>Dr Chow Wai Leng</b></div></td></tr>
-<tr> <!-- Row 2 -->
+		<div align="center"><b>Dr Chow Wai Leng</b></div></td>
 <td width="25%">
 <a href="/leaders/prof-barry-halliwell/" target="_blank">
 <img src="/images/Leaders/barry-halliwell__stcc.png">
@@ -62,7 +62,9 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>Prof Tan Sze Wee</b></div>
 			</td>
-			<td width="25%">
+		</tr>
+		<tr> <!-- Row 3 -->
+	<td width="25%">
 				<a href="/leaders/ms-elaine-teo/" target="_blank">
 					<img src="/images/Leaders/ms%20elaine%20teo.png">
 				</a>
@@ -74,8 +76,6 @@ third_nav_title: Leadership
 				</a>
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
-		</tr>
-<tr> <!-- Row 3 -->
 			<td width="25%">
 				<a href="/leaders/prof-william-hwang/" target="_blank">
 					<img src="/images/Leaders/professor%20william%20hwang.png"></a>

@@ -56,7 +56,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms. Tan Shiok Hui</b></td>
+			<td><b>Ms. Tan Siok Hui</b></td>
 			<td>Project Coordinator</td>
 		</tr>
 	</tbody>
