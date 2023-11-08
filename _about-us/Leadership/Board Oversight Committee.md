@@ -26,8 +26,7 @@ variant: markdown
 ---
 <table>
 	<tbody>
-		<tr height="350">      
-<td width="25%">
+	<tr><td width="25%">
  <a href="/leaders/amanda-ang/" target="_blank">
  <img src="/images/Leaders/amanda ang.png">
  </a>
