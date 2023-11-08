@@ -10,10 +10,7 @@ variant: markdown
 </div>
 
 --- 
-
 <div align="center"> 	
-	      
-
 	<a href="/leaders/dr-benjamin-koh/" target="_blank">
 		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
 	</a>
@@ -65,7 +62,9 @@ variant: markdown
 				</a>
 				<div align="center"><b>Prof Tan Sze Wee</b></div>
 			</td>
-			<td width="25%">
+			
+</tr><tr> <!-- Row 3 -->
+	<td width="25%">
 				<a href="/leaders/ms-elaine-teo/" target="_blank">
 					<img src="/images/Leaders/ms%20elaine%20teo.png">
 				</a>
@@ -78,8 +77,7 @@ variant: markdown
 				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
 			</td>
 		</tr>
-<tr> <!-- Row 3 -->
-			<td width="25%">
+			<tr><td width="25%">
 				<a href="/leaders/prof-william-hwang/" target="_blank">
 					<img src="/images/Leaders/professor%20william%20hwang.png"></a>
 				<div align="center"><b>Prof William Hwang</b>
