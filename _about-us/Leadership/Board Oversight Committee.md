@@ -19,8 +19,10 @@ variant: markdown
 	<b>Dr Benjamin Koh</b>
 </div> 
 
-<div align="left">
-	<h4>Members</h4>
+<p>
+
+</p><div align="left">
+<h4>Members</h4>
 </div>
 
 ---
