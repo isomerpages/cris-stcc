@@ -11,8 +11,9 @@ variant: markdown
 
 * * *
       
-Executive Director,    
-Singapore Translational Cancer Consortium** 
+**Singapore Translational Cancer Consortium** 
+Executive Director
+
 
 **National University of Singapore** 
 * Yong Loo Lin Professor in Medical Oncology 
