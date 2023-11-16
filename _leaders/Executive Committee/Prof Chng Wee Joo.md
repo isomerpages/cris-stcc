@@ -11,8 +11,8 @@ variant: markdown
 
 * * *
       
-**Singapore Translational Cancer Consortium** 
-Executive Director
+**Singapore Translational Cancer Consortium**    
+* Executive Director
 
 
 **National University of Singapore** 
