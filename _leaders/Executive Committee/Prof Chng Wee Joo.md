@@ -11,7 +11,7 @@ variant: markdown
 
 * * *
       
-**Singapore Translational Cancer Consortium** 
+**Singapore Translational Cancer Consortium**
 * Executive Director
 
 
