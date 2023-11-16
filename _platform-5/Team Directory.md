@@ -31,7 +31,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms. Wan Su Wei</b></td>
+			<td><b>Dr Wan Su Wei</b></td>
 			<td>Research Fellow</td>
 		</tr>
 	</tbody></table></div>
