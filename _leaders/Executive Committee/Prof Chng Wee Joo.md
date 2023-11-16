@@ -10,16 +10,18 @@ variant: markdown
 **Affiliations**&nbsp;
 
 * * *
+      
+Executive Director,    
+Singapore Translational Cancer Consortium** 
 
-Deputy Director &amp; Senior Principal Investigator, Cancer Science Institute of Singapore, NUS;&nbsp;
-
-Provost’s Chair &amp; Professor, Yong Loo Lin School of Medicine, National University of Singapore;&nbsp;
-
-Director, National University Cancer Institute, Singapore (NCIS);&nbsp;
-
-Head and Senior Consultant, Division of Haematology, Department of Haematology-Oncology, NCIS;&nbsp;
-
-Leader, Haematologic Malignancy Tumour Group, NCIS&nbsp;
+**National University of Singapore** 
+* Yong Loo Lin Professor in Medical Oncology 
+* Vice President, Office of the Deputy President (Research and Technology)  
+* Senior Principal Investigator, Cancer Science Institute of Singapore
+ 
+**National University Health System**  
+* Group Director of Research
+* Senior Consultant, National University Cancer Institute, Singapore
 
 **Profile**&nbsp;
 
