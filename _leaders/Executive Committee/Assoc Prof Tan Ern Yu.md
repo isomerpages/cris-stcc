@@ -3,10 +3,11 @@ title: Assoc Prof Tan Ern Yu
 permalink: /leaders/assoc-prof-tan-ern-yu/
 description: ""
 third_nav_title: Executive Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/tan ern yu.png">
 
-**Affiliations**
+##### Affiliations
 
 * * *
 
@@ -14,11 +15,10 @@ Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational Canc
 
 Head of Service (Breast &amp; Endocrine Surgery), Senior Consultant, Tan Tock Seng Hospital;
 
-**Profile**
+##### Profile
 
 * * *
-
-Associate Professor Tan Ern Yu is a senior consultant breast surgeon at Tan Tock Seng Hospital (TTSH). In addition to her clinical role, she serves as the Director of Clinical Research, Head of the Breast Service, and Director of the Breast Clinic. She completed her Doctor of Philosophy studies at the University of Oxford in 2005.
+Associate Professor Tan Ern Yu is a senior consultant and breast surgeon at Tan Tock Seng Hospital (TTSH). She is also the Director of Clinical Research, Head of the Breast Service, and Director of the Breast Clinic. She completed her Doctor of Philosophy studies at the University of Oxford in 2005.
 
 Dr Tan is actively engaged in research focused on translatable clinical outcomes. Her extensive research endeavors have involved collaborations with various esteemed local and international institutes such as the Institute of Molecular and Cell Biology (IMCB) where she has a joint appointment, as well as the Genome Institute of Singapore, Lee Kong Chian School of Medicine, National Cancer Center Tokyo, Cleveland Clinic, and several other international units through the Singapore Breast Cancer Working Group.
 

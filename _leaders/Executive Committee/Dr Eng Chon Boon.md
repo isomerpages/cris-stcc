@@ -3,10 +3,11 @@ title: Dr Eng Chon Boon
 permalink: /leaders/dr-eng-chon-boon/
 description: ""
 third_nav_title: Executive Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/dr-eng-chon-boon.png">
 
-**Affiliations**
+##### Affiliations
 
 * * *
 
@@ -14,13 +15,12 @@ Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational Canc
 
 Director, NUH Tissue Repository, Research Office, National University Health Systems, Singapore&nbsp;&nbsp;&nbsp;
 
-**Profession appointment**&nbsp;&nbsp;
-
+##### Profession appointment
 * * *
 
 Member of the&nbsp;Victoria Cancer&nbsp;Biobank‘s Strategic Advisory Group&nbsp;
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 

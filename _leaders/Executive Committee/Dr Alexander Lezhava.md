@@ -3,10 +3,11 @@ title: Dr Alexander Lezhava
 permalink: /leaders/dr-alexander-lezhava/
 description: ""
 third_nav_title: Executive Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/dr-alexandra-lezhava.png">
 
-**Affiliations**
+##### Affiliations
 
 * * *
 
@@ -14,7 +15,7 @@ Platform Lead, Translational Research Integration &amp; Support, Singapore Trans
 
 Senior Group Leader, Translational Research, Genomic Institute of Singapore&nbsp;
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 

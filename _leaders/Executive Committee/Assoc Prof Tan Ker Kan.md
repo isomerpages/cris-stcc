@@ -3,11 +3,11 @@ title: Assoc Prof Tan Ker Kan
 permalink: /leaders/assoc-prof-tan-ker-kan/
 description: ""
 third_nav_title: Executive Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/tan-ker-kan.png">
 
-**Affiliations**&nbsp;
-
+##### Affiliations
 * * *
 
 Platform Lead,&nbsp;Impact &amp; Population Health, Singapore Translational Cancer Consortium;
@@ -18,7 +18,7 @@ Senior Consultant, Division of Surgical Oncology, National University Cancer Ins
 
 Associate Professor, Department of Surgery, Yong Loo Lin School of Medicine, National University of Singapore
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 

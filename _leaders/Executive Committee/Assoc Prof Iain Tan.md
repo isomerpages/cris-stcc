@@ -3,10 +3,11 @@ title: Assoc Prof Iain Tan
 permalink: /leaders/assoc-prof-iain-tan/
 description: ""
 third_nav_title: Executive Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 
-**Affiliations**
+##### Affiliations
 
 * * *
 
@@ -18,7 +19,7 @@ Director of Research, Clinical Analytics, Division of Medical Oncology, NCCS,&nb
 
 Senior Clinician Scientist, Genome Institute of Singapore, A\*Star&nbsp;
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 
