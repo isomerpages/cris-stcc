@@ -3,10 +3,11 @@ title: Dr Jason Chan
 permalink: /leaders/dr-jason-chan/
 description: ""
 third_nav_title: Executive Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/dr-jason-chan.png">
 
-**Affiliations**
+##### Affiliations
 
 * * *
 
@@ -20,7 +21,7 @@ Deputy Director, Division of Medical Oncology Research, National Cancer Centre S
 
 Assistant Professor, Duke-NUS Medical School&nbsp;
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 
