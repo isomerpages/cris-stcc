@@ -20,7 +20,7 @@ Senior Clinician-Scientist, Genome Institute of Singapore&nbsp;
 ##### Profile &nbsp;
 
 * * *    
-Associate Professor Daniel Tan has a specialist interest in thoracic, head and neck oncology and cancer drug development. His work is focused on addressing the translational gap between basic science and clinical practice – particularly in improving our understanding of the determinants of response and resistance to targeted therapy and immunotherapy.&nbsp;
+Assoc. Professor Daniel Tan has a specialist interest in thoracic, head and neck oncology and cancer drug development. His work is focused on addressing the translational gap between basic science and clinical practice – particularly in improving our understanding of the determinants of response and resistance to targeted therapy and immunotherapy.&nbsp;
 
 In recognition of his research, he received the American Society of Clinical Oncology (ASCO) Merit Award twice, an ASCO Young Investigator Award and the&nbsp;SingHealth&nbsp;GCEO Outstanding Clinician-Researcher Award (2016). In 2019, he was awarded the Daniel C.&nbsp;Idhe&nbsp;Lectureship in Medical Oncology from the International Association for Study of Lung Cancer (IASLC) 2019 for his ‘extensive contributions in the lung cancer arena’. He was twice awarded the Clinician-Scientist Award from the National Medical Research Council of Singapore (NMRC). He has published more than 100 peer-reviewed articles, including top tier journals such as The New England Journal of Medicine, The Lancet, Nature, Nature Genetics, Nature&nbsp;Medicine&nbsp;and Journal of Clinical Oncology.&nbsp;
 
