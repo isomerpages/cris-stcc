@@ -3,10 +3,11 @@ title: Dr Anand Jeyasekharan
 permalink: /leaders/dr-anand-jeyasekharan/
 description: ""
 third_nav_title: Executive Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/anand-jeyasekharan.png">
 
-**Affiliations**
+##### Affiliations
 
 * * *
 
@@ -20,7 +21,7 @@ Assistant Professor; Department of Medicine, Yong Loo Lin School of Medicine, NU
 
 Assistant Director of Research (Medical Oncology), Department of Haematology-Oncology, National University Health System&nbsp;
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 
