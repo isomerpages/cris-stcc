@@ -9,9 +9,8 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td width="33%">
- <a href="/leaders/prof-chng-wee-joo/" target="_blank">
-					<img style="width:200px" src="/images/Leaders/prof chng wee joo.png">
-				</a>
+				<a href="/leaders/prof-chng-wee-joo/" target="_blank"></a>
+<img style="width:200px" src="/images/Leaders/prof chng wee joo.png">
 				<div align="center"><b>Prof. Chng Wee Joo</b><br>Executive Director</div>
 			</td>
 			<td width="33%">
