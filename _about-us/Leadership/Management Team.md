@@ -15,7 +15,7 @@ variant: markdown
 				<div align="center"><b>Prof. Chng Wee Joo</b><br>Executive Director</div>
 			</td>
 			<td width="33%">
-				<a href="/leaders/prof-lim-soon-thye/">
+				<a href="/leaders/prof-lim-soon-thye/" target="_blank">
 					<img style="width:200px" src="/images/Leaders/prof lim soon thye.png">
 				</a>
 				<div align="center"><b>Prof. Lim Soon Thye</b><br>Co-Director</div>
