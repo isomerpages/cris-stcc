@@ -20,7 +20,7 @@ variant: markdown
 				<div align="center"><b>Prof. Lim Soon Thye</b><br>Co-Director</div>
 			</td>
 			<td width="33%">
-				<a href="/leaders/mr-clarence-khoo/">
+				<a href="/leaders/mr-clarence-khoo/" target="_blank">
 					<img style="width:200px" src="/images/Leaders/mr-clarence-khoo.png">
 				</a>
 				<div align="center"><b>Mr. Clarence Khoo</b><br>Director of Operations and Strategy</div>
