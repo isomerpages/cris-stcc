@@ -7,9 +7,9 @@ variant: markdown
 ---
 <img src="/images/Leaders/prof%20chng%20wee%20joo.png" style="width:150px">
 
-**Affiliations**
-* * *
-      
+
+##### Affiliations
+***
 **Singapore Translational Cancer Consortium**
 * Executive Director
 
@@ -25,7 +25,7 @@ variant: markdown
 
 
 
-**Profile**&nbsp;
+##### Profile
 * * *   
 Professor Chng Wee Joo has been appointed as the Executive Director of the Singapore Translational Cancer Consortium since 2019. He obtained his medical degree from the University of Leeds and did his internal medicine residency in the United Kingdom. He completed his fellowship training in haematology in Singapore before he obtained an A\*STAR international fellowship in 2004 to go to the Mayo Clinic for a research fellowship in multiple myeloma genetics.&nbsp;
 
