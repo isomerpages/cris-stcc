@@ -9,17 +9,17 @@ variant: markdown
 
 ##### Affiliations
 * * *
-Co-Director, Singapore Translational Cancer Consortium;&nbsp;
+**Singapore Translational Cancer Consortium**  
+* Co-Director
 
-Deputy Group Chief Executive Officer (Research &amp; Education) Singapore Health Services;&nbsp;
+**Singapore Health Services**  
+* Deputy Group Chief Executive Officer (Research &amp; Education), Singhealth  
+* Deputy Medical Director (Clinical) and Senior Consultant, National Cancer Centre Singapore
 
-Deputy Medical Director (Clinical), National Cancer Centre Singapore;&nbsp;
-
-Senior Associate Dean, MD Programme, Duke-NUS Medical School&nbsp;
 
 ##### Profile
 * * *
-Professor Lim Soon Thye graduated from the National University of Singapore and subsequently&nbsp;obtained his membership with the Royal College of Physician (UK). He received specialist training in medical oncology at the National Cancer Centre Singapore and further training in lymphoid malignancies at the University of Southern California. Currently, he is a senior consultant and deputy medical director (clinical) at NCCS. He also heads&nbsp;Singhealth-DukeNUS&nbsp;Blood Cancer Centre and a regular rank professor at Duke-NUS medical school.&nbsp;
+Professor Lim Soon Thye has been appointed as the Co-Director of the Singapore Translational Cancer Consortium since 2019. He graduated from the National University of Singapore and subsequently&nbsp;obtained his membership with the Royal College of Physician (UK). He received specialist training in medical oncology at the National Cancer Centre Singapore and further training in lymphoid malignancies at the University of Southern California. Currently, he is a senior consultant and deputy medical director (clinical) at NCCS. He also heads&nbsp;Singhealth-DukeNUS&nbsp;Blood Cancer Centre and a regular rank professor at Duke-NUS medical school.&nbsp;
 
 His other leadership roles and positions include serving as the&nbsp;chairman&nbsp;of the&nbsp;Singhealth&nbsp;Central Institutional Review Board-B, director of ACP Oncology Clinical Service,&nbsp;chairman&nbsp;of the cancer service line development and&nbsp;chairman&nbsp;of the national medical oncology residency advisory committee. Additionally, he is also the current associate Dean for Clinical Education at Duke-NUS medical school. Prof Lim previously served as the president of the Singapore Society of Oncology from 2006 to 2010, and&nbsp;chairman&nbsp;of the chapter of Medical Oncologist, Academy of Medicine Singapore from 2010 to 2014. He is an active council member at the Singapore Cancer Society (SCS) where he also chairs the SCS medical professional and audit committee as well as the cancer treatment fund committee.&nbsp;
 
