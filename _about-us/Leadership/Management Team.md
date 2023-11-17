@@ -9,7 +9,7 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td width="33%">
-	&nbsp;&nbsp; <a href="/leaders/prof-chng-wee-joo/" target="_blank">
+ <a href="/leaders/prof-chng-wee-joo/" target="_blank">
 					<img style="width:200px" src="/images/Leaders/prof chng wee joo.png">
 				</a>
 				<div align="center"><b>Prof. Chng Wee Joo</b><br>Executive Director</div>
