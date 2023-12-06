@@ -2,6 +2,7 @@ collections:
   cancer-tumour-groups:
     output: true
     order:
+      - Myeloma Tumour Group/Publications.md
       - Myeloma Tumour Group/Contact Us.md
       - Myeloma Tumour Group/.keep
       - Myeloma Tumour Group/Introduction.md
