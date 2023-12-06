@@ -1,0 +1,4 @@
+collections:
+  myeloma-tumour-group:
+    output: true
+    order: []
