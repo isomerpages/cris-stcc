@@ -2,9 +2,9 @@ collections:
   myeloma-tumour-group:
     output: true
     order:
-      - Members/Member 2.md
-      - Members/Member 1.md
       - Members/.keep
+      - Members/Member 1.md
+      - Members/Member 2.md
       - Introduction.md
       - Consensus Guideline.md
       - List of clinical trials.md
