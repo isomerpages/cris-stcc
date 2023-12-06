@@ -1,0 +1,4 @@
+collections:
+  cancer-tumour-group:
+    output: true
+    order: []
