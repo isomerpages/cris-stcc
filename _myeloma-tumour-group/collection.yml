@@ -2,6 +2,7 @@ collections:
   myeloma-tumour-group:
     output: true
     order:
+      - Members/Members.md
       - Members/.keep
       - Introduction.md
       - Consensus Guideline.md
