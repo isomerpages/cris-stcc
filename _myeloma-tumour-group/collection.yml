@@ -4,7 +4,6 @@ collections:
     order:
       - Members/.keep
       - Introduction.md
-      - Members.md
       - Consensus Guideline.md
       - List of clinical trials.md
       - List of publications.md
