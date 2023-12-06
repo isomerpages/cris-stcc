@@ -2,6 +2,7 @@ collections:
   cancer-tumour-group:
     output: true
     order:
+      - Lymphoma Tumour Group.md
       - Overview of STCC Tumour Group.md
       - Breast Cancer Tumour Group.md
       - Gastrointestinal Cancer Tumour Group.md
