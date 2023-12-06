@@ -2,6 +2,7 @@ collections:
   myeloma-tumour-group:
     output: true
     order:
+      - Members.md
       - Consensus Guideline.md
       - List of clinical trials.md
       - List of publications.md
