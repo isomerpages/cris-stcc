@@ -2,5 +2,5 @@ collections:
   cancer-tumour-group:
     output: true
     order:
-      - Myeloma Tumour Group.md
       - Overview of STCC Tumour Group.md
+      - Myeloma Tumour Group.md
