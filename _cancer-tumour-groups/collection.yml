@@ -2,7 +2,7 @@ collections:
   cancer-tumour-groups:
     output: true
     order:
-      - Overview of STCC Cancer Tumour Group.md
+      - Overview.md
       - Breast Tumour Group/.keep
       - Myeloma Tumour Group/.keep
       - Myeloma Tumour Group/Introduction.md
