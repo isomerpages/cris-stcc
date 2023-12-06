@@ -1,6 +1,6 @@
 ---
 title: Myeloma Tumour Group
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
