@@ -3,12 +3,6 @@ collections:
     output: true
     order:
       - Introduction.md
-      - Members/.keep
-      - Members/Members.md
-      - Members/Consensus Guideline.md
-      - Members/List of clinical trials.md
-      - Members/List of publications.md
-      - Members/Contact Us.md
       - Members.md
       - Consensus Guideline.md
       - List of clinical trials.md
