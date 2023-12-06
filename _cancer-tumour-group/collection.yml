@@ -2,7 +2,7 @@ collections:
   cancer-tumour-group:
     output: true
     order:
-      - GYNAECOLOGIC CANCER.md
+      - Gynaecologic Cancer.md
       - Overview of STCC Tumour Group.md
       - Breast Tumour Group.md
       - Myeloma Tumour Group.md
