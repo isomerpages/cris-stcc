@@ -2,8 +2,8 @@ collections:
   cancer-tumour-group:
     output: true
     order:
-      - Gastrointestinal Cancer Tumour Group.md
       - Overview of STCC Tumour Group.md
       - Breast Tumour Group.md
+      - Gastrointestinal Cancer Tumour Group.md
       - Gynaecologic Cancer Tumour Group.md
       - Myeloma Tumour Group.md
