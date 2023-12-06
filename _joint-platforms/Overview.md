@@ -6,12 +6,10 @@ description: The STCC was set up in November 2019 under the Research, Innovation
   organisation to address the need for a cohesive and collaborative national
   level cancer Research & Translation (R&T) platform.
 image: /images/Logos and Favicon/stcc - logo.png
+variant: markdown
 ---
 Joint Platforms
 ---------------
-
-* * *
-
 The five STCC joint platforms function as an integrative whole to drive pertinent transformative cancer Research & Translation (R&T) themes and deliver high-impact healthcare and economic outcomes.
 
 The joint platforms enable collaboration between basic, clinical and translational researchers to explore novel approaches, push promising lines of research and translation, and seed ideas for larger competitive translational grants.
