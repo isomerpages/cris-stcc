@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Breast Tumour Group/Introduction.md
       - Breast Tumour Group/.keep
       - Myeloma Tumour Group/.keep
       - Myeloma Tumour Group/Introduction.md
