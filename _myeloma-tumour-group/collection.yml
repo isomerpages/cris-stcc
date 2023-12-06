@@ -2,4 +2,4 @@ collections:
   myeloma-tumour-group:
     output: true
     order:
-      - Myeloma Tumour Group.md
+      - Introduction.md
