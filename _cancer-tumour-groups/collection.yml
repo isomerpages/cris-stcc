@@ -2,7 +2,7 @@ collections:
   cancer-tumour-groups:
     output: true
     order:
-      - Myeloma Tumour Group/List of Clinical Trials.md
+      - Myeloma Tumour Group/List of clinical trials.md
       - Myeloma Tumour Group/List of Publications.md
       - Myeloma Tumour Group/Contact Us.md
       - Myeloma Tumour Group/.keep
