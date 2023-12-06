@@ -2,6 +2,7 @@ collections:
   cancer-tumour-group:
     output: true
     order:
+      - Thoraic, Head & Neck Tumour Group.md
       - Clinical Pharmacology Tumour Group.md
       - Overview.md
       - Breast Cancer Tumour Group.md
