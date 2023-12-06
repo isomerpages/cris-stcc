@@ -1,5 +1,5 @@
 collections:
-  stcc-tumour-groups:
+  cancer-tumour-groups:
     output: true
     order:
       - Myeloma Tumour Group.md
