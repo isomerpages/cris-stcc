@@ -1,0 +1,4 @@
+collections:
+  stcc-tumour-groups:
+    output: true
+    order: []
