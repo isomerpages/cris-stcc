@@ -2,8 +2,8 @@ collections:
   cancer-tumour-groups:
     output: true
     order:
-      - Breast Tumour Group/.keep
       - Overview.md
+      - Breast Tumour Group/.keep
       - Myeloma Tumour Group/.keep
       - Myeloma Tumour Group/Introduction.md
       - Myeloma Tumour Group/Members.md
