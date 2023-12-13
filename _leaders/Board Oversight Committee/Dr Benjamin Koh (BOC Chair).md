@@ -3,11 +3,12 @@ title: Dr Benjamin Koh (BOC Chair)
 permalink: /leaders/dr-benjamin-koh/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/dr%20benjamin%20koh.png">
 	
 	
-**Profile**
+##### Profile
 
 * * *
 
