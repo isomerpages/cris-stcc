@@ -3,10 +3,11 @@ title: Prof Ashok Venkitaraman
 permalink: /leaders/prof-ashok-venkitaraman/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/professor%20ashok%20venkitaraman.png">
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 
