@@ -3,10 +3,11 @@ title: Prof Barry Halliwell
 permalink: /leaders/prof-barry-halliwell/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/barry-halliwell__stcc.png">
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 

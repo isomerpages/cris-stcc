@@ -3,10 +3,11 @@ title: Ms Amanda Ang
 permalink: /leaders/amanda-ang/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/amanda ang.png">
 
-**Profile**&nbsp;
+##### **Profile**&nbsp;
 
 * * *
 Amanda Ang is the Director of Human Health and Potential (HHP) at the National Research Foundation (NRF) Singapore. Amanda is responsible for coordinating across agencies and research institutions to develop and implement strategies to achieve Singapore’s goals of being a leading biomedical hub that transforms and protects health, advances human potential and creates economic value.  

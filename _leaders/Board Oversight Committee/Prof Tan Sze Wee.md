@@ -3,10 +3,11 @@ title: Prof Tan Sze Wee
 permalink: /leaders/tan-sze-wee/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/tan sze wee.png">
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 

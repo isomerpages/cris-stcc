@@ -3,10 +3,11 @@ title: Prof Chong Yap Seng
 permalink: /leaders/prof-chong-yap-seng/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
 <img style="width:150px" src="/images/Leaders/prof%20chong%20yap%20seng.png">
 
-**Profile**&nbsp;
+##### Profile
 
 * * *
 
