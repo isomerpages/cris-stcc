@@ -1,5 +1,5 @@
 ---
-title: Prof William Hwang (BOC Chair)
+title: Prof William Hwang
 permalink: /leaders/prof-william-hwang/
 description: ""
 third_nav_title: Board Oversight Committee
