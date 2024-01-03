@@ -2,7 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Back to Leadership.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Prof William Hwang.md
       - Board Oversight Committee/Ms Amanda Ang.md
@@ -26,3 +25,4 @@ collections:
       - Executive Committee/Dr Alexander Lezhava.md
       - Executive Committee/Mr Seck Yee Kwang.md
       - Executive Committee/Assoc Prof Tan Ker Kan.md
+      - Back to Leadership.md
