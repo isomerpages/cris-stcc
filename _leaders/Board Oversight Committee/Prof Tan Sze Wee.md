@@ -1,5 +1,5 @@
 ---
-title: Professor Tan Sze Wee
+title: Prof Tan Sze Wee
 permalink: /leaders/tan-sze-wee/
 description: ""
 third_nav_title: Board Oversight Committee

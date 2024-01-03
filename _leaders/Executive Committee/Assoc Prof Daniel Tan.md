@@ -1,5 +1,5 @@
 ---
-title: Associate Professor Daniel Tan
+title: Assoc Prof Daniel Tan
 permalink: /leaders/assoc-prof-daniel-tan/
 description: ""
 third_nav_title: Executive Committee

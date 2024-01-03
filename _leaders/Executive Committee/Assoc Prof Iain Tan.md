@@ -1,5 +1,5 @@
 ---
-title: Associate Professor Iain Tan
+title: Assoc Prof Iain Tan
 permalink: /leaders/assoc-prof-iain-tan/
 description: ""
 third_nav_title: Executive Committee

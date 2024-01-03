@@ -1,5 +1,5 @@
 ---
-title: Professor Barry Halliwell
+title: Prof Barry Halliwell
 permalink: /leaders/prof-barry-halliwell/
 description: ""
 third_nav_title: Board Oversight Committee

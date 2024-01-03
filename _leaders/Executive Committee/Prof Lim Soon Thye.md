@@ -1,5 +1,5 @@
 ---
-title: Professor Lim Soon Thye
+title: Prof Lim Soon Thye
 permalink: /leaders/prof-lim-soon-thye/
 description: ""
 third_nav_title: Executive Committee

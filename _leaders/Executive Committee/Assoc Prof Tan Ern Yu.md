@@ -1,5 +1,5 @@
 ---
-title: Associate Professor Tan Ern Yu
+title: Assoc Prof Tan Ern Yu
 permalink: /leaders/assoc-prof-tan-ern-yu/
 description: ""
 third_nav_title: Executive Committee

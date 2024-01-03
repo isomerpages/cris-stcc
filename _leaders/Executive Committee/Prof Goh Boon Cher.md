@@ -1,5 +1,5 @@
 ---
-title: Professor Goh Boon Cher
+title: Prof Goh Boon Cher
 permalink: /leaders/prof-goh-boon-cher/
 description: ""
 third_nav_title: Executive Committee

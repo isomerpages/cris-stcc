@@ -1,5 +1,5 @@
 ---
-title: Professor Ashok Venkitaraman
+title: Prof Ashok Venkitaraman
 permalink: /leaders/prof-ashok-venkitaraman/
 description: ""
 third_nav_title: Board Oversight Committee

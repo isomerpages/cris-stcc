@@ -1,5 +1,5 @@
 ---
-title: Associate Professor Tan Ker Kan
+title: Assoc Prof Tan Ker Kan
 permalink: /leaders/assoc-prof-tan-ker-kan/
 description: ""
 third_nav_title: Executive Committee
