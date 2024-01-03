@@ -3,42 +3,6 @@ title: Management Team
 permalink: /leadership/management-team/
 description: ""
 third_nav_title: Leadership
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody>
-		<tr>
-			<td width="33%">
-				<a href="/leaders/prof-chng-wee-joo/" target="_blank"></a>
-<img style="width:200px" src="/images/Leaders/prof chng wee joo.png">
-				<div align="center"><b>Prof. Chng Wee Joo</b><br>Executive Director</div>
-			</td>
-			<td width="33%">
-				<a href="/leaders/prof-lim-soon-thye/" target="_blank">
-					<img style="width:200px" src="/images/Leaders/prof lim soon thye.png">
-				</a>
-				<div align="center"><b>Prof. Lim Soon Thye</b><br>Co-Director</div>
-			</td>
-			<td width="33%">
-				<a href="/leaders/mr-clarence-khoo/" target="_blank">
-					<img style="width:200px" src="/images/Leaders/mr-clarence-khoo.png">
-				</a>
-				<div align="center"><b>Mr. Clarence Khoo</b><br>Director of Operations and Strategy</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div style="height: 1px;"></div>
-### Operations Team
-<div align="center"><table cellspacing="0" border="0" style="font-size: 15px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Dr Michelle Ong</b></td>
-			<td>Programme Manager</td>
-		</tr>
-	</tbody>
-</table></div>
+<table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:200px" height="auto" width="100%" src="/images/Leaders/prof chng wee joo.png"></div><p><strong>Prof. Chng Wee Joo</strong><br>Executive Director</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:200px" height="auto" width="100%" src="/images/Leaders/prof lim soon thye.png"></div><p><strong>Prof. Lim Soon Thye</strong><br>Co-Director</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:200px" height="auto" width="100%" src="/images/Leaders/mr-clarence-khoo.png"></div><p><strong>Mr. Clarence Khoo</strong><br>Director of Operations and Strategy</p></td></tr></tbody></table><p> ### Operations Team</p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Dr Michelle Ong</strong></p></td><td rowspan="1" colspan="1"><p>Programme Manager</p></td></tr></tbody></table><p></p>
