@@ -1,6 +1,6 @@
 ---
-title: Team Directory
-permalink: /platform-1/team-directory/
+title: Our Team
+permalink: /platform-1/team/
 description: ""
 variant: markdown
 ---
