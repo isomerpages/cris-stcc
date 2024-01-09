@@ -2,36 +2,6 @@
 title: Our Team
 permalink: /platform-5/team/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Platform Leads
-<table>
-	<tbody>
-		<tr>
-			<td width="50%">
-				<a href="/leaders/assoc-prof-iain-tan/">
-					<img style="width:200px" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
-				</a>
-				<div align="center"><b>Assoc. Prof. Iain Tan</b></div>
-			</td>
-			<td width="50%">
-				<a href="/leaders/assoc-prof-tan-ker-kan/">
-					<img style="width:200px" src="/images/Leaders/tan-ker-kan.png">
-				</a>
-				<div align="center"><b>Assoc. Prof. Tan Ker Kan</b></div>
-		</td></tr>
-	</tbody>
-</table>
-
-### Operations Team
-<div align="center"><table cellspacing="0" border="0" style="font-size: 15px;">
-	<colgroup>
-	<col style="width: 200px;">
-  <col style="width: 300px;">
-	</colgroup>
-	<tbody>
-		<tr align="left">
-			<td><b>Dr Wan Su Wei</b></td>
-			<td>Research Fellow</td>
-		</tr>
-	</tbody></table></div>
+<h4>Platform Leads</h4><div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-iain-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 5 lead" src="/images/Leaders/EXCO 600x450/Iain_Tan_600x450.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Iain Tan</div><div class="isomer-card-link">Bio</div></div></a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-tan-ker-kan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 5 Lead" src="/images/Leaders/EXCO 600x450/Tan_Ker_Kan_600x450.PNG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tan Ker Kan</div><div class="isomer-card-link">Bio</div></div></a></div><h4>Operations Team</h4><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Dr Wan Su Wei</strong></p></td><td rowspan="1" colspan="1"><p>Research Fellow</p></td></tr></tbody></table><p></p>
