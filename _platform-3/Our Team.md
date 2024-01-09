@@ -74,7 +74,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms. Vikneswari D/O Rajasegaran</b></td>
+			<td><b>Ms Vikneswari D/O Rajasegaran</b></td>
 			<td>Senior Research Officer</td>
 		</tr>
 	</tbody>
@@ -86,7 +86,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms. Cheng Yu Hui</b></td>
+			<td><b>Ms Cheng Yu Hui</b></td>
 			<td>Research Executive</td>
 		</tr>
 	</tbody>
@@ -98,7 +98,7 @@ variant: markdown
 	</colgroup>
 	<tbody>
 		<tr align="left">
-			<td><b>Ms. Carmen Yuen Yu Fei</b></td>
+			<td><b>Ms Carmen Yuen Yu Fei</b></td>
 			<td>Research Executive</td>
 		</tr>
 	</tbody>
