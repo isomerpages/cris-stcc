@@ -1,0 +1,5 @@
+collections:
+  collaborate:
+    output: true
+    order:
+      - Collaborate.md

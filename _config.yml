@@ -1,0 +1,64 @@
+title: Singapore Translational Cancer Consortium (STCC)
+url: https://stcc.sg
+favicon: /images/Logos and Favicon/stcc - favicon.png
+colors:
+  primary-color: "#253d81"
+  secondary-color: "#00a0c5"
+  media-colors:
+    - title: media-color-one
+      color: "#244aa1"
+    - title: media-color-two
+      color: "#bdc2c3"
+    - title: media-color-three
+      color: "#4a90e2"
+    - title: media-color-four
+      color: "#bdc2c3"
+    - title: media-color-five
+      color: "#4a90e2"
+description: The Singapore Translational Cancer Consortium (STCC) is a
+  nationally coordinated consortium to synergise cancer research capabilities in
+  Singapore. Established in 2020, STCC brings together unmatched basic, clinical
+  and translational talent in Singapore to create globally significant peaks of
+  excellence in selected Asian cancers.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.devs1mdmyb7x0.amplifyapp.com
+prod: https://master.devs1mdmyb7x0.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics: ""
+google_analytics_ga4: G-K6X1PCZNSW
+linkedin-insights: ""
+resources_name: news-updates-and-events

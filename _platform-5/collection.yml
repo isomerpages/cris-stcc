@@ -1,0 +1,6 @@
+collections:
+  platform-5:
+    output: true
+    order:
+      - Impact & Population Health.md
+      - Our Team.md

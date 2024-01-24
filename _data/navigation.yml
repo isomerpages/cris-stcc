@@ -1,0 +1,10 @@
+logo: /images/stcc_logo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Joint Platforms
+    collection: joint-platforms
+  - title: News & Updates
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us

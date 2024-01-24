@@ -1,0 +1,6 @@
+collections:
+  platform-4:
+    output: true
+    order:
+      - Business Intelligence & Development.md
+      - Our Team.md

@@ -1,0 +1,7 @@
+collections:
+  platform-3:
+    output: true
+    order:
+      - Translational Research Integration & Support.md
+      - Molecular Assay Catalogue.md
+      - Our Team.md
