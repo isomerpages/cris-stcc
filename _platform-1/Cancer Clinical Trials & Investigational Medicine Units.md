@@ -26,9 +26,9 @@ and amongst different Large Collaborative Grant (LCG) programmes and cancer
 groups</p>
 </li>
 <li>
-<p>Founded a national Key Opinion Leader (KOL) network – the STCC Tumour
-Groups - comprising of multidisciplinary experts from Singapore’s three
-healthcare clusters aimed to:</p>
+<p>Founded a national Key Opinion Leader (KOL) network – the<strong> STCC Tumour Groups</strong> -
+comprising of multidisciplinary experts from Singapore’s three healthcare
+clusters aimed to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop strategic cancer research agenda aligned with national needs.</p>
@@ -38,54 +38,58 @@ healthcare clusters aimed to:</p>
 with high translational value.</p>
 </li>
 <li>
-<p>Drive regional clinical trial networks for the conduct of cross-border
-trials.</p>
-</li>
-<li>
 <p>Groups have been established in the following areas of cancer research:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Breast Cancer</p>
-</li>
-<li>
-<p>Thoracic Cancer and Head and Neck</p>
-</li>
-<li>
-<p>Gastrointestinal (GI) Cancers</p>
-</li>
-<li>
-<p>Genito-urinary (GU) Cancers</p>
-</li>
-<li>
-<p>Sarcoma/Rare Malignancies (including central nervous system cancers)</p>
-</li>
-<li>
-<p>Lymphoma</p>
-</li>
-<li>
-<p><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>
+<p><strong>Breast Cancer</strong>
 </p>
 </li>
 <li>
-<p>Leukemia</p>
-</li>
-<li>
-<p><a href="https://www.scri.edu.sg/gcgs/about-gcgs/" rel="noopener noreferrer nofollow" target="_blank">Gynaecologic Cancer</a>
+<p><strong>Thoracic Cancer and Head and Neck</strong>
 </p>
 </li>
 <li>
-<p>Phase 1 and Clinical Pharmacology</p>
+<p><strong>Gastrointestinal (GI) Cancers</strong>
+</p>
 </li>
 <li>
-<p>Nucleic Acid Therapeutics and Cancer Vaccines</p>
-<p></p>
+<p><strong>Genito-urinary (GU) Cancers</strong>
+</p>
 </li>
-</ul>
+<li>
+<p><strong>Sarcoma/Rare Malignancies (including central nervous system cancers)</strong>
+</p>
+</li>
+<li>
+<p><strong>Lymphoma</strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a></strong>
+</p>
+</li>
+<li>
+<p><strong>Leukemia</strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.scri.edu.sg/gcgs/about-gcgs/" rel="noopener noreferrer nofollow" target="_blank">Gynaecologic Cancer</a></strong>
+</p>
+</li>
+<li>
+<p><strong>Phase 1 and Clinical Pharmacology</strong>
+</p>
+</li>
+<li>
+<p><strong>Nucleic Acid Therapeutics and Cancer Vaccines</strong>
+</p>
 </li>
 </ul>
 <p></p>
 <p>For feasibility requests or clinical trial enquiries, please send them
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
