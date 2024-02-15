@@ -88,7 +88,6 @@ with high translational value.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 </li>
 </ul>
 <p>For feasibility requests or clinical trial enquiries, please send them
