@@ -85,11 +85,11 @@ with high translational value.</p>
 </p>
 </li>
 </ul>
+</li>
+</ul>
 <p></p>
 <p>For feasibility requests or clinical trial enquiries, please send them
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
 </li>
 </ul>
-</li>
-</ul>
-<p></p>
+<p>F</p>
