@@ -26,9 +26,9 @@ and amongst different Large Collaborative Grant (LCG) programmes and cancer
 groups</p>
 </li>
 <li>
-<p>Founded a national Key Opinion Leader (KOL) network – the<strong> STCC Tumour Groups</strong> -
-comprising of multidisciplinary experts from Singapore’s three healthcare
-clusters aimed to:</p>
+<p>Founded a national Key Opinion Leader (KOL) network – the STCC Tumour
+Groups - comprising of multidisciplinary experts from Singapore’s three
+healthcare clusters aimed to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop strategic cancer research agenda aligned with national needs.</p>
@@ -88,8 +88,8 @@ with high translational value.</p>
 </li>
 </ul>
 <p></p>
-</li>
-</ul>
 <p>For feasibility requests or clinical trial enquiries, please send them
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
-<p>F</p>
+</li>
+</ul>
+<p></p>
