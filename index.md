@@ -62,6 +62,7 @@ sections:
       url: /platform-2/cancer-databases-and-tissue-banks/
       image: /images/Homepage/platform 2 cover.png
       alt: CDTB
+      subtitle: Platform 2
   - infopic:
       title: Translational Research Integration & Support
       description: Driving translational research for cancer clinical trials studies &
