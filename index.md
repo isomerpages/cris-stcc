@@ -53,6 +53,7 @@ sections:
       url: /platform-1/cancer-clinical-trials-and-investigational-medicine-units/
       image: /images/Homepage/platform 1 cover.png
       alt: CCTIMU
+      subtitle: Platform 1
   - infopic:
       title: Cancer Databases and Tissue Banks
       description: A national repository of cancer databases and tissue banks to
