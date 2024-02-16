@@ -88,6 +88,7 @@ sections:
       url: /platform-5/impact-population-health/
       image: /images/Homepage/platform 5 cover.png
       alt: IMPH
+      subtitle: PLATFORM 5
   - resources:
       title: Latest News
       button: View More
