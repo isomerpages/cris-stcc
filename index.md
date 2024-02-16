@@ -79,6 +79,7 @@ sections:
       url: /platform-4/business-intelligence-development/
       image: /images/Homepage/platform 4 cover.png
       alt: BID
+      subtitle: PLATFORM 4
   - infopic:
       title: Impact & Population Health
       description: Value-based cancer care through data-driven treatment guidelines
