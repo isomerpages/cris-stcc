@@ -16,19 +16,19 @@ treatments for cancer patients.</p>
 <h3><strong>Our capabilities and initiatives</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>An established framework for collaborative multi-centre cancer research
-with streamlined contracting and centralised workflows for facilitation
-of multi-centre studies</p>
+<p>An established framework for <strong>collaborative multi-centre cancer research</strong> with
+streamlined contracting and centralised workflows for facilitation of multi-centre
+studies</p>
 </li>
 <li>
-<p>Coordinate and promote translational cancer research collaborations for
+<p>Coordinate and promote <strong>translational cancer research collaborations </strong>for
 and amongst different Large Collaborative Grant (LCG) programmes and cancer
 groups</p>
 </li>
 <li>
-<p>Founded a national Key Opinion Leader (KOL) network – the STCC Tumour
-Groups - comprising of multidisciplinary experts from Singapore’s three
-healthcare clusters aimed to:</p>
+<p>Founded a <strong>national Key Opinion Leader (KOL) network </strong>–
+the STCC Tumour Groups - comprising of multidisciplinary experts from Singapore’s
+three healthcare clusters aimed to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop strategic cancer research agenda aligned with national needs.</p>
@@ -41,48 +41,39 @@ with high translational value.</p>
 <p>Groups have been established in the following areas of cancer research:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Breast Cancer</strong>
+<p>Breast Cancer</p>
+</li>
+<li>
+<p>Thoracic Cancer and Head and Neck</p>
+</li>
+<li>
+<p>Gastrointestinal (GI) Cancers</p>
+</li>
+<li>
+<p>Genito-urinary (GU) Cancers</p>
+</li>
+<li>
+<p>Sarcoma/Rare Malignancies (including central nervous system cancers)</p>
+</li>
+<li>
+<p>Lymphoma</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>
 </p>
 </li>
 <li>
-<p><strong>Thoracic Cancer and Head and Neck</strong>
+<p>Leukemia</p>
+</li>
+<li>
+<p><a href="https://www.scri.edu.sg/gcgs/about-gcgs/" rel="noopener noreferrer nofollow" target="_blank">Gynaecologic Cancer</a>
 </p>
 </li>
 <li>
-<p><strong>Gastrointestinal (GI) Cancers</strong>
-</p>
+<p>Phase 1 and Clinical Pharmacology</p>
 </li>
 <li>
-<p><strong>Genito-urinary (GU) Cancers</strong>
-</p>
-</li>
-<li>
-<p><strong>Sarcoma/Rare Malignancies (including central nervous system cancers)</strong>
-</p>
-</li>
-<li>
-<p><strong>Lymphoma</strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a></strong>
-</p>
-</li>
-<li>
-<p><strong>Leukemia</strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.scri.edu.sg/gcgs/about-gcgs/" rel="noopener noreferrer nofollow" target="_blank">Gynaecologic Cancer</a></strong>
-</p>
-</li>
-<li>
-<p><strong>Phase 1 and Clinical Pharmacology</strong>
-</p>
-</li>
-<li>
-<p><strong>Nucleic Acid Therapeutics and Cancer Vaccines</strong>
-</p>
+<p>Nucleic Acid Therapeutics and Cancer Vaccines</p>
 </li>
 </ul>
 </li>
