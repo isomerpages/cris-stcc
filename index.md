@@ -71,6 +71,7 @@ sections:
       url: /platform-3/translational-research-integration-support/
       image: /images/Homepage/platform 3 cover.png
       alt: TRIS
+      subtitle: PLATFORM 3
   - infopic:
       title: Business Intelligence & Development
       description: Fostering partnerships & driving industry collaborations and engagement
