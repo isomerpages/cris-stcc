@@ -92,4 +92,5 @@ sections:
   - resources:
       title: Latest News
       button: View More
+      subtitle: BE IN THE KNOW
 ---
