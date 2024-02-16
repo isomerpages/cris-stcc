@@ -95,11 +95,5 @@ Having Acquired Resistance to First Line Gefitinib, 2013&nbsp;&nbsp;</p>
 of&nbsp;EGFRmut-TKI EGF816, administered orally in adult patients with
 EGFR-mut solid malignancies, 2014&nbsp;&nbsp;</p>
 </li>
-<li>
-<p>A Phase&nbsp;Ib&nbsp;open-label clinical trial of once daily oral treatment
-of&nbsp;afatinib&nbsp;plus weekly intravenous infusion of BI 836845 in
-patients with EGFR mutant non-small cell lung cancer with progression following
-prior EGFR tyrosine kinase inhibitors, 2014&nbsp;</p>
-</li>
 </ul>
 <p></p>
