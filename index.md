@@ -53,6 +53,7 @@ sections:
       url: /platform-1/cancer-clinical-trials-and-investigational-medicine-units/
       image: /images/Homepage/platform 1 cover.png
       alt: CCTIMU
+      subtitle: Platform 1
   - infopic:
       title: Cancer Databases and Tissue Banks
       description: A national repository of cancer databases and tissue banks to
@@ -61,6 +62,7 @@ sections:
       url: /platform-2/cancer-databases-and-tissue-banks/
       image: /images/Homepage/platform 2 cover.png
       alt: CDTB
+      subtitle: Platform 2
   - infopic:
       title: Translational Research Integration & Support
       description: Driving translational research for cancer clinical trials studies &
@@ -69,6 +71,7 @@ sections:
       url: /platform-3/translational-research-integration-support/
       image: /images/Homepage/platform 3 cover.png
       alt: TRIS
+      subtitle: PLATFORM 3
   - infopic:
       title: Business Intelligence & Development
       description: Fostering partnerships & driving industry collaborations and engagement
@@ -76,6 +79,7 @@ sections:
       url: /platform-4/business-intelligence-development/
       image: /images/Homepage/platform 4 cover.png
       alt: BID
+      subtitle: PLATFORM 4
   - infopic:
       title: Impact & Population Health
       description: Value-based cancer care through data-driven treatment guidelines
@@ -84,7 +88,9 @@ sections:
       url: /platform-5/impact-population-health/
       image: /images/Homepage/platform 5 cover.png
       alt: IMPH
+      subtitle: PLATFORM 5
   - resources:
       title: Latest News
       button: View More
+      subtitle: BE IN THE KNOW
 ---
