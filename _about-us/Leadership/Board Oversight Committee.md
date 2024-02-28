@@ -6,11 +6,11 @@ third_nav_title: Leadership
 variant: tiptap
 ---
 <h4></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-william-hwang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof William Hwang -  BOC Chair" src="/images/Leaders/BOC 600 x 450 png/William_Hwang_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof William Hwang</div><div class="isomer-card-description">Chairman</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-william-hwang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof William Hwang -  BOC Chair" src="/images/Leaders/professor william hwang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof William Hwang</div><div class="isomer-card-description">Chairman</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/amanda-ang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang - STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Amanda_Ang_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang - STCC BOC" src="/images/Leaders/amanda ang.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,7 +46,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/ms-elaine-teo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms. Elaine Teo" src="/images/Leaders/Elaine_Teo_Yin_Lee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. Elaine Teo" src="/images/Leaders/ms elaine teo.png">
 </div>
 </div>
 <div class="isomer-card-body">
