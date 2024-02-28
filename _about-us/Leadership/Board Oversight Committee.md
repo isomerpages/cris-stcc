@@ -19,7 +19,7 @@ variant: tiptap
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-chong-yap-seng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Chong Yap Seng - STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Chong_Yap_Seng_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Chong Yap Seng</div><div class="isomer-card-description">Dean, Yong Loo Lin School of Medicine, National University Singapore</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/board-oversight-committee/sanjay-haresh-chotirmall/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/sanjay-haresh-chotirmall/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A/Prof Sanjay Haresh Chotirmall" src="/images/Leaders/sanjay haresh chotirmall.png">
@@ -31,7 +31,7 @@ variant: tiptap
 Technological University, Singapore</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/chow-wai-leng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Chow Wai Leng" src="/images/Leaders/chow_wai_leng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Chow Wai Leng</div><div class="isomer-card-description">Director, Disease Policy &amp; Strategy, Ministry of Health</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/chow-wai-leng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Chow Wai Leng" src="/images/Leaders/BOC 600 x 450 png/Chow_Wai_Leng_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Chow Wai Leng</div><div class="isomer-card-description">Director, Disease Policy &amp; Strategy, Ministry of Health</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-barry-halliwell" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -44,35 +44,19 @@ Technological University, Singapore</div>
 and Research</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/board-oversight-committee/sanjay-haresh-chotirmall/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sanjay Haresh Chotirmall - STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Sanjay_Chotirmall_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Sanjay Haresh Chotirmall</div><div class="isomer-card-description">Assistant Dean (Research), Lee Kong Chian School of Medicine, Nanyang Technological University Singapore</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/board-oversight-committee/chow-wai-leng/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Chow Wai Leng- STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Chow_Wai_Leng_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Chow Wai Leng</div>
-<div class="isomer-card-description">Director, Disease Policy &amp; Strategy, Ministry of Health</div>
-<div class="isomer-card-link">Bio</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-barry-halliwell/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Barry Halliwell - STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Barry_Halliwell_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Barry Halliwell</div><div class="isomer-card-description">Chairman, Biomedical Research Council, Agency for Science, Technology and Research</div><div class="isomer-card-link">Bio</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/tan-sze-wee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee - STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Tan_Sze_Wee_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tan Sze Wee</div><div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council; Senior Advisor, Innovation and Enterprise (National Platforms), Agency for Science Technology and Research</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/tan-sze-wee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Leaders/tan sze wee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tan Sze Wee</div><div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council; Senior Advisor, Innovation and Enterprise (National Platforms), Agency for Science, Technology and Research </div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/ms-elaine-teo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Elaine Teo - STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Elaine_Teo_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. Elaine Teo" src="/images/Leaders/ms elaine teo.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms Elaine Teo</div>
+<div class="isomer-card-title">Ms. Elaine Teo</div>
 <div class="isomer-card-description">Director, Aged and Ancillary Service Regulations and Transformation, Ministry
 of Health</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-ashok-venkitaraman/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Ashok Venkitaraman - STCC BOC" src="/images/Leaders/BOC 600 x 450 png/Ashok_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Ashok Venkitaraman</div><div class="isomer-card-description">Deputy Designate, Cancer Science Institute of Singapore, National University Singapore</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-ashok-venkitaraman/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Ashok Venkitaraman" src="/images/Leaders/BOC 600 x 450 png/Ashok_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Ashok Venkitaraman</div><div class="isomer-card-description">Deputy Designate, Cancer Science Institute of Singapore, National University Singapore</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
