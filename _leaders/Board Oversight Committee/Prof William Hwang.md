@@ -8,6 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/professor%20william%20hwang.png">
 </div>
+<p></p>
+<h4>Affiliation</h4>
+<p>Senior Advisor, Singapore Health Services</p>
+<h4>Profile</h4>
 <p><strong>Professor William Hwang</strong> is a highly respected clinician
 leader with a strong leadership and professional track record. He currently
 serves as Senior Consultant of the Department of Haematology, Singapore
