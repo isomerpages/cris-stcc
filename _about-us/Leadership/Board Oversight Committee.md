@@ -22,7 +22,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/sanjay-haresh-chotirmall/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A/Prof Sanjay Haresh Chotirmall" src="/images/Leaders/sanjay haresh chotirmall.png">
+<img style="width: 100%" height="auto" width="100%" alt="A/Prof Sanjay Haresh Chotirmall" src="/images/Leaders/BOC 600 x 450 png/Sanjay_Chotirmall.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-barry-halliwell" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Barry Halliwell" src="/images/Leaders/barry-halliwell__stcc.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Barry Halliwell" src="/images/Leaders/BOC 600 x 450 png/Barry_Halliwell_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -42,11 +42,11 @@ variant: tiptap
 <div class="isomer-card-description">Member</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/tan-sze-wee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Leaders/tan sze wee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tan Sze Wee</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/tan-sze-wee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Leaders/BOC 600 x 450 png/Tan_Sze_Wee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tan Sze Wee</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/ms-elaine-teo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms. Elaine Teo" src="/images/Leaders/ms elaine teo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. Elaine Teo" src="/images/Leaders/BOC 600 x 450 png/Elaine_Teo_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
