@@ -15,10 +15,10 @@ General Hospital, Co-Director of the Regenerative Medicine Institute of
 Singapore (REMEDIS) and Senior Advisor for SingHealth.</p>
 <p>He is a haemato-oncologist with over 25 years’ experience in hematopoietic
 stem cell transplantation and cell therapy. He has previously served as
-CEO of the National Cancer Centre Singapore, Director, SingHealth Transplant;
-Head, SingHealth Duke-NUS Blood Cancer Centre; Head, Department of Haematology,
-Singapore General Hospital and Medical Director, Singapore Cord Blood Bank
-(SCBB).</p>
+Chief Executive Officer of the National Cancer Centre Singapore; Director,
+SingHealth Transplant; Head, SingHealth Duke-NUS Blood Cancer Centre; Head,
+Department of Haematology, Singapore General Hospital, and Medical Director,
+Singapore Cord Blood Bank (SCBB).</p>
 <p>Widely recognised for his expertise in haematological malignancies, Professor
 Hwang has previously served as Head for the Department of Haematology in
 the Singapore General Hospital (SGH), and Head for the SingHealth Duke-NUS
