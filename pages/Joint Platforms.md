@@ -2,6 +2,7 @@
 title: Joint Platforms
 permalink: /joint-platforms/
 description: ""
+variant: markdown
 ---
 Joint Platforms
 ---------------
@@ -17,12 +18,12 @@ In Phase 2, STCC aims to:
 *   Further develop, integrate and expand the national-scale enabling infrastructure established in the current phase (STCC Phase 1); and establish new, unique and scalable national translational cancer research resources and capabilities;
 *   Develop research translational peaks in selected areas.
 
-<a target="_blank" href="/cctimu/overview/">Cancer Clinical Trials &amp; Investigational Medicine Units</a>
+[Cancer Clinical Trials & Investigational Medicine Units](https://www.stcc.sg/platform-1/cancer-clinical-trials-and-investigational-medicine-units/)
 
-<a target="_blank" href="/cdtb/overview">Cancer Databases and Tissue Banks</a>
+[Cancer Databases and Tissue Banks](https://www.stcc.sg/platform-2/cancer-databases-and-tissue-banks/)
 
-<a target="_blank" href="/tris/overview">Translational Research Integration &amp; Support</a>
+[Translational Research Integration & Support](https://www.stcc.sg/platform-3/translational-research-integration-support/)
 
-<a target="_blank" href="/bid/overview">Business Intelligence &amp; Development</a>
+[Business Intelligence & Development](https://stcc.sg/platform-4/business-intelligence-development/)
 
-<a target="_blank" href="/iph/overview">Impact &amp; Population Health</a>
+[Impact & Population Health](https://www.stcc.sg/platform-5/impact-population-health/)
