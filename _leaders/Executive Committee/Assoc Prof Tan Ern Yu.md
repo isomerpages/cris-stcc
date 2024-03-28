@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Executive Committee
 variant: tiptap
 ---
-<h5></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO/Tan_Ern_Yu_282x212.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Tan_Ern_Yu_282x212.jpg">
 </div>
 <h5>Affiliations</h5>
 <p>Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational
@@ -50,12 +49,12 @@ talent, while also providing support for investigator-initiated studies.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/35000127/" rel="noopener noreferrer nofollow" target="_blank">Deep learning applied to breast imaging classification and segmentation with human expert intervention. R Wilding, VM Sheraton, Soto L, Chotai N,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35000127/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/35000127/" rel="noopener noreferrer nofollow" target="_blank">Deep learning applied to breast imaging classification and segmentation with human expert intervention. R Wilding, VM Sheraton, Soto L, Chotai N,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35000127/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong> 
 <a href="https://pubmed.ncbi.nlm.nih.gov/35000127/" rel="noopener noreferrer nofollow" target="_blank">. Journal of Ultrasound. 2022 Jan; doi: 10.1007/s40477-021-00642-3</a>
 </p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/29040892/" rel="noopener noreferrer nofollow" target="_blank">Majority of flat epithelial atypia diagnosed on biopsy do not require surgical excision. Chan MYP, Chotai N, Lai ES, Sin PY, Chen JC, Lu QS, Goh MH, Chong BK, Ho BC,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/29040892/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/29040892/" rel="noopener noreferrer nofollow" target="_blank">Majority of flat epithelial atypia diagnosed on biopsy do not require surgical excision. Chan MYP, Chotai N, Lai ES, Sin PY, Chen JC, Lu QS, Goh MH, Chong BK, Ho BC,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/29040892/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong> 
 <a href="https://pubmed.ncbi.nlm.nih.gov/29040892/" rel="noopener noreferrer nofollow" target="_blank">. The Breast. 2017 Oct 14; 37:13-17.</a>
 </p>
 </li>
@@ -66,29 +65,29 @@ Sin PY, Lee SYS, Chan MYP, Chen JJC, Goh MH and&nbsp;<strong>Tan EY</strong>.
 Journal of Clinical and Medical Images. 2020 Dec 14; 5(4):1-8.</p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/34631444/" rel="noopener noreferrer nofollow" target="_blank">Role of mammogram and ultrasound imaging in predicting breast cancer subtypes in screening and symptomatic patients. Ian TWM,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/34631444/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/34631444/" rel="noopener noreferrer nofollow" target="_blank">Role of mammogram and ultrasound imaging in predicting breast cancer subtypes in screening and symptomatic patients. Ian TWM,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/34631444/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong> 
 <a href="https://pubmed.ncbi.nlm.nih.gov/34631444/" rel="noopener noreferrer nofollow" target="_blank">, Chotai N.&nbsp; World J Clin Oncol. 2021 Sep 24;12(9):808-822. doi:
 10.5306/wjco.v12.i9.808. PMID: 34631444; PMCID: PMC8479344.</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=112360" rel="noopener noreferrer nofollow" target="_blank">Contrast-Enhanced Mammogram : A New Game-Changer in Breast Imaging. Indications with Case-based experience. Chotai N, Loke SC,&nbsp;</a><strong><a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=112360" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong>
+<p><a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=112360" rel="noopener noreferrer nofollow" target="_blank">Contrast-Enhanced Mammogram : A New Game-Changer in Breast Imaging. Indications with Case-based experience. Chotai N, Loke SC,&nbsp;</a><strong><a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=112360" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong> 
 <a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=112360" rel="noopener noreferrer nofollow" target="_blank">. Advances in Breast Cancer Research 2021; 10:184-199.</a>
 </p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/35711887/" rel="noopener noreferrer nofollow" target="_blank">Can Contrast-Enhanced Spectral Mammography (CESM) Reduce Benign Breast Biopsy? A Ling, H MY Lim, E CM Fok, Siu CL,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35711887/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/35711887/" rel="noopener noreferrer nofollow" target="_blank">Can Contrast-Enhanced Spectral Mammography (CESM) Reduce Benign Breast Biopsy? A Ling, H MY Lim, E CM Fok, Siu CL,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35711887/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong> 
 <a href="https://pubmed.ncbi.nlm.nih.gov/35711887/" rel="noopener noreferrer nofollow" target="_blank">, Chong BK, Lee YS, Chan Patrick, N Chotai. The Breast Journal. 2022 March;
 doi: 10.1155/2022/7087408</a>
 </p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/28967919/" rel="noopener noreferrer nofollow" target="_blank">Chromosome 1q21.3 amplification is a trackable biomarker and actionable target for breast cancer recurrence.&nbsp;Goh JY, Feng M, Wang W, Oguz G, Yatim SMJM, Lee PL, Bao Y, Lim TH, Wang P, Tam WL, Kodahl AR, Lyng MB, Sarma S, Lin SY, Lezhava A, Yap YS, Lim AST, Hoon DSB, Ditzel HJ, Lee SC,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/28967919/" rel="noopener noreferrer nofollow" target="_blank">Tan EY,</a></strong>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/28967919/" rel="noopener noreferrer nofollow" target="_blank">Chromosome 1q21.3 amplification is a trackable biomarker and actionable target for breast cancer recurrence.&nbsp;Goh JY, Feng M, Wang W, Oguz G, Yatim SMJM, Lee PL, Bao Y, Lim TH, Wang P, Tam WL, Kodahl AR, Lyng MB, Sarma S, Lin SY, Lezhava A, Yap YS, Lim AST, Hoon DSB, Ditzel HJ, Lee SC,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/28967919/" rel="noopener noreferrer nofollow" target="_blank">Tan EY,</a></strong> 
 <a href="https://pubmed.ncbi.nlm.nih.gov/28967919/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Yu Q.&nbsp;Nat Med. 2017 Nov;23(11):1319-1330.</a>
 </p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/26503059/" rel="noopener noreferrer nofollow" target="_blank">IRAK1 is a therapeutic target that drives breast cancer metastasis and resistance to paclitaxel.&nbsp;Wee ZN, Yatim SM, Kohlbauer VK, Feng M, Goh JY, Yi B, Lee PL, Zhang S, Wang PP, Lim E, Tam WL, Cai Y, Ditzel HJ, Hoon DS,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/26503059/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/26503059/" rel="noopener noreferrer nofollow" target="_blank">IRAK1 is a therapeutic target that drives breast cancer metastasis and resistance to paclitaxel.&nbsp;Wee ZN, Yatim SM, Kohlbauer VK, Feng M, Goh JY, Yi B, Lee PL, Zhang S, Wang PP, Lim E, Tam WL, Cai Y, Ditzel HJ, Hoon DS,&nbsp;</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/26503059/" rel="noopener noreferrer nofollow" target="_blank">Tan EY</a></strong> 
 <a href="https://pubmed.ncbi.nlm.nih.gov/26503059/" rel="noopener noreferrer nofollow" target="_blank">, Yu Q.</a>
 </p>
 </li>
