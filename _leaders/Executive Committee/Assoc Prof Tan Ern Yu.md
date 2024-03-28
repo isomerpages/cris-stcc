@@ -6,7 +6,7 @@ third_nav_title: Executive Committee
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Leaders/tan ern yu.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Tan_Ern_Yu_282x212.jpg">
 </div>
 <h5>Affiliations</h5>
 <p>Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational
