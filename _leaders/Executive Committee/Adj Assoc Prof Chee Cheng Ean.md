@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <h5>Affiliations</h5>
 <p>Platform Lead,&nbsp;Impact &amp; Population Health, Singapore Translational
-Cancer Consortium;</p>
+Cancer Consortium</p>
 <p>Executive Director, National University Cancer Institute, Singapore</p>
 <p>Adjunct Associate Professor, Department of Medicine, Yong Loo Lin School
 of Medicine, National University of Singapore</p>
