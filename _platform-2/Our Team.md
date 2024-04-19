@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cancer Registrar</p>
+<p>Assistant Manager, Cancer Registrar</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>System Analyst</p>
+<p>Senior System Analyst</p>
 </td>
 </tr>
 <tr>
