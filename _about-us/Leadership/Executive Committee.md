@@ -80,7 +80,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/adj-assoc-prof-chee-cheng-ean/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Platform 5" src="/images/Leaders/EXCO 600x450/Chee_Cheng_Ean_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Platform 5" src="/images/Leaders/EXCO 600x450/chee_cheng_ean.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
