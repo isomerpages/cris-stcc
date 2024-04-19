@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Senior Manager</p>
+<p>Asst Clinical Trial Director</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Coordinator</p>
+<p>Senior Project Coordinator</p>
 </td>
 </tr>
 <tr>
