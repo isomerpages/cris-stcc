@@ -5,75 +5,92 @@ description: ""
 third_nav_title: Executive Committee
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" src="/images/Leaders/tan-ker-kan.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Chee_Cheng_Ean_2.jpg">
 </div>
 <h5>Affiliations</h5>
 <p>Platform Lead,&nbsp;Impact &amp; Population Health, Singapore Translational
 Cancer Consortium;</p>
-<p>Head &amp; Senior Consultant, Division of Colorectal Surgery, Department
-of Surgery, National University Hospital;</p>
-<p>Senior Consultant, Division of Surgical Oncology, National University
-Cancer Institute, Singapore;</p>
-<p>Associate Professor, Department of Surgery, Yong Loo Lin School of Medicine,
-National University of Singapore</p>
+<p>Executive Director, National University Cancer Institute, Singapore</p>
+<p>Adjunct Associate Professor, Department of Medicine, Yong Loo Lin School
+of Medicine, National University of Singapore</p>
+<p>Senior Consultant, Department of Haematology-Oncology, National University
+Cancer Institute, Singapore</p>
 <h5>Profile</h5>
-<p><strong>Associate Professor Tan Ker Kan</strong>'s primary research interests
-span the entire spectrum of the colorectal cancer journey – from screening
-and prevention to diagnosis and treatment, and the experiences of specific
-subpopulations such as those with stoma or metastatic disease. His ongoing
-projects involve a broad range of key topics. These include understanding
-barriers and facilitators to colorectal screening, longitudinal quality-of-life
-of patients and spouses as they experience the treatment process. Apart
-from colorectal cancer, Ker Kan’s interests also extend to the use of telemedicine
-and other new models of care in health promotion and health services delivery.</p>
+<p><strong>Adj A/Prof Chee Cheng Ean </strong>is the Executive Director of
+the National University Cancer Institute, Singapore. In this role, she
+provides leadership and direction, and is responsible for implementing
+strategic initiatives for NCIS (pronounced N-CIS), which is the only public,
+academic cancer center in Singapore treating both pediatric and adult cancers
+in one facility. Adj A/Prof Chee is also a senior consultant, gastrointestinal
+(GI) oncologist and clinician investigator. Her portfolio includes clinical
+and research initiatives in precision oncology and clinical trials involving
+novel therapeutics in GI cancers which have been awarded institutional
+and national grant funding. She also leads the cancer survivorship programme
+at NCIS and is a proponent of value-based healthcare initiatives.</p>
+<p></p>
 <p><strong>Selected Publications</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/35348462/" rel="noopener noreferrer nofollow" target="_blank">Pang NQ, Lau J, Fong SY, Wong CY,</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35348462/" rel="noopener noreferrer nofollow" target="_blank">Tan KK</a></strong>
-<a href="https://pubmed.ncbi.nlm.nih.gov/35348462/" rel="noopener noreferrer nofollow" target="_blank">. Telemedicine Acceptance Among Older Adult Patients With Cancer: Scoping
-Review. Journal of Medical Internet Research. 2022 Mar 29;24(3):e28724.</a>
-</p>
+<p>Loh J, Wu J, Chieng J, Chan A, Yong WP, Sundar R, Lee SC, Wong A, Lim
+JSJ, Tan DSP, Soo R, Goh BC, Tai BC, Chee CE. Clinical outcome and prognostic
+factors for Asian patients in Phase I clinical trials. Br J Cancer. 2023
+Apr;128(8):1514-1520. doi: 10.1038/s41416-023-02193-2. Epub 2023 Feb 16.
+PMID: 36797357; PMCID: PMC10070409.</p>
 </li>
 <li>
-<p><a href="https://europepmc.org/article/MED/35150052" rel="noopener noreferrer nofollow" target="_blank">Khoo AM, Lau J, Loh XS, Ng CW, Griva K,</a><strong><a href="https://europepmc.org/article/MED/35150052" rel="noopener noreferrer nofollow" target="_blank">Tan KK</a></strong>
-<a href="https://europepmc.org/article/MED/35150052" rel="noopener noreferrer nofollow" target="_blank">. Understanding the psychosocial impact of colorectal cancer on young‐onset
-patients: A scoping review. Cancer Medicine. 2022 Apr 1.</a>
-</p>
+<p>Chee CE, Ooi M, Lee SC, Sundar R, Heong V, Yong WP, Ng CH, Wong A, Lim
+JSJ, Tan DSP, Soo R, Tan JTC, Yang S, Thura M, Al-Aidaroos AQ, Chng WJ,
+Zeng Q, Goh BC. A Phase I, First-in-Human Study of PRL3-zumab in Advanced,
+Refractory Solid Tumors and Hematological Malignancies. Target Oncol. 2023
+Apr 15. doi: 10.1007/s11523-023-00962-w. Epub ahead of print. PMID: 37060431.</p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/34653790/" rel="noopener noreferrer nofollow" target="_blank">Burkill S, Tan CS, Lau J, Koh GC,</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/34653790/" rel="noopener noreferrer nofollow" target="_blank">Tan KK</a></strong>
-<a href="https://pubmed.ncbi.nlm.nih.gov/34653790/" rel="noopener noreferrer nofollow" target="_blank">. Colorectal cancer incidence in a multi-ethnic population: Age-period-cohort
-analysis of trends in Singapore. Cancer Epidemiology. 2021 Dec 1;75.</a>
-</p>
+<p>Bonney GK, Chew CA, Lodge P, Hubbard J, Halazun KJ, Trunecka P, Muiesan
+P, Mirza DF, Isaac J, Laing RW, Iyer SG, Chee CE, Yong WP, Muthiah MD,
+Panaro F, Sanabria J, Grothey A, Moodley K, Chau I, Chan ACY, Wang CC,
+Menon K, Sapisochin G, Hagness M, Dueland S, Line PD, Adam R. Liver transplantation
+for non-resectable colorectal liver metastases: the International Hepato-Pancreato-Biliary
+Association consensus guidelines. Lancet Gastroenterol Hepatol. 2021 Sep
+7. PMID: 34506756.</p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/34519182/" rel="noopener noreferrer nofollow" target="_blank">Lim TZ, Lau J, Wong GJ, Tan LY, Chang YJ, Natarajan K, Yi H, Wong ML,</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/34519182/" rel="noopener noreferrer nofollow" target="_blank">Tan KK</a></strong>
-<a href="https://pubmed.ncbi.nlm.nih.gov/34519182/" rel="noopener noreferrer nofollow" target="_blank">. Factors predicting improved compliance towards colonoscopy in individuals
-with positive faecal immunochemical test (FIT). Cancer Medicine. 2021 Nov;10(21):7735-46.</a>
-</p>
+<p>Sarker D, Plummer R, Meyer T, Sodergren M, Basu B, Chee CE, Huang KW,
+et al. MTL-CEBPA, a small activating RNA therapeutic up-regulating C/EBP-α,
+in patients with advanced liver cancer: a first-in-human, multi-centre,
+open-label, phase I trial. Clin Cancer Res. 2020;26(15):3936-3946.</p>
 </li>
 <li>
-<p><a href="https://pubmed.ncbi.nlm.nih.gov/34086681/" rel="noopener noreferrer nofollow" target="_blank">Lim TZ, Lau J, Wong GJ,</a><strong><a href="https://pubmed.ncbi.nlm.nih.gov/34086681/" rel="noopener noreferrer nofollow" target="_blank">Tan KK</a></strong>
-<a href="https://pubmed.ncbi.nlm.nih.gov/34086681/" rel="noopener noreferrer nofollow" target="_blank">. Colorectal cancer in patients with single versus double positive faecal
-immunochemical test results: A retrospective cohort study from a public
-tertiary hospital. PLOS ONE. 2021 Jun 4;16(6):e0250460.</a>
-</p>
+<p>Chan GHJ, Chee CE. Perioperative Chemotherapy for Liver Metastasis of
+Colorectal Cancer. Cancers. 2020;12(12):3535.</p>
 </li>
 <li>
-<p><a href="https://onlinelibrary.wiley.com/doi/10.1002/pon.5666" rel="noopener noreferrer nofollow" target="_blank">Lau J, Khoo AM, Ho AH,</a><strong><a href="https://onlinelibrary.wiley.com/doi/10.1002/pon.5666" rel="noopener noreferrer nofollow" target="_blank">Tan KK</a></strong>
-<a href="https://onlinelibrary.wiley.com/doi/10.1002/pon.5666" rel="noopener noreferrer nofollow" target="_blank">. Psychological resilience among palliative patients with advanced cancer:
-A systematic review of definitions and associated factors. Psycho‐ 2021
-Jul;30(7):1029-40.</a>
-</p>
+<p>Kelly RJ, Lee J, Bang YJ, Almhanna K, Blum-Murphy M, Catenacci DVT, Chung
+HC, Wainberg ZA, Gibson MK, Lee KW, Bendell JC, Denlinger CS, Chee CE,
+Omori T, et al. Safety and Efficacy of Durvalumab and Tremelimumab Alone
+or in Combination in Patients with Advanced Gastric and Gastroesophageal
+Junction Adenocarcinoma. Clin Cancer Res. 2020;26(4):846-854.</p>
 </li>
 <li>
-<p><strong><a href="https://pubmed.ncbi.nlm.nih.gov/32372035/" rel="noopener noreferrer nofollow" target="_blank">Tan KK</a></strong>
-<a href="https://pubmed.ncbi.nlm.nih.gov/32372035/" rel="noopener noreferrer nofollow" target="_blank">, Moran BJ, Solomon MJ. Avoiding collateral mortality in a pandemic—time
-to change our mindset in surgical oncology. Nature Reviews Clinical Oncology.
-2020 Jul;17(7):383-5.</a>
-</p>
+<p>Chan GHJ, Chee CE. Making sense of adjuvant chemotherapy in colorectal
+cancer. J Gastrointest Oncol. 2019 Dec;10(6):1183-1192.</p>
+</li>
+<li>
+<p>Sundar R, Tan IBH, Chee CE. Negative Predictive Biomarkers in Colorectal
+Cancer: PRESSING Ahead. J Clin Oncol. 2019 Nov 20;37(33):3066-3068.</p>
+</li>
+<li>
+<p>Chee CE, Ashrani AA, Marks RS, Petterson TM, Bailey KR, Melton LJ 3rd,
+Heit JA. Predictors of Venous Thromboembolism Recurrence and Bleeding Among
+Active Cancer Patients: A Population-Based Cohort Study. Blood. 2014; 123(25):
+3972-8.</p>
+</li>
+<li>
+<p>Thura M, Al-Aidaroos AQ, Gupta A, Chee CE, Lee SC, et al. PRL3-zumab as
+an immunotherapy to inhibit tumors expressing PRL3 oncoprotein. Nat Commun.
+2019;10(1):2484.</p>
 </li>
 </ul>
 <p></p>
