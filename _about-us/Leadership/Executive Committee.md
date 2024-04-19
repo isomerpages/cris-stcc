@@ -80,13 +80,13 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leadership/executive-committee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Platform 5" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Platform 5" src="/images/Leaders/EXCO 600x450/Chee_Cheng_Ean_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Adj Assoc Prof Chee Cheng Ean</div>
 <div class="isomer-card-description">Platform Lead</div>
-<div class="isomer-card-link">.</div>
+<div class="isomer-card-link">Bio</div>
 </div>
 </a>
 </div>
