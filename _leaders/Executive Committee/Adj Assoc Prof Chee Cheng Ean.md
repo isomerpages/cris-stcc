@@ -9,9 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/chee_cheng_ean.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Chee_Cheng_Ean_3.jpg">
-</div>
 <h5>Affiliations</h5>
 <p>Platform Lead,&nbsp;Impact &amp; Population Health, Singapore Translational
 Cancer Consortium;</p>
