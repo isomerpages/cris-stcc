@@ -50,15 +50,12 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 </li>
 <li>
-<p>Chan GHJ, Chee CE. Perioperative Chemotherapy for Liver Metastasis of
-Colorectal Cancer. Cancers. 2020;12(12):3535.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7760826/" rel="noopener noreferrer nofollow" target="_blank">Chan GHJ, Chee CE. Perioperative Chemotherapy for Liver Metastasis of Colorectal Cancer. Cancers. 2020;12(12):3535.</a>
+</p>
 </li>
 <li>
-<p>Kelly RJ, Lee J, Bang YJ, Almhanna K, Blum-Murphy M, Catenacci DVT, Chung
-HC, Wainberg ZA, Gibson MK, Lee KW, Bendell JC, Denlinger CS, Chee CE,
-Omori T, et al. Safety and Efficacy of Durvalumab and Tremelimumab Alone
-or in Combination in Patients with Advanced Gastric and Gastroesophageal
-Junction Adenocarcinoma. Clin Cancer Res. 2020;26(4):846-854.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7748730/" rel="noopener noreferrer nofollow" target="_blank">Kelly RJ, Lee J, Bang YJ, Almhanna K, Blum-Murphy M, Catenacci DVT, Chung HC, Wainberg ZA, Gibson MK, Lee KW, Bendell JC, Denlinger CS, Chee CE, Omori T, et al. Safety and Efficacy of Durvalumab and Tremelimumab Alone or in Combination in Patients with Advanced Gastric and Gastroesophageal Junction Adenocarcinoma. Clin Cancer Res. 2020;26(4):846-854.</a>
+</p>
 </li>
 <li>
 <p>Chan GHJ, Chee CE. Making sense of adjuvant chemotherapy in colorectal
