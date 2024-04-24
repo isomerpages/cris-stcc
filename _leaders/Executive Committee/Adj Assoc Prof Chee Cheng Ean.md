@@ -62,8 +62,8 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 </li>
 <li>
-<p>Sundar R, Tan IBH, Chee CE. Negative Predictive Biomarkers in Colorectal
-Cancer: PRESSING Ahead. J Clin Oncol. 2019 Nov 20;37(33):3066-3068.</p>
+<p><a href="https://ascopubs.org/doi/full/10.1200/JCO.19.01977" rel="noopener noreferrer nofollow" target="_blank">Sundar R, Tan IBH, Chee CE. Negative Predictive Biomarkers in Colorectal Cancer: PRESSING Ahead. J Clin Oncol. 2019 Nov 20;37(33):3066-3068.</a>
+</p>
 </li>
 <li>
 <p>Chee CE, Ashrani AA, Marks RS, Petterson TM, Bailey KR, Melton LJ 3rd,
