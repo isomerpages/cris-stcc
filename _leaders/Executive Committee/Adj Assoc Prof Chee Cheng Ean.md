@@ -42,7 +42,7 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476371/" rel="noopener noreferrer nofollow" target="_blank">Bonney GK, Chew CA, Lodge P, Hubbard J, Halazun KJ, Trunecka P, Muiesan P, Mirza DF, Isaac J, Laing RW, Iyer SG, Chee CE, Yong WP, Muthiah MD, Panaro F, Sanabria J, Grothey A, Moodley K, Chau I, Chan ACY, Wang CC, Menon K, Sapisochin G, Hagness M, Dueland S, Line PD, Adam R. Liver transplantation for non-resectable colorectal liver metastases: the International Hepato-Pancreato-Biliary Association consensus guidelines. Lancet Gastroenterol Hepatol. 2021 Sep 7. PMID: 34506756.</a>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/34506756/" rel="noopener noreferrer nofollow" target="_blank">Bonney GK, Chew CA, Lodge P, Hubbard J, Halazun KJ, Trunecka P, Muiesan P, Mirza DF, Isaac J, Laing RW, Iyer SG, Chee CE, Yong WP, Muthiah MD, Panaro F, Sanabria J, Grothey A, Moodley K, Chau I, Chan ACY, Wang CC, Menon K, Sapisochin G, Hagness M, Dueland S, Line PD, Adam R. Liver transplantation for non-resectable colorectal liver metastases: the International Hepato-Pancreato-Biliary Association consensus guidelines. Lancet Gastroenterol Hepatol. 2021 Sep 7. PMID: 34506756.</a>
 </p>
 </li>
 <li>
