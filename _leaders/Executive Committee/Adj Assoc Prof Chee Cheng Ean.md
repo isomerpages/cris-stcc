@@ -42,19 +42,12 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 </li>
 <li>
-<p>Bonney GK, Chew CA, Lodge P, Hubbard J, Halazun KJ, Trunecka P, Muiesan
-P, Mirza DF, Isaac J, Laing RW, Iyer SG, Chee CE, Yong WP, Muthiah MD,
-Panaro F, Sanabria J, Grothey A, Moodley K, Chau I, Chan ACY, Wang CC,
-Menon K, Sapisochin G, Hagness M, Dueland S, Line PD, Adam R. Liver transplantation
-for non-resectable colorectal liver metastases: the International Hepato-Pancreato-Biliary
-Association consensus guidelines. Lancet Gastroenterol Hepatol. 2021 Sep
-7. PMID: 34506756.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476371/" rel="noopener noreferrer nofollow" target="_blank">Bonney GK, Chew CA, Lodge P, Hubbard J, Halazun KJ, Trunecka P, Muiesan P, Mirza DF, Isaac J, Laing RW, Iyer SG, Chee CE, Yong WP, Muthiah MD, Panaro F, Sanabria J, Grothey A, Moodley K, Chau I, Chan ACY, Wang CC, Menon K, Sapisochin G, Hagness M, Dueland S, Line PD, Adam R. Liver transplantation for non-resectable colorectal liver metastases: the International Hepato-Pancreato-Biliary Association consensus guidelines. Lancet Gastroenterol Hepatol. 2021 Sep 7. PMID: 34506756.</a>
+</p>
 </li>
 <li>
-<p>Sarker D, Plummer R, Meyer T, Sodergren M, Basu B, Chee CE, Huang KW,
-et al. MTL-CEBPA, a small activating RNA therapeutic up-regulating C/EBP-α,
-in patients with advanced liver cancer: a first-in-human, multi-centre,
-open-label, phase I trial. Clin Cancer Res. 2020;26(15):3936-3946.</p>
+<p><a href="https://aacrjournals.org/clincancerres/article/26/15/3936/82636/MTL-CEBPA-a-Small-Activating-RNA-Therapeutic" rel="noopener noreferrer nofollow" target="_blank">Sarker D, Plummer R, Meyer T, Sodergren M, Basu B, Chee CE, Huang KW, et al. MTL-CEBPA, a small activating RNA therapeutic up-regulating C/EBP-α, in patients with advanced liver cancer: a first-in-human, multi-centre, open-label, phase I trial. Clin Cancer Res. 2020;26(15):3936-3946.</a>
+</p>
 </li>
 <li>
 <p>Chan GHJ, Chee CE. Perioperative Chemotherapy for Liver Metastasis of
