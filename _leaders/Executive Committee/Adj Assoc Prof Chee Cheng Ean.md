@@ -66,15 +66,12 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 </li>
 <li>
-<p>Chee CE, Ashrani AA, Marks RS, Petterson TM, Bailey KR, Melton LJ 3rd,
-Heit JA. Predictors of Venous Thromboembolism Recurrence and Bleeding Among
-Active Cancer Patients: A Population-Based Cohort Study. Blood. 2014; 123(25):
-3972-8.</p>
+<p><a href="https://ashpublications.org/blood/article/123/25/3972/32892/Predictors-of-venous-thromboembolism-recurrence" rel="noopener noreferrer nofollow" target="_blank">Chee CE, Ashrani AA, Marks RS, Petterson TM, Bailey KR, Melton LJ 3rd, Heit JA. Predictors of Venous Thromboembolism Recurrence and Bleeding Among Active Cancer Patients: A Population-Based Cohort Study. Blood. 2014; 123(25): 3972-8.</a>
+</p>
 </li>
 <li>
-<p>Thura M, Al-Aidaroos AQ, Gupta A, Chee CE, Lee SC, et al. PRL3-zumab as
-an immunotherapy to inhibit tumors expressing PRL3 oncoprotein. Nat Commun.
-2019;10(1):2484.</p>
+<p><a href="https://www.nature.com/articles/s41467-019-10127-x" rel="noopener noreferrer nofollow" target="_blank">Thura M, Al-Aidaroos AQ, Gupta A, Chee CE, Lee SC, et al. PRL3-zumab as an immunotherapy to inhibit tumors expressing PRL3 oncoprotein. Nat Commun. 2019;10(1):2484.</a>
+</p>
 </li>
 </ul>
 <p></p>
