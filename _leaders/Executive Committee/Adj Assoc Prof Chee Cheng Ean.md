@@ -38,11 +38,8 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 </li>
 <li>
-<p>Chee CE, Ooi M, Lee SC, Sundar R, Heong V, Yong WP, Ng CH, Wong A, Lim
-JSJ, Tan DSP, Soo R, Tan JTC, Yang S, Thura M, Al-Aidaroos AQ, Chng WJ,
-Zeng Q, Goh BC. A Phase I, First-in-Human Study of PRL3-zumab in Advanced,
-Refractory Solid Tumors and Hematological Malignancies. Target Oncol. 2023
-Apr 15. doi: 10.1007/s11523-023-00962-w. Epub ahead of print. PMID: 37060431.</p>
+<p><a href="https://link.springer.com/article/10.1007/s11523-023-00962-w" rel="noopener noreferrer nofollow" target="_blank">Chee CE, Ooi M, Lee SC, Sundar R, Heong V, Yong WP, Ng CH, Wong A, Lim JSJ, Tan DSP, Soo R, Tan JTC, Yang S, Thura M, Al-Aidaroos AQ, Chng WJ, Zeng Q, Goh BC. A Phase I, First-in-Human Study of PRL3-zumab in Advanced, Refractory Solid Tumors and Hematological Malignancies. Target Oncol. 2023 Apr 15. doi: 10.1007/s11523-023-00962-w. Epub ahead of print. PMID: 37060431.</a>
+</p>
 </li>
 <li>
 <p>Bonney GK, Chew CA, Lodge P, Hubbard J, Halazun KJ, Trunecka P, Muiesan
