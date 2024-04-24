@@ -34,11 +34,8 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Loh J, Wu J, Chieng J, Chan A, Yong WP, Sundar R, Lee SC, Wong A, Lim
-JSJ, Tan DSP, Soo R, Goh BC, Tai BC, Chee CE. Clinical outcome and prognostic
-factors for Asian patients in Phase I clinical trials. Br J Cancer. 2023
-Apr;128(8):1514-1520. doi: 10.1038/s41416-023-02193-2. Epub 2023 Feb 16.
-PMID: 36797357; PMCID: PMC10070409.</p>
+<p><a href="https://www.nature.com/articles/s41416-023-02193-2" rel="noopener noreferrer nofollow" target="_blank">Loh J, Wu J, Chieng J, Chan A, Yong WP, Sundar R, Lee SC, Wong A, Lim JSJ, Tan DSP, Soo R, Goh BC, Tai BC, Chee CE. Clinical outcome and prognostic factors for Asian patients in Phase I clinical trials. Br J Cancer. 2023 Apr;128(8):1514-1520. doi: 10.1038/s41416-023-02193-2. Epub 2023 Feb 16. PMID: 36797357; PMCID: PMC10070409.</a>
+</p>
 </li>
 <li>
 <p>Chee CE, Ooi M, Lee SC, Sundar R, Heong V, Yong WP, Ng CH, Wong A, Lim
