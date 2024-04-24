@@ -58,8 +58,8 @@ at NCIS and is a proponent of value-based healthcare initiatives.</p>
 </p>
 </li>
 <li>
-<p>Chan GHJ, Chee CE. Making sense of adjuvant chemotherapy in colorectal
-cancer. J Gastrointest Oncol. 2019 Dec;10(6):1183-1192.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6954995/" rel="noopener noreferrer nofollow" target="_blank">Chan GHJ, Chee CE. Making sense of adjuvant chemotherapy in colorectal cancer. J Gastrointest Oncol. 2019 Dec;10(6):1183-1192.</a>
+</p>
 </li>
 <li>
 <p>Sundar R, Tan IBH, Chee CE. Negative Predictive Biomarkers in Colorectal
