@@ -102,11 +102,35 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
-  <td rowspan="3">Spatial Transcriptomics</td>
+  <td rowspan="7">Spatial Transcriptomics</td>
   <td>Nanostring GeoMx, nCounter</td>
 		<td>🅢</td>
   <td>Area-based analysis of the entire human transcriptome.</td>
   <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+  </tr>
+      <tr>
+  <td>Nanostring CosMx</td>
+		<td>🅢<br><b>⁂</b></td>
+  <td>Single-cell spatial panel profiling.</td>
+  <td>local partner</td>
+  </tr>
+    <tr>
+  <td>STOmics (FFPE Stereo-seq)</td>
+		<td>🅢<br><b>⁂</b></td>
+  <td>Single-cell spatial whole-transcriptomic profiling.</td>
+  <td>local partner</td>
+  </tr>
+        <tr>
+  <td>10x Xenium</td>
+		<td>🅢<br><b>⁂</b></td>
+  <td>Single-cell spatial panel profiling.</td>
+  <td>local partner</td>
+  </tr>
+      <tr>
+  <td>10X Visum HD</td>
+		<td>🅢</td>
+  <td>Whole-transcriptomic profiling at 2 µm resolution.</td>
+  <td>local partner</td>
   </tr>
   <tr>
   <td>10X Visum + CytAssist</td>
@@ -114,11 +138,11 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Whole-transcriptomic profiling at 55 µm resolution.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
-  <tr>
-  <td>BGI Stereoseq</td>
-		<td></td>
-  <td>Single-cell spatial whole-transcriptomic profiling.</td>
-  <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
+        <tr>
+  <td>Vizgen MERSCOPE</td>
+		<td>🅢<br><b>⁂</b></td>
+  <td>Single-cell spatial panel profiling.</td>
+  <td>local partner</td>
   </tr>
   <tr>
   <td>DNA Methylation Profiling</td>
@@ -228,7 +252,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Miltenyi MACSima</td>
 	<td>🅢<br><b>⁂</b></td>
   <td>Up to 50+ targets at sub-cellular resolution.</td>
-	<td>Miltenyi Biotec</td>
+	<td>local partner</td>
   </tr>
 	<tr>
   <td>Spatial Proteomics</td>
