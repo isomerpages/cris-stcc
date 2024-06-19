@@ -112,28 +112,28 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Nanostring CosMx</td>
 		<td>🅢<br><b>⁂</b></td>
   <td>Single-cell spatial panel profiling.</td>
-  <td>local partner</td>
+  <td>Local partner</td>
   </tr>
     <tr>
   <td>STOmics (FFPE Stereo-seq)</td>
 		<td>🅢<br><b>⁂</b></td>
   <td>Single-cell spatial whole-transcriptomic profiling.</td>
-  <td>local partner</td>
+  <td>Local partner</td>
   </tr>
         <tr>
   <td>10x Xenium</td>
 		<td>🅢<br><b>⁂</b></td>
   <td>Single-cell spatial panel profiling.</td>
-  <td>local partner</td>
+  <td>Local partner</td>
   </tr>
       <tr>
   <td>10X Visum HD</td>
 		<td>🅢</td>
   <td>Whole-transcriptomic profiling at 2 µm resolution.</td>
-  <td>local partner</td>
+  <td>Local partner</td>
   </tr>
   <tr>
-  <td>10X Visum + CytAssist</td>
+  <td>10X Visum 2</td>
 		<td>🅢</td>
   <td>Whole-transcriptomic profiling at 55 µm resolution.</td>
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
@@ -142,7 +142,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Vizgen MERSCOPE</td>
 		<td>🅢<br><b>⁂</b></td>
   <td>Single-cell spatial panel profiling.</td>
-  <td>local partner</td>
+  <td>Local partner</td>
   </tr>
   <tr>
   <td>DNA Methylation Profiling</td>
@@ -252,7 +252,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Miltenyi MACSima</td>
 	<td>🅢<br><b>⁂</b></td>
   <td>Up to 50+ targets at sub-cellular resolution.</td>
-	<td>local partner</td>
+	<td>Local partner</td>
   </tr>
 	<tr>
   <td>Spatial Proteomics</td>
