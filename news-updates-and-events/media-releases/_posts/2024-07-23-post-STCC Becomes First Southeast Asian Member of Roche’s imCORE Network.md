@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>The Singapore Translational Cancer Consortium (STCC) Becomes First Southeast Asian Member of Roche’s imCORE Network of Leading Global Research Centres to Advance Understanding of Cancer Immunotherapy</strong><br></h3>
+<h3><strong>The Singapore Translational Cancer Consortium (STCC) Becomes First Southeast Asian Member of Roche’s imCORE Network of Leading Global Research Centres to Advance Understanding of Cancer Immunotherapy</strong><br><br></h3>
 <ul>
 <li>
 <p>STCC is the first Southeast Asian member in the prestigious immunotherapy
@@ -25,9 +25,12 @@ Tock Seng Hospital (TTSH).&nbsp;</p>
 <p>The STCC-imCORE partnership aims to bolster Singapore’s drive to become
 a global leader in cancer immunotherapy (CIT) research and catalyse local
 access to innovative treatments through collaborative clinical studies.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>SINGAPORE, 24 July, 2024</strong> – STCC is proud to announce its
+<hr>
+<p>
+<br><strong>SINGAPORE, 24 July, 2024</strong> – STCC is proud to announce its
 participation in the Roche/Genentech-led, immunotherapy Centers Of Research
 Excellence (imCORE) Network, a global initiative aiming to advance CIT.
 STCC is the 27th member of the imCORE Network, the first from Southeast
