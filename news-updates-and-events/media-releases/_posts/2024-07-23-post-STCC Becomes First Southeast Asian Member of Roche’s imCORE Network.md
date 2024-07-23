@@ -74,11 +74,6 @@ of imCORE, our network is even stronger. We are thrilled about STCC’s co-creat
 spirit and excited to work together to make a meaningful impact on CIT
 research and bring the vision of imCORE to life for patients, both in Singapore
 and around the world.”</p>
-<p>At the launch ceremony, ACTRIS also announced a joint grant call with
-the National Health Innovation Centre Singapore (NHIC) to accelerate the
-adoption of cell therapies in our local hospitals to enhance healthcare
-delivery and patient care. Eligible projects will receive funding and support
-to foster the development of cell therapy products.</p>
 <p></p>
 <p></p>
 <p></p>
