@@ -63,15 +63,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Edwin Yeo</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior System Analyst</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Dr Kalpana Kasturi</strong>
 </p>
 </td>
@@ -86,6 +77,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Pathologist Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Edwin Yeo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior System Analyst</p>
 </td>
 </tr>
 <tr>
