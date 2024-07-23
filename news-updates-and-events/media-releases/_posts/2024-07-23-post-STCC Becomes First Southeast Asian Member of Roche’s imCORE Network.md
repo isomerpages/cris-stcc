@@ -80,7 +80,8 @@ and around the world.”</p>
 <hr>
 <p></p>
 <p></p>
-<p><strong>About Singapore Translational Cancer Consortium</strong>
+<p>
+<br><strong>About Singapore Translational Cancer Consortium</strong>
 </p>
 <p>STCC was established in 2020, as a nationally coordinated consortium to
 synergise cancer research capabilities in Singapore.</p>
@@ -101,7 +102,9 @@ and is supported by the National Research Foundation, Singapore (NRF) and
 the Singapore Ministry of Health through the National Medical Research
 Council (NMRC) Office, MOH Holdings Pte Ltd.</p>
 <p>For more information, please visit <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.stcc.sg</u></a>&nbsp;</p>
-<p></p>
+<p>
+<br>
+</p>
 <p><strong>About the imCORE Network</strong>
 </p>
 <p>imCORE is a global network of basic and clinical scientists from 27 leading
@@ -120,7 +123,9 @@ diagnostic technologies and emerging data. The network will also closely
 collaborate to identify and prioritise the most promising new treatment
 approaches and to rapidly conduct clinical trials to accelerate progress
 in the field.</p>
-<p></p>
+<p>
+<br>
+</p>
 <p><strong>About Roche Singapore</strong>
 </p>
 <p>Founded in 1896 in Basel, Switzerland, as one of the first industrial
