@@ -78,7 +78,9 @@ delivery and patient care. Eligible projects will receive funding and support
 to foster the development of cell therapy products.</p>
 <p></p>
 <p></p>
+<p></p>
 <hr>
+<p></p>
 <p></p>
 <p><strong>About Singapore Translational Cancer Consortium</strong>
 </p>
@@ -138,9 +140,4 @@ into a local leader in innovative medicines and diagnostics across multiple
 disease areas. Today, Roche Singapore employs more than 1,000 people across
 its pharmaceuticals, diagnostics and manufacturing divisions.&nbsp;&nbsp;</p>
 <p>For more information, please visit <a href="http://www.roche.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.roche.com.sg</u></a>&nbsp;</p>
-<p>
-<br>
-<br>
-<br>
-</p>
 <p></p>
