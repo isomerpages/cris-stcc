@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>The Singapore Translational Cancer Consortium (STCC) Becomes First Southeast Asian Member of Roche’s imCORE Network of Leading Global Research Centres to Advance Understanding of Cancer Immunotherapy</strong></h4>
+<h3><strong>The Singapore Translational Cancer Consortium (STCC) Becomes First Southeast Asian Member of Roche’s imCORE Network of Leading Global Research Centres to Advance Understanding of Cancer Immunotherapy</strong><br></h3>
 <ul>
 <li>
 <p>STCC is the first Southeast Asian member in the prestigious immunotherapy
