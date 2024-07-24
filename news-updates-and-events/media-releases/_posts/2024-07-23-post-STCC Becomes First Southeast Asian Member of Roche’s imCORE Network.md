@@ -101,7 +101,7 @@ goals in value-based healthcare innovation and economic value creation.</p>
 and is supported by the National Research Foundation, Singapore (NRF) and
 the Singapore Ministry of Health through the National Medical Research
 Council (NMRC) Office, MOH Holdings Pte Ltd.</p>
-<p>For more information, please visit <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.stcc.sg.</u></a>&nbsp;</p>
+<p>For more information, please visit <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.stcc.sg</u></a>&nbsp;</p>
 <p>
 <br>
 </p>
