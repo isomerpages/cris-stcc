@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chong Kai Xiang</strong>
+<p><strong> Chong Kai Xiang</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
