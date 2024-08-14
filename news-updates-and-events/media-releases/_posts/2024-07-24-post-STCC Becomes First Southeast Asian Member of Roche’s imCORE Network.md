@@ -33,7 +33,7 @@ access to innovative treatments through collaborative clinical studies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="STCC imCORE Network 24 July 2024" src="/images/Resources/Media Releases/STCC_imCORE_network_24_Jul_24.jpg">
 </div>
-<p><em>The ceremonial signing of the core alliance agreement between STCC and Roche was witnessed by Guest-of-Honour Prof Tan Chorh Chuan,  Permanent Secretary (National Research and Development), Prime Minister’s Office, and Chairman MOH Office for Healthcare Transformation (MOHT) on 24 July 2024.</em>
+<p><em>The ceremonial signing of the core alliance agreement between STCC and Roche was witnessed by Guest-of-Honour Prof Tan Chorh Chuan, Permanent Secretary (National Research and Development), Prime Minister’s Office, and Chairman MOH Office for Healthcare Transformation (MOHT) on 24 July 2024.</em>
 </p>
 <p>
 <br><strong>SINGAPORE, 24 July, 2024</strong> – STCC is proud to announce its
