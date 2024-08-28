@@ -83,4 +83,5 @@ with high translational value.</p>
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.scri.edu.sg/singapore-myeloma-study-group/about/" rel="noopener nofollow" target="_blank">Myeloma</a>
+</p>
