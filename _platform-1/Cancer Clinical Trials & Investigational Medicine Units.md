@@ -84,10 +84,10 @@ trials.</p>
 <p></p>
 <p>You can find a list of current oncology clinical trials by clicking
 <a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener nofollow" target="_blank">here</a>and selecting “Cancer” under the Therapeutic Area field.</p>
-</li>
-</ul>
 <p></p>
 <p>For feasibility requests or clinical trial enquiries, please send them
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
