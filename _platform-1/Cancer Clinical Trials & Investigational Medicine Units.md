@@ -63,8 +63,7 @@ trials.</p>
 <p>Lymphoma</p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[MOS(1]</a>&nbsp;</p>
+<p><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>&nbsp;</p>
 </li>
 <li>
 <p>Leukemia</p>
