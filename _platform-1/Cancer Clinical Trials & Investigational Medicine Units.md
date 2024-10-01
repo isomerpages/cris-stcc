@@ -79,6 +79,11 @@ with high translational value.</p>
 </li>
 </ul>
 <p></p>
+</li>
+<li>
+<p>A list of ongoing oncology clinical trials can be found <a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"></a>and selecting “Cancer” under the Therapeutic Area field</p>
+<hr>
 <p>For feasibility requests or clinical trial enquiries, please send them
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
 </li>
