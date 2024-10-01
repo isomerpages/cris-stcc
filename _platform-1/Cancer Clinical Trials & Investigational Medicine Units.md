@@ -25,7 +25,7 @@ studies</p>
 and amongst different Large Collaborative Grant (LCG) programmes and cancer
 groups</p>
 </li>
-</ul>
+<li>
 <p>Founded a <strong>national Key Opinion Leader (KOL) network </strong>–
 the STCC Tumour Groups - comprising of multidisciplinary experts from Singapore’s
 three healthcare clusters aimed to:</p>
@@ -36,6 +36,10 @@ three healthcare clusters aimed to:</p>
 <li>
 <p>Shape Singapore’s cancer research ecosystem through top priority trials
 with high translational value.</p>
+</li>
+<li>
+<p>Drive regional clinical trial networks for the conduct of cross-border
+trials.</p>
 </li>
 <li>
 <p>Groups have been established in the following areas of cancer research:</p>
@@ -59,8 +63,8 @@ with high translational value.</p>
 <p>Lymphoma</p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/singapore-myeloma-study-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>
-</p>
+<p><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[MOS(1]</a>&nbsp;</p>
 </li>
 <li>
 <p>Leukemia</p>
@@ -76,12 +80,14 @@ with high translational value.</p>
 <p>Nucleic Acid Therapeutics and Cancer Vaccines</p>
 </li>
 </ul>
+</li>
+</ul>
 <p></p>
 <p>You can find a list of current oncology clinical trials by clicking
 <a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener noreferrer nofollow" target="_blank">here</a>and selecting “Cancer” under the Therapeutic Area field.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p>For feasibility requests or clinical trial enquiries, please send them
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
 <p></p>
