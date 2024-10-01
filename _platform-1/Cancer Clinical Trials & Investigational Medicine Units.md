@@ -59,7 +59,7 @@ with high translational value.</p>
 <p>Lymphoma</p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>
+<p><a href="https://www.scri.edu.sg/singapore-myeloma-study-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>
 </p>
 </li>
 <li>
