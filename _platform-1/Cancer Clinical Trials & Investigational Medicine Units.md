@@ -83,7 +83,7 @@ trials.</p>
 </ul>
 <p></p>
 <p>You can find a list of current oncology clinical trials by clicking
-<a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener noreferrer nofollow" target="_blank">here</a>and selecting “Cancer” under the Therapeutic Area field.</p>
+<a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener nofollow" target="_blank">here</a>and selecting “Cancer” under the Therapeutic Area field.</p>
 </li>
 </ul>
 <p></p>
