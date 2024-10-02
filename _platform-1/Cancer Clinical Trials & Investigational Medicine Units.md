@@ -9,11 +9,12 @@ aims to drive impactful and innovative clinical research and elevate Singapore�
 position as a leading destination for conducting cancer clinical trials.
 We offer unique solutions to support and streamline clinical trial conduct
 by bringing together the expertise, capabilities and resources across the
-three healthcare clusters in Singapore. Our platform works closely with
-research and pharmaceutical/ biotechnology organisations in both the public
-sector and industry with the common goal of facilitating access to innovative
-treatments for cancer patients.</p>
+three healthcare clusters in Singapore.</p>
+<p>Our platform works closely with research and pharmaceutical/ biotechnology
+organisations in both the public sector and industry with the common goal
+of facilitating access to innovative treatments for cancer patients.</p>
 <h3><strong>Our capabilities and initiatives</strong></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>An established framework for <strong>collaborative multi-centre cancer research</strong> with
@@ -24,7 +25,7 @@ studies</p>
 <p>Coordinate and promote <strong>translational cancer research collaborations </strong>for
 and amongst different Large Collaborative Grant (LCG) programmes and cancer
 groups</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Founded a <strong>national Key Opinion Leader (KOL) network </strong>–
 the STCC Tumour Groups - comprising of multidisciplinary experts from Singapore’s
@@ -63,7 +64,8 @@ trials.</p>
 <p>Lymphoma</p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/singapore-myeloma-tumour-group/about/" rel="noopener noreferrer nofollow" target="_blank">Myeloma</a>&nbsp;</p>
+<p><a href="https://www.scri.edu.sg/singapore-myeloma-study-group/about/" rel="noopener nofollow" target="_blank">Myeloma</a>
+</p>
 </li>
 <li>
 <p>Leukemia</p>
@@ -83,13 +85,14 @@ trials.</p>
 </li>
 </ul>
 </li>
+</ul>
+</li>
 <li>
-<p>A list of current oncology clinical trials can be found <a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener nofollow" target="_blank">here</a>and
-selecting “Cancer” under the Therapeutic Area field.</p>
+<p>You can find a list of currently recruiting oncology clinical trials
+<a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener nofollow" target="_blank">here</a>by selecting “Cancer” in the Therapeutic Area field.</p>
 </li>
 </ul>
 <p></p>
 <p>For feasibility requests or clinical trial enquiries, please send them
-to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>.</p>
-<p></p>
-<p></p>
+to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>
+</p>
