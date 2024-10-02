@@ -103,7 +103,7 @@ for society.</p>
 research groups and by capitalising on the strengths of industry and academia,
 STCC is uniquely poised to develop initiatives that are aligned with Singapore's
 goals in value-based healthcare innovation and economic value creation.</p>
-<p>STCC is a programme of the <a href="cris.sg" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS)</a>,
+<p>STCC is a programme of the <a href="https://www.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS)</a>,
 and is supported by the National Research Foundation, Singapore (NRF) and
 the Singapore Ministry of Health through the National Medical Research
 Council (NMRC) Office, MOH Holdings Pte Ltd.</p>
@@ -148,5 +148,5 @@ from the clinical practice.&nbsp;</p>
 into a local leader in innovative medicines and diagnostics across multiple
 disease areas. Today, Roche Singapore employs more than 1,000 people across
 its pharmaceuticals, diagnostics and manufacturing divisions.&nbsp;&nbsp;</p>
-<p>For more information, please visit <a href="http://www.roche.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.roche.com.sg</u></a>&nbsp;</p>
+<p>For more information, please visit <a href="https://www.roche.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.roche.com.sg</u></a>&nbsp;</p>
 <p></p>
