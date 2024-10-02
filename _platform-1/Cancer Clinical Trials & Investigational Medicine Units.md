@@ -64,7 +64,7 @@ trials.</p>
 <p>Lymphoma</p>
 </li>
 <li>
-<p><a href="https://www.scri.edu.sg/national-coordinating-body/clinical-research-network/smsg/" rel="noopener nofollow" target="_blank">Myeloma</a>
+<p><a href="https://www.scri.edu.sg/singapore-myeloma-study-group/about/" rel="noopener nofollow" target="_blank">Myeloma</a>
 </p>
 </li>
 <li>
