@@ -14,6 +14,7 @@ three healthcare clusters in Singapore.</p>
 organisations in both the public sector and industry with the common goal
 of facilitating access to innovative treatments for cancer patients.</p>
 <h3><strong>Our capabilities and initiatives</strong></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>An established framework for <strong>collaborative multi-centre cancer research</strong> with
@@ -24,7 +25,7 @@ studies</p>
 <p>Coordinate and promote <strong>translational cancer research collaborations </strong>for
 and amongst different Large Collaborative Grant (LCG) programmes and cancer
 groups</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Founded a <strong>national Key Opinion Leader (KOL) network </strong>–
 the STCC Tumour Groups - comprising of multidisciplinary experts from Singapore’s
@@ -78,6 +79,8 @@ trials.</p>
 <li>
 <p>Nucleic Acid Therapeutics and Cancer Vaccines</p>
 <p></p>
+</li>
+</ul>
 </li>
 </ul>
 </li>
