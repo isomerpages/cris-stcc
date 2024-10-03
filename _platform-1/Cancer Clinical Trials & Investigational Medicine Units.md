@@ -25,11 +25,12 @@ studies</p>
 <p>Coordinate and promote <strong>translational cancer research collaborations </strong>for
 and amongst different Large Collaborative Grant (LCG) programmes and cancer
 groups</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Founded a <strong>national Key Opinion Leader (KOL) network </strong>–
 the STCC Tumour Groups - comprising of multidisciplinary experts from Singapore’s
 three healthcare clusters aimed to:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop strategic cancer research agenda aligned with national needs.</p>
@@ -44,6 +45,7 @@ trials.</p>
 </li>
 <li>
 <p>Groups have been established in the following areas of cancer research:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Breast Cancer</p>
@@ -84,15 +86,11 @@ trials.</p>
 </ul>
 </li>
 </ul>
+<p></p>
 </li>
 </ul>
-</li>
-<li>
 <p>You can find a list of currently recruiting oncology clinical trials
 <a href="https://clinicaltrials.sg/patient-or-caregiver/trials-listing" rel="noopener nofollow" target="_blank">here</a>by selecting “Cancer” in the Therapeutic Area field.</p>
-</li>
-</ul>
-<p></p>
 <p>For feasibility requests or clinical trial enquiries, please send them
 to&nbsp;<a href="mailto:mailbox@stcc.cris.sg?subject=STCC%20Cancer%20Clinical%20Trials%20and%20Investigational%20Medicine%20Units" rel="noopener noreferrer nofollow" target="_blank"><u>mailbox@stcc.cris.sg</u></a>
 </p>
