@@ -7,7 +7,7 @@ third_nav_title: Executive Committee
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STCC Co-Director" src="/images/Leaders/EXCO 600x450/Associate_Prof_Ravindran_Kanesvaran.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="STCC Co-Director" src="/images/Leaders/EXCO 600x450/Associate_Prof_Ravindran_Kanesvaran.jpg">
 </div>
 <h5>Affiliations</h5>
 <p><strong>Singapore Translational Cancer Consortium</strong>
@@ -44,8 +44,3 @@ reviewed manuscripts in leading cancer journals. He was the past President
 of the Singapore Society of Oncology (SSO) and the International Society
 of Geriatric Oncology (SIOG) and is currently the Vice-Chairman of the
 Singapore Cancer Society.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Associate_Prof_Ravindran_Kanesvaran.jpg">
-</div>
-<p></p>
