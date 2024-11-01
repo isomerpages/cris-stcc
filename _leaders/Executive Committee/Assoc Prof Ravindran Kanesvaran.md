@@ -6,6 +6,7 @@ description: STCC Co-Director
 third_nav_title: Executive Committee
 ---
 <h1></h1>
+<p></p>
 <h5>Affiliations</h5>
 <p><strong>Singapore Translational Cancer Consortium</strong>
 </p>
