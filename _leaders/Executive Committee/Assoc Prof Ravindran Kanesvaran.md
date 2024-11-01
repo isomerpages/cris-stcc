@@ -7,7 +7,7 @@ third_nav_title: Executive Committee
 ---
 <h1></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="STCC Co-Director" src="/images/Leaders/EXCO 600x450/assoc prof ravindran kanesvaran.png">
+<img style="width: 50%;" height="auto" width="100%" alt="STCC Co-Director" src="/images/Leaders/EXCO 600x450/assoc prof ravindran kanesvaran.png">
 </div>
 <p></p>
 <h5>Affiliations</h5>
