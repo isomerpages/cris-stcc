@@ -7,7 +7,7 @@ third_nav_title: Executive Committee
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="STCC Co-Director" src="/images/Leaders/EXCO 600x450/Associate_Prof_Ravindran_Kanesvaran.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="STCC Co-Director" src="/images/Leaders/EXCO 600x450/Associate_Prof_Ravindran_Kanesvaran.jpg">
 </div>
 <h5>Affiliations</h5>
 <p><strong>Singapore Translational Cancer Consortium</strong>
