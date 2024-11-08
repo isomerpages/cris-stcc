@@ -31,7 +31,7 @@ sections:
           url: /contact-us
       title: Welcome to STCC
   - infobar:
-      title: Joint Platforms
+      title: Our Joint Platforms
       description: Driving transformative cancer research & translation, fostering
         collaboration, innovation, and impactful outcomes
       button: Explore More
@@ -84,13 +84,4 @@ sections:
       title: Latest News
       button: View More
       subtitle: BE IN THE KNOW
-  - infopic:
-      title: About Us
-      description: The STCC is a nationally coordinated, virtual organisation set up
-        in 2020, under the Research, Innovation and Enterprise (RIE) 2020 Plan,
-        to address...
-      button: READ MORE
-      url: /our-story/
-      image: /images/Homepage/stcc about us.jpg
-      alt: About Us Image
 ---
