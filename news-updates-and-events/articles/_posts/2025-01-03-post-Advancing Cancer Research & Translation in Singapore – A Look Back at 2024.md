@@ -8,8 +8,10 @@ image: ""
 variant: tiptap
 ---
 <h3><strong>Pushing boundaries in healthcare innovation</strong></h3>
-<h4>STCC became the first Southeast Asian member of Roche's imCORE network</h4>
-<p></p>
+<h4><strong><sub>STCC became the first Southeast Asian member of Roche's imCORE network</sub></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="STCC's induction into the Global imCORE Network" src="/images/Resources/Articles/STCC_YIR_1.jpg">
+</div>
 <p>On 24 July 2024, STCC was inaugurated into the immunotherapy Centers Of
 Research Excellence (imCORE) Network, along with Roche and Genentech. As
 a member of this prestigious global network, we will collaborate with leading
@@ -26,8 +28,11 @@ enhances collaboration, but also holds the potential to pioneer novel immunother
 strategies that can address current unmet medical needs for patients in
 Singapore.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/crissg_singapore-patients-may-get-greater-access-activity-7229049106789195776-9BMo?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>STCC launched the National Health Economics Project to transform cancer care in Singapore</h4>
+<h4><strong><sub>STCC launched the National Health Economics Project to transform cancer care in Singapore</sub></strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="STCC launched the National Health Economics Project to transform cancer care in Singapore" src="/images/Resources/Articles/STCC_YIR_2.png">
+</div>
 <p>STCC launched its National Health Economics on Cancer project in June
 2024, a collaborative effort that brings together experts from leading
 institutions such as the Ministry of Health, National Cancer Centre Singapore,
@@ -45,8 +50,10 @@ initiatives in the region, contributing to more effective and patient-centred
 healthcare solutions.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/crissg_cancerlandscape-singapore-cancercare-activity-7208669136321667073-fKbQ?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3><strong>Fostering partnerships for health</strong></h3>
-<h4>STCC signed a collaborative agreement with Victorian Cancer Biobank</h4>
-<p></p>
+<h4><strong><sub>STCC signed a collaborative agreement with Victorian Cancer Biobank</sub></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="STCC signed a collaborative agreement with Victorian Cancer Biobank" src="/images/Resources/Articles/STCC_YIR_3.jpg">
+</div>
 <p>STCC signed a collaborative agreement with the Victorian Cancer Biobank
 in May 2024 to bolster the biobanking and cancer research capabilities
 of STCC and Victorian Cancer BioBank.</p>
@@ -56,13 +63,16 @@ biospecimens for their cancer research projects. This partnership with
 VCB expands access and diversity to this vital resource, ensuring that
 research discoveries translate into real-world impact for our patients.</p>
 <p>View highlights <a href="https://www.linkedin.com/posts/crissg_biobanking-cancerresearch-partnerships-activity-7195583019124998144-EhSg?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Celebrating excellence in medical research and showcasing innovation at the National Medical Research Council (NMRC) awards ceremony and research symposium 2024</h4>
+<h4><strong><sub>Celebrating excellence in medical research and showcasing innovation at the National Medical Research Council (NMRC) awards ceremony and research symposium 202</sub></strong></h4>
 <p>During the NMRC awards ceremony and research symposium held on 23 and
 24 May 2024, STCC presented key insights:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A/Prof Daniel SW Tan,
 who leads the Cancer Clinical Trials and Investigational Medicine Units
 platform at STCC, discussed strategies to bolster oncology drug development
-networks in Asia.</p>
+networks in Asia</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="A/Prof Daniel SW Tan discussed strategies to bolster oncology drug development networks in Asia" src="/images/Resources/Articles/STCC_YIR_5.jpg">
+</div>
 <p>View highlights <a href="https://www.linkedin.com/posts/crissg_datascience-clinicaltrials-digitalhealth-activity-7199703835479580674-7aKG?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a> and
 <a href="https://www.linkedin.com/posts/nhicsg_translationalresearch-clinicalresearch-healthpromotion-activity-7199318874775830529-Fm7w?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>As part of the event, talent awards were distributed to recognise outstanding
@@ -73,9 +83,12 @@ with a special shout-out to:</p>
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp; Prof<a href="https://www.linkedin.com/in/wee-joo-chng-69b0b9146/" rel="noopener noreferrer nofollow" target="_blank"> </a>Wee Joo
 Chng, Executive Director, Singapore Translational Cancer Consortium (STCC)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Wee Joo Chng, Executive Director, Singapore Translational Cancer Consortium (STCC) receives the Singapore Translational Research (STAR) Investigator Award" src="/images/Resources/Articles/STCC_YIR_4.jpg">
+</div>
 <p>Read more about the award winners <a href="https://www.linkedin.com/posts/crissg_translationalresearch-clinicalresearch-healthpromotion-activity-7199276125154385921-5yXa?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h3><strong>Commemorating leadership transition and a heartfelt tribute</strong></h3>
-<h4>STCC announces the appointment of next Co Director</h4>
+<h3><strong><sub>Commemorating leadership transition and a heartfelt tribute</sub></strong></h3>
+<h4><strong><sub>STCC announces the appointment of next Co Director</sub></strong></h4>
 <p>In October 2024, STCC announced the appointment of A/Prof Ravindran as
 Co-Director of STCC and expressed gratitude to Prof Lim for his excellent
 contributions to the formation, development, and growth of STCC from 2019
@@ -85,7 +98,7 @@ the formation of multidisciplinary tumour groups to catalyse research proposals,
 the coordination of translational and preclinical research projects through
 a centralised pipeline, and the development of a tumour model catalogue.</p>
 <p>Read more <a href="https://www.linkedin.com/feed/update/urn:li:activity:7259836962369339392/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>In loving memory: Tribute to Dr Eng Chon Boon, Platform Lead for Cancer Databases &amp; Tissue Banks</h4>
+<h4><strong><sub>In loving memory: Tribute to Dr Eng Chon Boon, Platform Lead for Cancer Databases &amp; Tissue Banks</sub></strong></h4>
 <p>STCC is deeply saddened by the loss of Dr Eng Chon Boon, Platform Lead
 for Cancer Databases &amp; Tissue Banks at STCC. A well-respected leader
 and mentor in the scientific community, Dr Eng held special expertise in
