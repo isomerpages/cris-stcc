@@ -84,7 +84,7 @@ with a special shout-out to:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp; Prof<a href="https://www.linkedin.com/in/wee-joo-chng-69b0b9146/" rel="noopener noreferrer nofollow" target="_blank"> </a>Wee Joo
 Chng, Executive Director, Singapore Translational Cancer Consortium (STCC)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Wee Joo Chng, Executive Director, Singapore Translational Cancer Consortium (STCC) receives the Singapore Translational Research (STAR) Investigator Award" src="/images/Resources/Articles/STCC_YIR_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Wee Joo Chng, Executive Director, Singapore Translational Cancer Consortium (STCC) received the Singapore Translational Research (STAR) Investigator Award" src="/images/Resources/Articles/STCC_YIR_4.jpg">
 </div>
 <p>Read more about the award winners <a href="https://www.linkedin.com/posts/crissg_translationalresearch-clinicalresearch-healthpromotion-activity-7199276125154385921-5yXa?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3><strong><sub>Commemorating leadership transition and a heartfelt tribute</sub></strong></h3>
