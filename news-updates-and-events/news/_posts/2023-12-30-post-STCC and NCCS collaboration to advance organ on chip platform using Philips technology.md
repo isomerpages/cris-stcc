@@ -8,7 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>STCC and National Cancer Centre Singapore (NCCS) embark on research collaboration to advance an organ-on-chip platform leveraging Philips’ technology</strong></h4>
 <p>In December, STCC and NCCS announced a research collaboration that will
 advance an Organ-on-Chip (OoC) platform leveraging Philips’ technology.
 OoCs are systems containing tissues that grow inside microfluidic chips
