@@ -13,7 +13,6 @@ learn about the meaningful work which the organisation does to build an
 open-source and community-driven resource which standardises, integrates
 and publishes the complex and diverse data associated with patient-derived
 cancer xenografts, organoids and cell lines.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="STCC meets with Cancermodels.org" src="/images/Resources/Articles/stcc_meet_with_cancermodels_org.jpg">
 </div>
