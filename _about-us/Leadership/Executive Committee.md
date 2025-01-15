@@ -14,7 +14,7 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Assoc Prof Ravindran Kanesvaran</div>
+<div class="isomer-card-title">Prof Ravindran Kanesvaran</div>
 <div class="isomer-card-description">Co-Director</div>
 <div class="isomer-card-link">Bio</div>
 </div>
