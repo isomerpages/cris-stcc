@@ -70,4 +70,3 @@ excellence, I&amp;E ecosystem and healthcare translation.</p>
 </p>
 <p><a href="/platform-5/impact-population-health/" rel="noopener noreferrer nofollow" target="_blank">Impact &amp; Population Health</a>
 </p>
-<p></p>
