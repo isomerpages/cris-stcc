@@ -76,14 +76,14 @@ variant: tiptap
 <p></p>
 <h4><strong>Platform 5 - Impact &amp; Population Health</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/adj-assoc-prof-chee-cheng-ean/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 5" src="/images/Leaders/EXCO 600x450/chee_cheng_ean.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Adj Assoc Prof Chee Cheng Ean</div><div class="isomer-card-description">Platform Lead</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-iain-tan/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.nccs.com.sg/profile/chong-qingqing-dawn" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Platform 5 Lead" src="/images/Leaders/EXCO 600x450/Iain_Tan_600x450.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Platform 5 Lead" src="/images/Leaders/EXCO 600x450/Dawn_Chong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Assoc Prof Iain Tan</div>
+<div class="isomer-card-title">Asst Prof Dawn Chong</div>
 <div class="isomer-card-description">Platform Lead</div>
 <div class="isomer-card-link">Bio</div>
 </div>
