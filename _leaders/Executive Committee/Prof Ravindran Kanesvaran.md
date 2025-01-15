@@ -1,6 +1,6 @@
 ---
-title: Assoc Prof Ravindran Kanesvaran
-permalink: /leaders/assoc-prof-ravindran-kanesvaran/
+title: Prof Ravindran Kanesvaran
+permalink: /leaders/prof-ravindran-kanesvaran/
 variant: tiptap
 description: STCC Co-Director
 third_nav_title: Executive Committee
@@ -27,12 +27,12 @@ third_nav_title: Executive Committee
 <p>Senior Consultant, National Cancer Centre Singapore</p>
 </li>
 <li>
-<p>Associate Professor, Duke-NUS Medical School</p>
+<p>Professor, Duke-NUS Medical School</p>
 <p></p>
 </li>
 </ul>
 <h5>Profile</h5>
-<p><strong>Assoc Prof Ravindran Kanesvaran</strong> is Chairman of the Division
+<p><strong>Prof Ravindran Kanesvaran</strong> is Chairman of the Division
 of Medical Oncology of the National Cancer Centre Singapore. He currently
 chairs the Office of Population Health at NCCS as well. He is an Associate
 Professor at Duke-NUS Medical School and Distinguished Professor of Geriatric
