@@ -63,15 +63,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Kalpana Kasturi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pathologist Associate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Dr Chak Shih Cheah</strong>
 </p>
 </td>
