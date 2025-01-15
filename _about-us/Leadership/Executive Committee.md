@@ -10,7 +10,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-ravindran-kanesvaran/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Co-Director" src="/images/Leaders/EXCO 600x450/Associate_Prof_Ravindran_Kanesvaran.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Co-Director" src="/images/Leaders/EXCO 600x450/Prof_Ravindran_Kanesevaran.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
