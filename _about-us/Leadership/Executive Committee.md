@@ -39,19 +39,19 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>Platform 2 - Cancer Databases and Tissue Banks</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/dr-eng-chon-boon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Eng_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Eng Chon Boon</div><div class="isomer-card-description">Platform Lead</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-tan-ern-yu/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-tan-ern-yu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Tan_Ern_Yu_600x450.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tan Ern Yu</div><div class="isomer-card-description">Platform Lead</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-iain-tan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Tan_Ern_Yu_600x450.png">
+<img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Iain_Tan_600x450.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Assoc Prof Tan Ern Yu</div>
+<div class="isomer-card-title">Assoc Prof Iain Tan</div>
 <div class="isomer-card-description">Platform Lead</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-iain-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Iain_Tan_600x450.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Iain Tan</div><div class="isomer-card-description">Platform Lead</div><div class="isomer-card-link">Bio</div></div></a>
+</a>
 </div>
 <h4></h4>
 <h4><strong>Platform 3 - Translational Research Integration &amp; Support</strong></h4>
