@@ -19,21 +19,23 @@ variant: tiptap
 </a>
 </div>
 <h4>Operations Team</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Ms. Joanna Chang</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Ms. Joanna Change</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Asst Clinical Trial Director</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms. Jessica Lee</strong>
-</p>
+<p>Ms. Jessica Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Study Manager</p>
@@ -41,8 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms. Priscilla Tay</strong>
-</p>
+<p>Ms. Priscilla Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Study Manager</p>
@@ -50,8 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Kian Hwee</strong>
-</p>
+<p>Mr Lim Kian Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Project Coordinator</p>
@@ -59,8 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms. Tan Siok Hui</strong>
-</p>
+<p>Ms. Tan Siok Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Project Coordinator</p>
