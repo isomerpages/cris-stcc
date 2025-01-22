@@ -27,6 +27,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Dr Anna Zalewska</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Scientific Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Dr Miao Hui</strong>
 </p>
 </td>
