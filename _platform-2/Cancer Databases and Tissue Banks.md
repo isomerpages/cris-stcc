@@ -28,7 +28,9 @@ Tissue Framework (HTF) and HealthTech Instruction Manual - Data Management
 (HIM-DM), ensuring patient data privacy, protection, and security.</p>
 <h4><strong>&nbsp;Our Capabilities</strong></h4>
 <p>Schematic diagram of the STCC Research Warehouse:</p>
-<p>&lt;add image&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="schematic diagram of the STCC Research Warehouse" src="/images/Platform 2 Page/Schematic_diagram_of_the_STCC_Research_Warehouse.png">
+</div>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>STCC Research Warehouse</strong>
 </p>
@@ -65,7 +67,9 @@ Network of Biorepositories (SINB) hosted on the Clinical Trials Singapore
 (<a href="https://clinicaltrials.sg" rel="noopener nofollow" target="_blank">CTSG</a>)
 website.</p>
 <p>Overview of the request process:</p>
-<p>&lt;insert image&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bio repositories catalogue request process" src="/images/Platform 2 Page/Bio_Repositories_Catalogue_request_process.png">
+</div>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>STCC Centralised Catalogue</strong>
 </p>
 <p>A centralised listing of specimens with 127 annotated data fields, such
