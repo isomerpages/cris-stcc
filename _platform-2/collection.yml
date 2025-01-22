@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Partner/.keep
-      - Cancer Databases and Tissue Banks.md
       - Our Team.md
