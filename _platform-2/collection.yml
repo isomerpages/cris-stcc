@@ -2,6 +2,5 @@ collections:
   platform-2:
     output: true
     order:
-      - Partner/Cancer Databases and Tissue Banks.md
       - Partner/.keep
       - Our Team.md
