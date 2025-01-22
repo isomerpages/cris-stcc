@@ -27,8 +27,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Anna Zalewska</strong>
-</p>
+<p>Dr Anna Zalewska</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Scientific Officer</p>
@@ -36,8 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Miao Hui</strong>
-</p>
+<p>Dr Miao Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Fellow</p>
