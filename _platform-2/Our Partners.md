@@ -17,7 +17,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NCCS logo" src="/images/Platform 2 Page/Our Partners/NCCS.jpg">
 </div>
@@ -28,8 +27,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Platform 2 Page/Our Partners/SingHealth.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Singhealth logo" src="/images/Platform 2 Page/Our Partners/SingHealth.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,7 +59,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="NUS logo" src="/images/Platform 2 Page/Our Partners/NUS.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="NUS logo" src="/images/Platform 2 Page/Our Partners/NUS.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="NHG logo" src="/images/Platform 2 Page/Our Partners/NHG.png">
+<img style="width: 40%;" height="auto" width="100%" alt="NHG logo" src="/images/Platform 2 Page/Our Partners/NHG.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
