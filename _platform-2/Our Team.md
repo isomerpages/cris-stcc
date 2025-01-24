@@ -27,8 +27,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Hira Rafi</strong>
-</p>
+<p>Dr Hira Rafi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Manager, Cancer Registrar</p>
@@ -36,8 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chong Kai Xiang</strong>
-</p>
+<p>Mr Chong Kai Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Executive, Project Management</p>
@@ -45,8 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kiraely Adam Wong</strong>
-</p>
+<p>Mr Kiraely Adam Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Executive, Project Management</p>
@@ -54,8 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Esteen Kwan</strong>
-</p>
+<p>Ms Esteen Kwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Executive, Data Management</p>
@@ -63,8 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Chak Shih Cheah</strong>
-</p>
+<p>Dr Chak Shih Cheah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pathologist Associate</p>
@@ -72,8 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Edwin Yeo</strong>
-</p>
+<p>Mr Edwin Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior System Analyst</p>
@@ -81,8 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Eileen Lai</strong>
-</p>
+<p>Ms Eileen Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Assistant</p>
@@ -90,8 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nur Jannah Khan</strong>
-</p>
+<p>Ms Nur Jannah Khan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical Technologist</p>
