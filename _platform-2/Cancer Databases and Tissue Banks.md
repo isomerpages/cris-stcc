@@ -57,8 +57,8 @@ analyses of data in the STCC CDC linked with multi-modal research data.
 Access to the STCC RDH is governed by the STCC SDAC.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MOH TRUST:</strong> Supports analyses
 of data in the STCC CDC linked with data in the MOH TRUST database. Data
-access to the MOH TRUST platform is subject to approval from the TRUST
-Data Access Committee (DAC).</p>
+access to the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">MOH TRUST platform</a> is
+subject to approval from the TRUST Data Access Committee (DAC).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Bio Repositories Catalogue</strong>
 </p>
 <p>A publicly accessible, comprehensive listing of high-quality oncology
