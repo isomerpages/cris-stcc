@@ -3,7 +3,7 @@ url: https://stcc.sg
 favicon: /images/Logos and Favicon/stcc - favicon.png
 colors:
   primary-color: "#253d81"
-  secondary-color: "#929292"
+  secondary-color: "#00a8e8"
   media-colors:
     - title: media-color-one
       color: "#8e4585"
