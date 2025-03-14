@@ -6,15 +6,15 @@ colors:
   secondary-color: "#00a8e8"
   media-colors:
     - title: media-color-one
-      color: "#8e4585"
+      color: "#8f4180"
     - title: media-color-two
-      color: "#e188fb"
+      color: "#8f4180"
     - title: media-color-three
-      color: "#ffd700"
+      color: "#734e93"
     - title: media-color-four
-      color: "#8e4585"
+      color: "#e0aa3e"
     - title: media-color-five
-      color: "#ffd700"
+      color: "#734e93"
 description: The Singapore Translational Cancer Consortium (STCC) is a
   nationally coordinated consortium to synergise cancer research capabilities in
   Singapore. Established in 2020, STCC brings together unmatched basic, clinical
