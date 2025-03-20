@@ -1,6 +1,6 @@
 ---
-title: Assoc Prof Iain Tan
-permalink: /leaders/assoc-prof-iain-tan/
+title: Prof Iain Tan
+permalink: /leaders/prof-iain-tan/
 description: ""
 third_nav_title: Executive Committee
 variant: tiptap
@@ -9,33 +9,33 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead&nbsp; for&nbsp;Cancer Databases &amp; Tissue Banks, &amp;&nbsp;Impact
-&amp; Population Health,&nbsp;Singapore Translational Cancer Consortium;&nbsp;</p>
+<p>Platform Lead&nbsp;for&nbsp;Cancer Databases &amp; Tissue Banks, Singapore
+Translational Cancer Consortium;&nbsp;</p>
 <p>Senior Consultant (Medical Oncology), National Cancer Centre Singapore
 (NCCS);&nbsp;</p>
 <p>Director of Research, Clinical Analytics, Division of Medical Oncology,
 NCCS,&nbsp;Singhealth;&nbsp;</p>
 <p>Senior Clinician Scientist, Genome Institute of Singapore, A*Star&nbsp;</p>
 <h5>Profile</h5>
-<p><strong>Associate Professor Iain Tan</strong> is a Senior Consultant Medical
-Oncologist, leading the colorectal cancer service in the GI Oncology Team
-at the Department of Medical Oncology, National Cancer Centre Singapore.
-He co- chairs&nbsp;Singhealth’s&nbsp;multidisciplinary colorectal cancer&nbsp;tumor&nbsp;board.
-Nationally, he chairs the Medical Oncology Exit Exam committee for specialist
-accreditation &amp; is a member of MOH’s research training review panel
-&amp; NMRC’s grant review panel. At NCCS, he is also the clinical chair
-for NCCS’s luminal GI cancer Comprehensive Research Program. Concurrently,
-he is a clinician scientist at Genome Institute of Singapore and an assistant
-professor at Duke-NUS. His research focuses –on metastases and drug resistance
-and immune-oncology in gastrointestinal cancers, with a special interest
-in non-invasive diagnostics &amp; innovative early phase clinical trials.
-He has published widely, with many first or corresponding&nbsp;authorpublications&nbsp;in
-leading journals including Journal of Clinical Oncology, Nature Medicine,
-Nature Genetics, Science Translational&nbsp;Medicine&nbsp;and Lancet Oncology.
-For his research, he has received the ASCO Young Investigator Award (2010)
-and ASCO Merit Award (2011) and&nbsp;Singhealth&nbsp;Distinguished Young
-Researcher Award. For his clinical service &amp; research, he received
-the Singapore Youth Award in 2014, the country’s highest award for youths.&nbsp;</p>
+<p><strong>Professor Iain Tan</strong> is a Senior Consultant Medical Oncologist,
+leading the colorectal cancer service in the GI Oncology Team at the Department
+of Medical Oncology, National Cancer Centre Singapore. He co- chairs&nbsp;Singhealth’s&nbsp;multidisciplinary
+colorectal cancer&nbsp;tumor&nbsp;board. Nationally, he chairs the Medical
+Oncology Exit Exam committee for specialist accreditation &amp; is a member
+of MOH’s research training review panel &amp; NMRC’s grant review panel.
+At NCCS, he is also the clinical chair for NCCS’s luminal GI cancer Comprehensive
+Research Program. Concurrently, he is a clinician scientist at Genome Institute
+of Singapore and an assistant professor at Duke-NUS. His research focuses
+–on metastases and drug resistance and immune-oncology in gastrointestinal
+cancers, with a special interest in non-invasive diagnostics &amp; innovative
+early phase clinical trials. He has published widely, with many first or
+corresponding&nbsp;authorpublications&nbsp;in leading journals including
+Journal of Clinical Oncology, Nature Medicine, Nature Genetics, Science
+Translational&nbsp;Medicine&nbsp;and Lancet Oncology. For his research,
+he has received the ASCO Young Investigator Award (2010) and ASCO Merit
+Award (2011) and&nbsp;Singhealth&nbsp;Distinguished Young Researcher Award.
+For his clinical service &amp; research, he received the Singapore Youth
+Award in 2014, the country’s highest award for youths.&nbsp;</p>
 <p><strong>Selected Publications</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
