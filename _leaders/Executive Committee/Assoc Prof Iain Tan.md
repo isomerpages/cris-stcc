@@ -9,8 +9,8 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead&nbsp; for&nbsp;Cancer Databases &amp; Tissue Banks, &amp;&nbsp;Impact
-&amp; Population Health,&nbsp;Singapore Translational Cancer Consortium;&nbsp;</p>
+<p>Platform Lead&nbsp;for&nbsp;Cancer Databases &amp; Tissue Banks, Singapore
+Translational Cancer Consortium;&nbsp;</p>
 <p>Senior Consultant (Medical Oncology), National Cancer Centre Singapore
 (NCCS);&nbsp;</p>
 <p>Director of Research, Clinical Analytics, Division of Medical Oncology,
