@@ -5,15 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h4>Platform Leads</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-tan-ern-yu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Tan_Ern_Yu_282x212.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tan Ern Yu</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-iain-tan/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-iain-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Iain_Tan_600x450.PNG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Iain Tan</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-tan-ern-yu/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Iain_Tan_600x450.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="Platform 2 Lead" src="/images/Leaders/EXCO 600x450/Tan_Ern_Yu_282x212.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Assoc Prof Iain Tan</div>
+<div class="isomer-card-title">Assoc Prof Tan Ern Yu</div>
 <div class="isomer-card-link">Bio</div>
 </div>
 </a>
