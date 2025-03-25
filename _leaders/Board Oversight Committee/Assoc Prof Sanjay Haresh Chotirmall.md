@@ -9,8 +9,10 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/sanjay haresh chotirmall.png">
 </div>
 <h4>Affiliation</h4>
-<p>Assistant Dean (Research), Lee Kong Chian School of Medicine, Nanyang
-Technological University, Singapore</p>
+<p>Vice Dean (Research) and Associate Professor, Molecular Medicine, Lee
+Kong Chian School of Medicine</p>
+<p>Provost’s Chair in Molecular Medicine</p>
+<p>Associate Professor, Lee Kong Chian School of Medicine</p>
 <h4>Profile</h4>
 <p><strong>Associate Professor Chotirmall</strong> is an internationally recognized
 clinician-scientist with an established translational respiratory research
@@ -30,3 +32,4 @@ fellow of the Royal College of Physicians of the United Kingdom (FRCP UK)
 (London). He is a current Deputy Editor at the&nbsp;American Journal of
 Respiratory and Critical Care Medicine&nbsp;(AJRCCM) (IF: 24.7), the youngest
 such appointment and the first from Asia in the journal's 100+ year history.</p>
+<p></p>
