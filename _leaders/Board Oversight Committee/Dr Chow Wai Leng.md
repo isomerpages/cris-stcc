@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Leaders/chow_wai_leng.jpg">
 </div>
 <h4>Affiliation</h4>
-<p>Assistant Dean (Research), Lee Kong Chian School of Medicine, Nanyang
-Technological University, Singapore</p>
+<p>Director, Disease Policy &amp; Strategy Division, Ministry of Health,
+Singapore</p>
 <h4></h4>
 <p></p>
