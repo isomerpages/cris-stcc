@@ -9,8 +9,10 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/sanjay haresh chotirmall.png">
 </div>
 <h4>Affiliation</h4>
-<p>Assistant Dean (Research), Lee Kong Chian School of Medicine, Nanyang
-Technological University, Singapore</p>
+<p>Vice Dean (Research) and Associate Professor, Molecular Medicine, Lee
+Kong Chian School of Medicine</p>
+<p>Provost’s Chair in Molecular Medicine</p>
+<p>Associate Professor, Lee Kong Chian School of Medicine</p>
 <h4>Profile</h4>
 <p><strong>Associate Professor Chotirmall</strong> is an internationally recognized
 clinician-scientist with an established translational respiratory research
