@@ -31,5 +31,5 @@ been conferred as fellow of the Royal College of Physicians in Ireland
 fellow of the Royal College of Physicians of the United Kingdom (FRCP UK)
 (London). He is a current Deputy Editor at the&nbsp;American Journal of
 Respiratory and Critical Care Medicine&nbsp;(AJRCCM) (IF: 24.7), the youngest
-such appointment and the first from Asia in the journal's 100+ year</p>
+such appointment and the first from Asia in the journal's 100+ year history.</p>
 <p>history.</p>
