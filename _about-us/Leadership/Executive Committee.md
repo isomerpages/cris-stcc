@@ -6,7 +6,7 @@ third_nav_title: Leadership
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="&quot;https://www.stcc.sg/leaders/prof-chng-wee-joo/&quot; target=&quot;_blank&quot;" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Executive Director" src="/images/Leaders/EXCO 600x450/Chng_Wee_Joo_600x450.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Chng Wee Joo</div><div class="isomer-card-description">Executive Director</div><div class="isomer-card-link">Bio</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="&quot;https://www.stcc.sg/leaders/prof-chng-wee-joo/&quot;" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Executive Director" src="/images/Leaders/EXCO 600x450/Chng_Wee_Joo_600x450.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Chng Wee Joo</div><div class="isomer-card-description">Executive Director</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-ravindran-kanesvaran/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -98,7 +98,7 @@ variant: tiptap
 <p></p>
 <h4><strong>Platform 5 - Impact &amp; Population Health</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/adj-assoc-prof-chee-cheng-ean/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 5" src="/images/Leaders/EXCO 600x450/chee_cheng_ean.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Adj Assoc Prof Chee Cheng Ean</div><div class="isomer-card-description">Platform Lead</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="&quot;https://www.nccs.com.sg/profile/chong-qingqing-dawn&quot; target=&quot;_blank&quot;" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Platform 5 Lead" src="/images/Leaders/EXCO 600x450/Dawn_Chong.jpg">
@@ -107,9 +107,8 @@ variant: tiptap
 <div class="isomer-card-body">
 <div class="isomer-card-title">Asst Prof Dawn Chong</div>
 <div class="isomer-card-description">Platform Lead</div>
-<div class="isomer-card-link">Bio</div>
 </div>
-</a>
+</div>
 </div>
 <p></p>
 <p></p>
