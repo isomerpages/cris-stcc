@@ -9,8 +9,10 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/professor%20ashok%20venkitaraman.png">
 </div>
 <h4>Affiliation</h4>
-<p>Deputy Designate, Cancer Science Institute of Singapore, National University
-Singapore</p>
+<p>Director, Cancer Science Institute of Singapore;</p>
+<p>Distinguished Professor of Medicine, Yong Loo Lin School of Medicine,
+NUS;</p>
+<p>Director, NUS Centre for Cancer Research</p>
 <h4>Profile</h4>
 <p><strong>Professor Ashok&nbsp;Venkitaraman&nbsp;</strong>is the Director
 of the Cancer Science Institute of Singapore, and a Distinguished Professor
