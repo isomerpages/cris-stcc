@@ -9,7 +9,9 @@ third_nav_title: Executive Committee
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Dawn_Chong.jpg">
 </div>
-<h3><strong>Profile</strong></h3>
+<h5>Affiliations</h5>
+<p>Senior Consultant, National Cancer Centre Singapore</p>
+<h5>Profile</h5>
 <p>Dr Dawn Chong is a Senior Consultant Medical Oncologist at the Division
 of Medical Oncology, National Cancer Centre Singapore (NCCS) and specializes
 in gastrointestinal cancers.</p>
@@ -28,6 +30,7 @@ in many high impact journals including JAMA Oncology and Lancet Oncology.</p>
 <p>Dr Chong is an Assistant Professor of the Duke-NUS Graduate Medical School
 and a clinical lecturer of the Yong Loo Lin Medical School. She has been
 actively involved in the training of undergraduates and young clinicians.</p>
+<p></p>
 <p>
 <br>
 </p>
