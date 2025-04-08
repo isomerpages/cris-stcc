@@ -9,8 +9,12 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/barry-halliwell__stcc.png">
 </div>
 <h4>Affiliation</h4>
-<p>Chairman, Biomedical Research Council, Agency for Science, Technology
-and Research (A*STAR)</p>
+<p>Chairman; BMRC Advisory Council (BMAC), Agency for Science Technology
+and Research;</p>
+<p>Senior Advisor, Academic Appointments and Research Excellence, Office
+of the Senior Deputy President and Provost;</p>
+<p>Distinguished Professor, Department of Biochemistry, National University
+of Singapore</p>
 <h4>Profile</h4>
 <p><strong>Professor Barry Halliwell</strong> is Senior Advisor, Academic
 Appointments and Research Excellence, Office of the Senior Deputy&nbsp;President&nbsp;and
