@@ -9,9 +9,7 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/tan sze wee.png">
 </div>
 <h4>Affiliation</h4>
-<p>Assistant Chief Executive, Biomedical Research Council; Senior Advisor,
-Innovation and Enterprise (National Platforms), Agency for Science, Technology
-and Research (A*STAR)</p>
+<p>Advisor, Investment (Healthcare &amp; Life Sciences-SEA), Temasek International</p>
 <h4>Profile</h4>
 <p><strong>Professor Tan Sze Wee</strong> is currently the Assistant Chief
 Executive of A*STAR’s Biomedical Research Council (BMRC) and Senior Advisor
