@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Executive Committee
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/David_Tan.jpg">
+</div>
+<p></p>
 <h5>Affiliations</h5>
 <p>Senior Consultant, Department of Haematology-Oncology, National University
 Cancer Institute, Singapore</p>
