@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><em><a href="https://www.channelnewsasia.com/watch/national-cancer-centres-ravindran-kanesvaran-future-cancer-care-treatment-costs-5049691" rel="noopener nofollow" target="_blank">Channel News Asia</a> 7 April 2025&nbsp;</em>
+<p><em><a href="https://www.channelnewsasia.com/watch/national-cancer-centres-ravindran-kanesvaran-future-cancer-care-treatment-costs-5049691" rel="noopener nofollow" target="_blank">Channel News Asia</a>  7 April 2025&nbsp;</em>
 </p>
 <p>Report on Singapore’s efforts to advance cancer care by training healthcare
 staff overseas and studying cell therapies. Dr Ravindran Kanesvaran from
