@@ -30,7 +30,7 @@ variant: tiptap
 <p>Mr Kiraely Adam Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Manager, Project Management</p>
+<p>Assistant Project Manager</p>
 </td>
 </tr>
 <tr>
