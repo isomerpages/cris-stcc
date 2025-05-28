@@ -30,7 +30,7 @@ variant: tiptap
 <p>Dr Eddy Miow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Manager</p>
+<p>Senior Project Manager</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Dr Michal Marek Hoppe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Analyst</p>
+<p>Senior Data Analyst</p>
 </td>
 </tr>
 <tr>

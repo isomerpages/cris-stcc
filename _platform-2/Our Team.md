@@ -27,10 +27,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Hira Rafi</p>
+<p>Mr Kiraely Adam Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Manager, Cancer Registrar</p>
+<p>Assistant Project Manager</p>
 </td>
 </tr>
 <tr>
@@ -43,10 +43,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kiraely Adam Wong</p>
+<p>Dr Hira Rafi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Project Management</p>
+<p>Assistant Manager, Cancer Registrar</p>
 </td>
 </tr>
 <tr>
@@ -54,15 +54,7 @@ variant: tiptap
 <p>Ms Esteen Kwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Data Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Chak Shih Cheah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pathologist Associate</p>
+<p>Assistant Manager, Data Management</p>
 </td>
 </tr>
 <tr>

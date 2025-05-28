@@ -75,11 +75,12 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
   </tr>
   <tr>
-  <td rowspan="2">Targeted RNA Sequencing</td>
-  <td>Nanostring nCounter</td>
-		<td></td>
-  <td>Targeted gene expression analysis with Nanostring panels.</td>
-  <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td>
+  <td rowspan="3">Targeted RNA Sequencing</td>
+  <td rowspan="2">Nanostring nCounter</td>
+		<td rowspan="2"></td>
+  <td rowspan="2">Targeted gene expression analysis with custom and off-the-shelf Nanostring panels.</td>
+  <td><a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a></td></tr>
+   <tr><td><a style="text-decoration: none; color: black;" href="https://www.duke-nus.edu.sg/research/research-facilities/viremics-core-facility"><u>ViREMiCS</u></a></td>
   </tr>
   <tr>
   <td>Agilent Magnis</td>
@@ -106,7 +107,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Nanostring GeoMx, nCounter</td>
 		<td>🅢</td>
   <td>Area-based analysis of the entire human transcriptome.</td>
-  <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+  <td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a></td>
   </tr>
       <tr>
   <td>Nanostring CosMx</td>
@@ -121,7 +122,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Local partner</td>
   </tr>
         <tr>
-  <td>10x Xenium</td>
+  <td>10X Xenium</td>
 		<td>🅢<br><b>⁂</b></td>
   <td>Single-cell spatial panel profiling.</td>
   <td>Local partner</td>
@@ -170,7 +171,8 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Service partners:<br>
 <a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/centre-for-genome-diagnostics"><u>A*STAR CGD POLARIS</u></a> - Agency for Science, Technology and Research - Centre for Genome Diagnostics, Personalized OMIC Lattice for Advanced Research and Improving Stratification<br>
 <a style="text-decoration: none; color: black;" href="https://www.cancerdiscoveryhub.com/"><u>NCCS CDH</u></a> - National Cancer Centre Singapore, Cancer Discovery Hub<br>
-<a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a> - National University of Singapore, Cancer Science Institute of Singapore, Microscopy and Multiplex Assays Core<br>
+<a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a> - National University of Singapore, Cancer Science Institute of Singapore, Spatial Biology Core<br>
+<a style="text-decoration: none; color: black;" href="https://www.duke-nus.edu.sg/research/research-facilities/viremics-core-facility"><u>ViREMiCS</u></a> - Viral Research and Experimental Medicine Centre @ SingHealth Duke-NUS<br>
 <br>
 Methods:<br>
 EM-Seq - Enzymatic Methyl-sequencing<br>
@@ -213,21 +215,21 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Leica Bond-MAX</td>
 	<td>🅢<br><b>⁂</b></td>
   <td>Visualization of proteins in tissues using antibodies.</td>
-	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a></td>
   </tr>
 	<tr>
   <td>Multiplex Chromogenic IHC</td>
   <td>Leica Bond-MAX</td>
 	<td>🅢<br><b>⁂</b></td>
   <td>Up to 4 targets at sub-cellular resolution.</td>
-	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a></td>
   </tr>
 	<tr>
   <td rowspan="2">Multiplex Fluorescent IHC</td>
 	<td>Akoya PhenoImager HT</td>
   <td>🅢<br><b>⁂</b></td>
 	<td>Up to 8 targets at sub-cellular resolution.</td>
-			<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+			<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a></td>
 		</tr>
 	<tr>
   <td>ZEISS Axioscan 7</td>
@@ -246,7 +248,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Akoya Phenocycler</td>
 	<td>🅢<br><b>⁂</b></td>
 	<td>Up to 100+ targets at sub-cellular resolution.</td>
-	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a></td>
   </tr>
 	<tr>
   <td>Miltenyi MACSima</td>
@@ -259,7 +261,7 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <td>Nanostring GeoMx</td>
 	<td>🅢</td>
   <td>Area-based analysis of up to 570 protein targets.</td>
-	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a></td>
+	<td><a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a></td>
   </tr>
 	<tr>
   <td>Multiplexed Flow Cytometry</td>
@@ -267,6 +269,13 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<td>⁂</td>
   <td>Immune profiling with a 39-plex panel.</td>
 	<td><a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a></td>
+  </tr>
+  			<tr>
+  <td>Proteomic Profiling</td>
+  <td>Olink Q100</td>
+	<td></td>
+  <td>Absolute and relative protein biomarker quantification from various sample matrices.</td>
+	<td><a style="text-decoration: none; color: black;" href="https://www.duke-nus.edu.sg/research/research-facilities/viremics-core-facility"><u>ViREMiCS</u></a></td>
   </tr>
 			<tr>
   <td>Serum Cytokine Profiling</td>
@@ -285,8 +294,9 @@ Symbols: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<tr>
 	<td style="font-size: 9px;" colspan="5"><br>
 Service partners:<br>
-<a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/microscopy-and-multiplex-assays-core/"><u>NUS CSI MMA Core</u></a> - National University of Singapore, Cancer Science Institute of Singapore, Microscopy and Multiplex Assays Core<br>
-<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a>  - Agency for Science, Technology and Research - Institute of Molecular and Cell Biology<br><br>
+<a style="text-decoration: none; color: black;" href="https://csi.nus.edu.sg/our-research/core-facilities/spatial-biology-core/"><u>NUS CSI SBC</u></a> - National University of Singapore, Cancer Science Institute of Singapore, Spatial Biology Core<br>
+<a style="text-decoration: none; color: black;" href="https://www.a-star.edu.sg/imcb/imcb-research/scientific-programmes/cancer-signaling-therapies/joe-yeong-poh-sheng"><u>A*STAR IMCB</u></a>  - Agency for Science, Technology and Research - Institute of Molecular and Cell Biology<br>
+<a style="text-decoration: none; color: black;" href="https://www.duke-nus.edu.sg/research/research-facilities/viremics-core-facility"><u>ViREMiCS</u></a> - Viral Research and Experimental Medicine Centre @ SingHealth Duke-NUS<br><br>
 </td></tr>
   </tbody>
 	</table>
