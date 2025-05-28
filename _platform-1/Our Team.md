@@ -38,7 +38,7 @@ variant: tiptap
 <p>Ms. Jessica Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Study Manager</p>
+<p>Senior Study Manager</p>
 </td>
 </tr>
 <tr>
