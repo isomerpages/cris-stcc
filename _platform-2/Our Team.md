@@ -30,7 +30,7 @@ variant: tiptap
 <p>Mr Kiraely Adam Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Project Manager</p>
+<p>Assistant Manager</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ variant: tiptap
 <p>Mr Chong Kai Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Project Management</p>
+<p>Senior Executive</p>
 </td>
 </tr>
 <tr>
