@@ -70,7 +70,7 @@ variant: tiptap
 <p>Ms Sin Pei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Co-ordinator</p>
+<p>Project Coordinator</p>
 </td>
 </tr>
 <tr>
