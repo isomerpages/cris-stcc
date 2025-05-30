@@ -67,10 +67,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen Lai</p>
+<p>Ms Sin Pei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Assistant</p>
+<p>Project Co-ordinator</p>
 </td>
 </tr>
 <tr>
