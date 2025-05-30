@@ -92,7 +92,7 @@ for Cancer Research</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Ruth Lim" src="/images/Leaders/BOC 600 x 450 png/Ruth_Lim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Ruth Lim" src="/images/Leaders/BOC 600 x 450 png/ruth_lim.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
