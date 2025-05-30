@@ -66,7 +66,18 @@ for Cancer Research</div>
 <div class="isomer-card-title">Prof Chong Yap Seng</div>
 <div class="isomer-card-description">Dean, Yong Loo Lin School of Medicine, National University Singapore</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/ms-elaine-teo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms. Elaine Teo" src="/images/Leaders/BOC 600 x 450 png/Elaine_Teo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms. Elaine Teo</div><div class="isomer-card-description">Director, Aged and Ancillary Service Regulations and Transformation, MOH</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. Elaine Teo" src="/images/Leaders/BOC 600 x 450 png/Elaine_Teo_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms. Elaine Teo</div>
+<div class="isomer-card-description">Director, Aged and Ancillary Service Regulations and Transformation, MOH</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
