@@ -104,7 +104,7 @@ Medicine, Nanyang Technological University</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Benjamin Toh" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Benjamin Toh" src="/images/Leaders/BOC 600 x 450 png/Benjamin_Toh.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
