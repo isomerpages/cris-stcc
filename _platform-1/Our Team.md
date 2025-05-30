@@ -30,7 +30,7 @@ variant: tiptap
 <p>Ms. Joanna Change</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Clinical Trial Director</p>
+<p>Assistant Director</p>
 </td>
 </tr>
 <tr>
