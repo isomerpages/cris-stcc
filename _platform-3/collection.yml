@@ -2,6 +2,7 @@ collections:
   platform-3:
     output: true
     order:
+      - DIVERSITY Organoid Catalogue.md
       - Translational Research Integration & Support.md
       - Molecular Assay Catalogue.md
       - Our Team.md
