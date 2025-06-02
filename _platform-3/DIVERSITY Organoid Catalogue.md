@@ -6,7 +6,8 @@ description: ""
 ---
 In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally available PDO (Patient-Derived Organoid) models from our partner research institutes in Singapore. These models are accessible to the cancer research community and STCC collaborators.<br>
 
-<img align="middle" alt="DIVERSITY organoid catalogue" src="diversity header.png">
+![](/images/diversity_header.png)
+
 
 <h4 style="margin: 0; padding: 0;"> DIVERSITY organoid catalogue </h4>
 <div style="height: 10px;"></div>
