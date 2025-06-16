@@ -18,6 +18,9 @@ and National University Cancer Institute, Singapore.</p>
 <p>For Singaporeans, it could mean access to new cancer drugs being tested,
 while the network will gain access to a diverse pool of Asian trial participants.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Media Releases/STCC_Roche_imCORE_Media_coverage.png">
+</div>
 <p>Media coverage can be accessed below:</p>
 <ul data-tight="true" class="tight">
 <li>
