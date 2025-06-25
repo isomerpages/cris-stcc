@@ -59,14 +59,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior System Analyst</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sin Pei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
