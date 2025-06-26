@@ -51,14 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vikneswari D/O Rajasegaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Research Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Cheng Yu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
