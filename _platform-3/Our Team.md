@@ -65,6 +65,14 @@ variant: tiptap
 <p>Research Executive</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kwong Ee Wern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Executive</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
