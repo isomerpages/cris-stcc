@@ -7,7 +7,7 @@ description: ""
 In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally available PDO (Patient-Derived Organoid) models from our partner research institutes in Singapore. These models are accessible to the cancer research community and STCC collaborators.<br>
 
 ![](/images/diversity_header.png)
-
+<br>
 <h4 style="margin: 0; padding: 0;"> DIVERSITY organoid catalogue </h4>
 <div style="height: 10px;"></div>
 <details>
@@ -46,8 +46,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
       <th>FFPE block</th>
   </tr>
     <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-BRCA-001</u></a></td>
+    <td><b>
+      <u>STCC-BRCA-001</u></b></td>
     <td>Breast</td>
     <td>Breast</td>
 		<td>F</td>
@@ -62,8 +62,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-BRCA-002</u></a></td>
+    <td><b>
+      <u>STCC-BRCA-002</u></b></td>
     <td>Breast</td>
     <td>Brain</td>
 		<td>F</td>
@@ -78,8 +78,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-BRCA-003</u></a></td>
+    <td><b>
+      <u>STCC-BRCA-003</u></b></td>
     <td>Breast</td>
     <td>Breast</td>
 		<td>F</td>
@@ -94,8 +94,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-BRCA-004</u></a></td>
+    <td><b>
+      <u>STCC-BRCA-004</u></b></td>
     <td>Breast</td>
     <td>Breast</td>
 		<td>F</td>
@@ -110,8 +110,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-BRCA-005</u></a></td>
+    <td><b>
+      <u>STCC-BRCA-005</u></b></td>
     <td>Breast</td>
     <td>PE</td>
 		<td>F</td>
@@ -126,8 +126,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-  <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-BRCA-006</u></a></td>
+  <td><b>
+      <u>STCC-BRCA-006</u></b></td>
     <td>Breast</td>
     <td>Breast</td>
 		<td>F</td>
@@ -142,8 +142,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-	<td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-    <u>STCC-BRCA-007</u></a></td>
+	<td><b>
+    <u>STCC-BRCA-007</u></b></td>
     <td>Breast</td>
     <td>PE</td>
 		<td>F</td>
@@ -158,8 +158,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-		<td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-    <u>STCC-BRCA-008</u></a></td>
+		<td><b>
+    <u>STCC-BRCA-008</u></b></td>
     <td>Breast</td>
     <td>Breast</td>
 		<td>F</td>
@@ -221,8 +221,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
       <th>FFPE block</th>
   </tr>
     <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-001</u></a></td>
+    <td><b>
+      <u>STCC-CRC-001</u></b></td>
     <td>Colon</td>
     <td>Liver</td>
 		<td>F</td>
@@ -237,8 +237,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-002</u></a></td>
+    <td><b>
+      <u>STCC-CRC-002</u></b></td>
     <td>Colon</td>
     <td>Colon</td>
 		<td>M</td>
@@ -253,8 +253,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td>-</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-003</u></a></td>
+    <td><b>
+      <u>STCC-CRC-003</u></b></td>
     <td>Colon</td>
     <td>Colon</td>
 		<td>F</td>
@@ -269,8 +269,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-004</u></a></td>
+    <td><b>
+      <u>STCC-CRC-004</u></b></td>
     <td>Colon</td>
     <td>Colon</td>
 		<td>F</td>
@@ -285,8 +285,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-005</u></a></td>
+    <td><b>
+      <u>STCC-CRC-005</u></b></td>
     <td>Rectum</td>
     <td>Rectum</td>
 		<td>F</td>
@@ -301,8 +301,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-006</u></a></td>
+    <td><b>
+      <u>STCC-CRC-006</u></b></td>
     <td>Colon</td>
     <td>Ovary</td>
 		<td>F</td>
@@ -317,8 +317,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-007</u></a></td>
+    <td><b>
+      <u>STCC-CRC-007</u></b></td>
     <td>Colon</td>
     <td>Ovary</td>
 		<td>F</td>
@@ -333,8 +333,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 		<td style="background-color: #f5f5f5;">✓</td>
 	</tr>
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CRC-008</u></a></td>
+    <td><b>
+      <u>STCC-CRC-008</u></b></td>
     <td>Rectum</td>
     <td>Liver</td>
 		<td>F</td>
@@ -396,8 +396,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
       <th>FFPE block</th>
   </tr>
   <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-001</u></a></td>
+    <td><b>
+      <u>STCC-GS-001</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -413,8 +413,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	  <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-002</u></a></td>
+    <td><b>
+      <u>STCC-GS-002</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -430,8 +430,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 		  <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-003</u></a></td>
+    <td><b>
+      <u>STCC-GS-003</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>F</td>
@@ -447,8 +447,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 			  <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-004</u></a></td>
+    <td><b>
+      <u>STCC-GS-004</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -464,8 +464,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-005</u></a></td>
+    <td><b>
+      <u>STCC-GS-005</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -481,8 +481,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 					  <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-006</u></a></td>
+    <td><b>
+      <u>STCC-GS-006</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -498,8 +498,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-007</u></a></td>
+    <td><b>
+      <u>STCC-GS-007</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -515,8 +515,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-008</u></a></td>
+    <td><b>
+      <u>STCC-GS-008</u></b></td>
     <td>Stomach</td>
     <td>Liver</td>
 		<td>F</td>
@@ -532,8 +532,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-009</u></a></td>
+    <td><b>
+      <u>STCC-GS-009</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -549,8 +549,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-010</u></a></td>
+    <td><b>
+      <u>STCC-GS-010</u></b></td>
     <td>GEJ</td>
     <td>GEJ</td>
 		<td>M</td>
@@ -566,8 +566,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-011</u></a></td>
+    <td><b>
+      <u>STCC-GS-011</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -583,8 +583,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 	<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-012</u></a></td>
+    <td><b>
+      <u>STCC-GS-012</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>M</td>
@@ -600,8 +600,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 		<tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GS-013</u></a></td>
+    <td><b>
+      <u>STCC-GS-013</u></b></td>
     <td>Stomach</td>
     <td>Stomach</td>
 		<td>F</td>
@@ -667,8 +667,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
   </tr>
   <tr>
     <td style="text-align: left;">Cholangio</td>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-CCA-001</u></a></td>
+    <td><b>
+      <u>STCC-CCA-001</u></b></td>
     <td>-</td>
     <td>-</td>
 		<td>-</td>
@@ -685,8 +685,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	
 	<tr>
 	  <td style="text-align: left;">Gallbladder Neuroendocrine</td>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-GB-001</u></a></td>
+    <td><b>
+      <u>STCC-GB-001</u></b></td>
     <td>Gallbladder</td>
     <td>Gallbladder</td>
 		<td>F</td>
@@ -703,8 +703,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	
 	<tr>
 	  <td style="text-align: left;" rowspan="2">Pancreatic</td>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-PDAC-001</u></a></td>
+    <td><b>
+      <u>STCC-PDAC-001</u></b></td>
     <td>Pancreas</td>
     <td>Pancreas</td>
 		<td>F</td>
@@ -720,8 +720,8 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	</tr>
 	
 			  <tr>
-    <td><a style="text-decoration: none; color: black;" href="https://stcc.sg/this_organoid">
-      <u>STCC-PDAC-002</u></a></td>
+    <td><b>
+      <u>STCC-PDAC-002</u></b></td>
     <td>Pancreas</td>
     <td>Pancreas</td>
 		<td>F</td>
