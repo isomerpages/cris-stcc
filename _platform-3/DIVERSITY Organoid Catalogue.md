@@ -15,9 +15,9 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	<p align="right" style="font-size: 12px; line-height: 1.5;">
   <table style="font-size: 12px; text-align: center;">
     <colgroup>
-	    <col style="width: 14%;">
-      <col style="width: 11%;">
-      <col style="width: 11%;">
+	    <col style="width: 16%;">
+      <col style="width: 10%;">
+      <col style="width: 10%;">
       <col style="width: 6%;">
       <col style="width: 6%;">
       <col style="width: 6%;">
@@ -190,9 +190,9 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	<p align="right" style="font-size: 12px; line-height: 1.5;">
   <table style="font-size: 12px; text-align: center;">
     <colgroup>
-	    <col style="width: 12%;">
-      <col style="width: 12%;">
-      <col style="width: 12%;">
+	    <col style="width: 16%;">
+      <col style="width: 10%;">
+      <col style="width: 10%;">
       <col style="width: 6%;">
       <col style="width: 6%;">
       <col style="width: 6%;">
@@ -365,9 +365,9 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
 	<p align="right" style="font-size: 12px; line-height: 1.5;">
   <table style="font-size: 12px; text-align: center;">
     <colgroup>
-	    <col style="width: 12%;">
-      <col style="width: 12%;">
-      <col style="width: 12%;">
+	    <col style="width: 16%;">
+      <col style="width: 10%;">
+      <col style="width: 10%;">
       <col style="width: 6%;">
       <col style="width: 6%;">
       <col style="width: 6%;">
@@ -634,9 +634,9 @@ In our&nbsp;**DIVERSITY** organoid catalogue, we have compiled a list of locally
   <table style="font-size: 12px; text-align: center;">
     <colgroup>
       <col style="width: 16%;">
-	    <col style="width: 14%;">
-      <col style="width: 10%;">
-      <col style="width: 10%;">
+	    <col style="width: 18%;">
+      <col style="width: 8%;">
+      <col style="width: 8%;">
       <col style="width: 5%;">
       <col style="width: 5%;">
       <col style="width: 5%;">
