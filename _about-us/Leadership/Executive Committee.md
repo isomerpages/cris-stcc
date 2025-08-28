@@ -24,14 +24,14 @@ variant: tiptap
 <h4><strong>Platform 1 - Cancer Clinical Trials and Investigational Medicine Units</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-goh-boon-cher/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Platform 1 Lead" src="/images/Leaders/EXCO 600x450/Goh_Boon_Cher_600x450.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Goh Boon Cher</div><div class="isomer-card-description">Platform Lead</div><div class="isomer-card-link">Bio</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/assoc-prof-daniel-tan/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/prof-daniel-tan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Platform Lead" src="/images/Leaders/EXCO 600x450/Daniel_Tan_600x450.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Assoc Prof Daniel Tan</div>
+<div class="isomer-card-title">Prof Daniel Tan</div>
 <div class="isomer-card-description">Platform Lead</div>
 <div class="isomer-card-link">Bio</div>
 </div>
