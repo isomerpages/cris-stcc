@@ -80,8 +80,8 @@ accelerating the translation of research findings into clinical applications.</p
 <p>The STCC Centralised Catalogue can be accessed<strong> </strong><a href="https://nuhgspcvpapp01/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;(requires
 institutional login).</p>
 <p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>STCC Research Data Hub</strong> (RDH;
-estimated go-live in 2026)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>STCC Research Data Hub</strong> 
+</p>
 <p>The RDH is a molecular and omics data repository and analytics platform
 developed in partnership with the STCC <a href="https://www.stcc.sg/platform-3/translational-research-integration-support/" rel="noopener noreferrer nofollow" target="_blank">Translational Research Integration and Support platform</a> and
 the Agency for Science, Technology and Research (A*STAR) Bioinformatics
