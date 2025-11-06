@@ -35,6 +35,7 @@ sections:
           description: Get in Touch With Us
           url: /contact-us
       title: Welcome to STCC
+      variant: center
   - infobar:
       title: Our Joint Platforms
       description: Driving transformative cancer research & translation, fostering
