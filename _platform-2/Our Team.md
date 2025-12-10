@@ -67,10 +67,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Jannah Khan</p>
+<p>Ms Sim E-Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Medical Technologist</p>
+<p>Research Fellow</p>
 </td>
 </tr>
 </tbody>
