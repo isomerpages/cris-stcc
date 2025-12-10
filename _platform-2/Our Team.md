@@ -16,7 +16,7 @@ variant: tiptap
 <div class="isomer-card-title">Assoc Prof Tan Ern Yu</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/arun-prasath-shanmugam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arun Prasath Shanmugam" src="/images/Leaders/EXCO 600x450/Arun_Prasath_Shanmugam.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Arun Prasath Shanmugam</div><div class="isomer-card-description">Platform Lead</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leaders/arun-prasath-shanmugam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arun Prasath Shanmugam" src="/images/Leaders/EXCO 600x450/Arun_Prasath_Shanmugam.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Arun Prasath Shanmugam</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <h4>Operations Team</h4>
 <table style="minWidth: 50px">
