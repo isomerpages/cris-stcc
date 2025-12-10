@@ -1,6 +1,6 @@
 ---
 title: Mr Arun Prasath Shanmugam
-permalink: /arun-prasath-shanmugam/
+permalink: /leaders/arun-prasath-shanmugam/
 variant: tiptap
 description: ""
 third_nav_title: Executive Committee
