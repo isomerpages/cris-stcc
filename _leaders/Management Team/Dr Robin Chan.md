@@ -21,9 +21,10 @@ translational biology in neurodegeneration, infectious diseases and oncology.
 Prior to joining STCC, he held senior scientific and strategic roles in
 biotechnology, where he led the development of multi-omics research platforms
 and cross-institutional academic–industry collaborations.</p>
-<p>At STCC, Dr Chan focuses on strengthening translational research platforms,
-supporting investigator-initiated studies, and fostering strategic partnerships
-that bridge healthcare institutions, academia, and industry. He is committed
-to enabling high-quality, clinically relevant research and supporting clinician-scientists
-in translating scientific discoveries into meaningful patient impact.</p>
+<p>At STCC, Dr Chan's work focuses on strengthening translational research
+platforms, supporting investigator-initiated studies, and fostering strategic
+partnerships that bridge healthcare institutions, academia, and industry.
+He is committed to enabling high-quality, clinically relevant research
+and supporting clinician-scientists in translating scientific discoveries
+into meaningful patient impact.</p>
 <p>&nbsp;</p>
