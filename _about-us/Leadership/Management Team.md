@@ -19,7 +19,7 @@ variant: tiptap
 <div class="isomer-card-link">Bio</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Robin Chan" src="/images/Leadership/dr_robin_chan stcc.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Robin Chan</div><div class="isomer-card-description">Scientifc Director</div><div class="isomer-card-link">Bio</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/leaders/mr-clarence-khoo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Director" src="/images/Leaders/EXCO 600x450/Clarence_600x450.png">
@@ -28,7 +28,8 @@ variant: tiptap
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Clarence Khoo</div>
 <div class="isomer-card-description">Director, Operation &amp; Strategy</div>
+<div class="isomer-card-link">Bio</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
