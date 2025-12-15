@@ -1,9 +1,9 @@
 ---
 title: Mr Clarence Khoo
-permalink: /leaders/mr-clarence-khoo/
+permalink: /mr-clarence-khoo/
 variant: tiptap
 description: ""
-third_nav_title: Senior Management
+third_nav_title: Management Team
 ---
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/mr-clarence-khoo.png">

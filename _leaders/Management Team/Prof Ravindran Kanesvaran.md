@@ -1,9 +1,9 @@
 ---
 title: Prof Ravindran Kanesvaran
-permalink: /prof-ravindran-kanesvaran/
+permalink: /management/prof-ravindran-kanesvaran/
 variant: tiptap
 description: ""
-third_nav_title: Senior Management
+third_nav_title: Management Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
