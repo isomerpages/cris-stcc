@@ -8,12 +8,12 @@ description: The Singapore Translational Cancer Consortium (STCC) is a
   excellence in selected Asian cancers.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Singapore Translational Cancer Consortium will NEVER ask you to
-  transfer money or disclose bank log-in details over a phone call. <br> Call
-  the 24/7 ScamShield Helpline at 1799 if you are unsure something is a scam or
-  visit <a target="_blank"
+notification: <center>Singapore Translational Cancer Consortium will NEVER ask
+  you to transfer money or disclose bank log-in details over a phone call. <br>
+  Call the 24/7 ScamShield Helpline at 1799 if you are unsure something is a
+  scam or visit <a target="_blank"
   href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.scamshield.gov.sg&umid=63F9FCF1-42BF-5406-822C-8F589895B547&auth=1e4be8166c0e95fa5701eaa3515f34fbdd8d125c-326bfe2ad0915f7875bfdd01ab0e0bb543c30ae4">ScamShield</a>
-  for more information.
+  for more information. </center>
 sections:
   - hero:
       background: /images/Homepage/stcc banner.jpg
