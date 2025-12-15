@@ -2,7 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Senior Management1/.keep
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Prof William Hwang.md
       - Board Oversight Committee/Ms Amanda Ang.md
@@ -29,3 +28,4 @@ collections:
       - Executive Committee/Assoc Prof David Tan.md
       - Executive Committee/Adj Assoc Prof Chee Cheng Ean.md
       - Executive Committee/Asst Prof Dawn Chong.md
+      - Senior Management1/.keep
