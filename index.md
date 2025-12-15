@@ -11,8 +11,9 @@ permalink: /
 notification: <center>Singapore Translational Cancer Consortium will NEVER ask
   you to transfer money or disclose bank log-in details over a phone call. <br>
   Call the 24/7 ScamShield Helpline at 1799 if you are unsure something is a
-  scam or visit <a href="https://www.scamshield.gov.sg"> for more information.
-  </a></center>
+  scam or visit <a target="_blank"
+  href="https://www.scamshield.gov.sg/">ScamShield</a> for more information.
+  </center>
 sections:
   - hero:
       background: /images/Homepage/stcc banner.jpg
