@@ -18,7 +18,7 @@ variant: tiptap
 <div class="isomer-card-description">Co-Director</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Robin Chan" src="/images/Leadership/Dr_Robin_Chan_pp.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Robin Chan</div><div class="isomer-card-description">Scientifc Director</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Robin Chan" src="/images/Dr_Robin_Chan_pp1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Robin Chan</div><div class="isomer-card-description">Scientifc Director</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.stcc.sg/leadership/management-team/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
