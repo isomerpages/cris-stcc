@@ -9,9 +9,9 @@ third_nav_title: Management Team
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leadership/dr_robin_chan_management.jpg">
 </div>
-<p><strong>Dr Robin Chan</strong> is Scientific Director of the Singapore
-Translational Cancer Consortium (STCC). In this role, he supports the development
-and coordination of collaborative, investigator-led cancer research across
+<p><strong>Dr Robin Chan</strong> is the Scientific Director of the Singapore
+Translational Cancer Consortium (STCC). He supports the development and
+coordination of collaborative, investigator-led cancer research across
 Singapore’s public healthcare and academic institutions.</p>
 <p>Dr Chan received his PhD in Biochemistry and completed his academic training
 at the National University of Singapore and Columbia University Medical
@@ -21,7 +21,7 @@ translational biology in neurodegeneration, infectious diseases and oncology.
 Prior to joining STCC, he held senior scientific and strategic roles in
 biotechnology, where he led the development of multi-omics research platforms
 and cross-institutional academic–industry collaborations.</p>
-<p>At STCC, Dr Chan’s work focuses on strengthening translational research
+<p>At STCC, Dr Chan's work focuses on strengthening translational research
 platforms, supporting investigator-initiated studies, and fostering strategic
 partnerships that bridge healthcare institutions, academia, and industry.
 He is committed to enabling high-quality, clinically relevant research
