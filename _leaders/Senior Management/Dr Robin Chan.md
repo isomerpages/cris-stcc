@@ -9,7 +9,7 @@ third_nav_title: Senior Management
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leadership/Dr_Robin_Chan.jpg">
 </div>
-<p><strong>Dr Robin Chan</strong> is the Scientific Director of the Singapore
+<p><strong>Dr Robin Chan</strong> is Scientific Director of the Singapore
 Translational Cancer Consortium (STCC). In this role, he supports the development
 and coordination of collaborative, investigator-led cancer research across
 Singapore’s public healthcare and academic institutions.</p>
