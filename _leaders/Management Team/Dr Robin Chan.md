@@ -7,6 +7,9 @@ third_nav_title: Management Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leadership/dr_robin_chan_management.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leadership/Dr_Robin_Chan.jpg">
 </div>
 <p><strong>Dr Robin Chan</strong> is Scientific Director of the Singapore
