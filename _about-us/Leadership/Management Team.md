@@ -27,7 +27,7 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Clarence Khoo</div>
-<div class="isomer-card-description">Director, Operation &amp; Strategy</div>
+<div class="isomer-card-description">Director, Operations &amp; Strategy</div>
 <div class="isomer-card-link">Bio</div>
 </div>
 </a>
