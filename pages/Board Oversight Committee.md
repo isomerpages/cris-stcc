@@ -2,7 +2,6 @@
 title: Board Oversight Committee
 permalink: /leadership/board-oversight-committee/
 description: ""
-third_nav_title: Leadership
 variant: tiptap
 ---
 <div class="isomer-card-grid">
