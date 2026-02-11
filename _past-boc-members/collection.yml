@@ -2,6 +2,7 @@ collections:
   past-boc-members:
     output: true
     order:
+      - Prof Tan Sze Wee.md
       - Prof Barry Halliwell.md
       - Dr Chow Wai Leng.md
       - Assoc Prof Sanjay Haresh Chotirmall.md
