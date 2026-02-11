@@ -2,7 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Board Oversight Committee/Prof William Hwang.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Ms Amanda Ang.md
       - Board Oversight Committee/Prof Chong Yap Seng.md
