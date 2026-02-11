@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2freadnow.isentia.com%2fTemp%2f216649%2d1303511071%2fsg0031562257%5f20270205.pdf&amp;umid=68ECA148-4A0D-1D06-BDA1-5DCF763F2214&amp;auth=1e4be8166c0e95fa5701eaa3515f34fbdd8d125c-473f2e83746da76aba6e8e0619b9a2c43350b06a" rel="noopener noreferrer nofollow" target="_blank">The Straits Times</a>, 5 Feb 2026</strong>
+<p><strong><a href="/files/2026_02_05___The_Straits_Times___Singapore_s_cancer_screening_gap_is_widening_at_a_critical_moment.pdf" rel="noopener noreferrer nofollow" target="_blank">Source: The Straits Times, 5 Feb 2026.   </a></strong>
 </p>
 <p>Singapore’s cancer screening gap is widening – at a time when the consequences
 of inaction are becoming harder to ignore. In his latest commentary, <strong>Prof Ravindran Kanesvaran</strong> highlights
@@ -32,6 +32,5 @@ is the way forward.”</p>
 </p>
 <p><em>Through his role, STCC is fostering cross-border partnerships in biobanking and translational cancer research, aligned with key thrusts of RIE2030 strategies, one of which aims to fundamentally transform population health and healthcare, moving beyond treating illness to keeping people healthy for longer through early detection, prevention and targeted interventions.</em>
 </p>
-<p><em>This article is also available <a href="/files/2026_02_05___The_Straits_Times___Singapore_s_cancer_screening_gap_is_widening_at_a_critical_moment.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
-</p>
+<p></p>
 <p></p>
