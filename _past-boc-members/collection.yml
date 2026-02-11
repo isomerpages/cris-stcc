@@ -2,6 +2,7 @@ collections:
   past-boc-members:
     output: true
     order:
+      - Assoc Prof Sanjay Haresh Chotirmall.md
       - Prof Chong Yap Seng.md
       - Ms Amanda Ang.md
       - Prof William Hwang.md
