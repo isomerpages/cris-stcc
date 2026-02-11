@@ -1,4 +1,5 @@
 collections:
   past-boc-members:
     output: true
-    order: []
+    order:
+      - Prof William Hwang.md
