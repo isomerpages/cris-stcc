@@ -1,5 +1,5 @@
 collections:
-  past-boc-members:
+  past-board-oversight-committee:
     output: true
     order:
       - Prof Ashok Venkitaraman.md
