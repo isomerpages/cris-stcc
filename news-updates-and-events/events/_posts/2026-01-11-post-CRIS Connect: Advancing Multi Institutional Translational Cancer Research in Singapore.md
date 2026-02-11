@@ -8,6 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRIS_Connect_Jan_2026.jpg">
+</div>
 <h4><strong>Registration</strong></h4>
 <p>Registration is now closed.</p>
 <hr>
