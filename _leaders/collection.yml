@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Board Oversight Committee/.keep
-      - Board Oversight Committee/Prof Ashok Venkitaraman.md
       - Executive Committee/.keep
       - Executive Committee/Prof Chng Wee Joo.md
       - Executive Committee/Prof Ravindran Kanesvaran.md
