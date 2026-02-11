@@ -2,5 +2,6 @@ collections:
   past-boc-members:
     output: true
     order:
+      - Prof Chong Yap Seng.md
       - Ms Amanda Ang.md
       - Prof William Hwang.md
