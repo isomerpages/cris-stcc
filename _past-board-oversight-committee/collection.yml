@@ -1,0 +1,13 @@
+collections:
+  past-board-oversight-committee:
+    output: true
+    order:
+      - Prof Ashok Venkitaraman.md
+      - Ms Elaine Teo.md
+      - Prof Tan Sze Wee.md
+      - Prof Barry Halliwell.md
+      - Dr Chow Wai Leng.md
+      - Assoc Prof Sanjay Haresh Chotirmall.md
+      - Prof Chong Yap Seng.md
+      - Ms Amanda Ang.md
+      - Prof William Hwang.md

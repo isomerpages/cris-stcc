@@ -2,16 +2,6 @@ collections:
   leaders:
     output: true
     order:
-      - Board Oversight Committee/Prof William Hwang.md
-      - Board Oversight Committee/.keep
-      - Board Oversight Committee/Ms Amanda Ang.md
-      - Board Oversight Committee/Prof Chong Yap Seng.md
-      - Board Oversight Committee/Assoc Prof Sanjay Haresh Chotirmall.md
-      - Board Oversight Committee/Dr Chow Wai Leng.md
-      - Board Oversight Committee/Prof Barry Halliwell.md
-      - Board Oversight Committee/Prof Tan Sze Wee.md
-      - Board Oversight Committee/Ms Elaine Teo.md
-      - Board Oversight Committee/Prof Ashok Venkitaraman.md
       - Executive Committee/.keep
       - Executive Committee/Prof Chng Wee Joo.md
       - Executive Committee/Prof Ravindran Kanesvaran.md

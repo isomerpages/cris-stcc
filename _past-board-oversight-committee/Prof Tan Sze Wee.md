@@ -2,7 +2,6 @@
 title: Prof Tan Sze Wee
 permalink: /leaders/tan-sze-wee/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

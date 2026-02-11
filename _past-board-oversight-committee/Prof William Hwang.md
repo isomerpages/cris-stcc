@@ -3,7 +3,6 @@ title: Prof William Hwang
 permalink: /leaders/prof-william-hwang/
 description: ""
 variant: tiptap
-third_nav_title: Board Oversight Committee
 ---
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/professor%20william%20hwang.png">

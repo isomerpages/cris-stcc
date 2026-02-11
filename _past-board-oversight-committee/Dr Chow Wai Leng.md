@@ -2,7 +2,6 @@
 title: Dr Chow Wai Leng
 permalink: /leaders/chow-wai-leng/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
 <p></p>

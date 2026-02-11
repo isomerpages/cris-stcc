@@ -2,7 +2,6 @@
 title: Prof Barry Halliwell
 permalink: /leaders/prof-barry-halliwell/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

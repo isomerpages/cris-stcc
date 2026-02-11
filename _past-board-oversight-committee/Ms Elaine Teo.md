@@ -2,7 +2,6 @@
 title: Ms Elaine Teo
 permalink: /leaders/ms-elaine-teo/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

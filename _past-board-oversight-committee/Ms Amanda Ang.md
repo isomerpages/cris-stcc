@@ -2,7 +2,6 @@
 title: Ms Amanda Ang
 permalink: /leaders/amanda-ang/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

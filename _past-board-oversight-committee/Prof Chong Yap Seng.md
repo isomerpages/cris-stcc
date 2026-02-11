@@ -2,7 +2,6 @@
 title: Prof Chong Yap Seng
 permalink: /leaders/prof-chong-yap-seng/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
