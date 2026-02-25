@@ -10,13 +10,24 @@ variant: tiptap
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/chee_cheng_ean.jpg">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead,&nbsp;Impact &amp; Population Health, Singapore Translational
-Cancer Consortium</p>
-<p>Executive Director, National University Cancer Institute, Singapore</p>
-<p>Adjunct Associate Professor, Department of Medicine, Yong Loo Lin School
-of Medicine, National University of Singapore</p>
-<p>Senior Consultant, Department of Haematology-Oncology, National University
-Cancer Institute, Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead</strong>,&nbsp;Impact &amp; Population Health, Singapore
+Translational Cancer Consortium</p>
+</li>
+<li>
+<p><strong>Executive Director</strong>, National University Cancer Institute,
+Singapore</p>
+</li>
+<li>
+<p><strong>Adjunct Associate Professor</strong>, Department of Medicine,
+Yong Loo Lin School of Medicine, National University of Singapore</p>
+</li>
+<li>
+<p><strong>Senior Consultant</strong>, Department of Haematology-Oncology,
+National University Cancer Institute, Singapore</p>
+</li>
+</ul>
 <h5>Profile</h5>
 <p><strong>Adj A/Prof Chee Cheng Ean </strong>is the Executive Director of
 the National University Cancer Institute, Singapore. In this role, she
