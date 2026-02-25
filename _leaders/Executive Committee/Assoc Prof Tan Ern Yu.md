@@ -9,10 +9,16 @@ variant: tiptap
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Tan_Ern_Yu_282x212.jpg">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational
-Cancer Consortium;</p>
-<p>Head of Service (Breast &amp; Endocrine Surgery), Senior Consultant, Tan
-Tock Seng Hospital;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead</strong>, Cancer Databases &amp; Tissue Banks, Singapore
+Translational Cancer Consortium</p>
+</li>
+<li>
+<p><strong>Head of Service (Breast &amp; Endocrine Surgery), Senior Consultant</strong>,
+Tan Tock Seng Hospital</p>
+</li>
+</ul>
 <h5>Profile</h5>
 <p><strong>Associate Professor Tan Ern Yu</strong> is a senior consultant
 and breast surgeon at Tan Tock Seng Hospital (TTSH). She is also the Director
