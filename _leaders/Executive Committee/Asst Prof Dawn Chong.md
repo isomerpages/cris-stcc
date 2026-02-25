@@ -23,9 +23,9 @@ Public Health</p>
 </li>
 </ul>
 <h5>Profile</h5>
-<p>Dr Dawn Chong is a Senior Consultant Medical Oncologist at the Division
-of Medical Oncology, National Cancer Centre Singapore (NCCS) and specializes
-in gastrointestinal cancers.</p>
+<p><strong>Dr Dawn Chong</strong> is a Senior Consultant Medical Oncologist
+at the Division of Medical Oncology, National Cancer Centre Singapore (NCCS)
+and specializes in gastrointestinal cancers.</p>
 <p>Dr Chong received the Singhealth Health Manpower Development Plan (HMDP)
 Fellowship award and completed a fellowship in clinical and translational
 cancer epidemiology at the Massachusetts General Hospital. She also received
