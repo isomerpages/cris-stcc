@@ -70,5 +70,3 @@ He is a principal investigator of early-phase clinical trials in cell therapy
 and lymphoma and has led national initiatives to implement functional precision
 medicine in lymphoma, with a broader interest in scalable systems for personalised
 cancer therapy.</p>
-<hr>
-<p></p>
