@@ -10,14 +10,21 @@ third_nav_title: Executive Committee
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/David_Tai.png">
 </div>
 <h5>Affiliations</h5>
-<p>Senior Consultant, National Cancer Centre Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Senior Consultant,</strong> National Cancer Centre Singapore</p>
+</li>
+<li>
+<p><strong>Clinical Associate Professor </strong>– Duke NUS Medical School</p>
+</li>
+</ul>
 <h5>Profile</h5>
-<p>Dr David Tai is a Senior Consultant Medical Oncologist at National Cancer
-Centre Singapore. His area of interest is in gastrointestinal cancers and
-early developmental therapeutics. His research focus involves integrating
-basic science and translational models in devising new therapy for gastrointestinal
-malignancies. He is also involved in multiple ongoing trials focusing mainly
-on gastrointestinal cancers and phase 1 efforts.</p>
+<p><strong>Dr David Tai</strong> is a Senior Consultant Medical Oncologist
+at National Cancer Centre Singapore. His area of interest is in gastrointestinal
+cancers and early developmental therapeutics. His research focus involves
+integrating basic science and translational models in devising new therapy
+for gastrointestinal malignancies. He is also involved in multiple ongoing
+trials focusing mainly on gastrointestinal cancers and phase 1 efforts.</p>
 <p>Dr Tai is a Clinical Associate Professor in Duke-NUS Medical School, Singapore
 and faculty for Duke-NUS Fundamental of Clinical Practice Course. He is
 also a clinical lecturer at Yong Yoo Lin School of Medicine, Singapore.
