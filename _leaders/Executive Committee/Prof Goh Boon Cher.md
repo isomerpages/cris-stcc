@@ -13,25 +13,25 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cancer Clinical Trials and IMUs Platform Lead</p>
+<p><strong>Platform Lead</strong>, Cancer Clinical Trials and IMUs</p>
 </li>
 </ul>
 <p><strong>National University of Singapore</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Deputy Director, Cancer Science Institute of Singapore;&nbsp;</p>
+<p><strong>Deputy Director</strong>, Cancer Science Institute of Singapore;&nbsp;</p>
 </li>
 <li>
-<p>Yong Loo Lin Professor in Medical Oncology</p>
+<p><strong>Yong Loo Lin Professor </strong>in Medical Oncology</p>
 </li>
 </ul>
 <p><strong>National University Health System</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Senior Consultant (Hematology-Oncology), National University Cancer Institute,
-Singapore</p>
+<p><strong>Senior Consultant </strong>(Hematology-Oncology), National University
+Cancer Institute, Singapore</p>
 </li>
 </ul>
 <h5>Profile</h5>
