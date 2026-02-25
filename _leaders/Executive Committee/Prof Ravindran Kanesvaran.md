@@ -14,20 +14,22 @@ third_nav_title: Executive Committee
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Co-Director</p>
+<p><strong>Co-Director</strong>
+</p>
 </li>
 </ul>
 <p><strong>Singapore Health Services</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairman, Division of Medical Oncology, National Cancer Centre Singapore</p>
+<p><strong>Chairman</strong>, Division of Medical Oncology, National Cancer
+Centre Singapore</p>
 </li>
 <li>
-<p>Senior Consultant, National Cancer Centre Singapore</p>
+<p><strong>Senior Consultant</strong>, National Cancer Centre Singapore</p>
 </li>
 <li>
-<p>Professor, Duke-NUS Medical School</p>
+<p><strong>Professor</strong>, Duke-NUS Medical School</p>
 <p></p>
 </li>
 </ul>
