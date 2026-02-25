@@ -11,20 +11,28 @@ third_nav_title: Executive Committee
 </div>
 <p></p>
 <h5>Affiliations</h5>
-<p>Senior Consultant, Department of Haematology-Oncology, National University
-Cancer Institute, Singapore</p>
-<p>Senior Consultant, Department of Oncology - Medical &amp; Radiation, Ng
-Teng Fong General Hospital</p>
-<p>Associate Professor, Department of Medicine, Yong Loo Lin School of Medicine,
-National University of Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Senior Consultant</strong>, Department of Haematology-Oncology,
+National University Cancer Institute, Singapore</p>
+</li>
+<li>
+<p><strong>Senior Consultant</strong>, Department of Oncology - Medical &amp;
+Radiation, Ng Teng Fong General Hospital</p>
+</li>
+<li>
+<p><strong>Associate Professor</strong>, Department of Medicine, Yong Loo
+Lin School of Medicine, National University of Singapore</p>
+</li>
+</ul>
 <h5>Profile</h5>
-<p>Dr David Tan is a medical oncologist and clinician scientist at the National
-University Cancer Institute, Singapore. He is an Associate Professor at
-the Yong Loo Lin School of Medicine, NUS and Principal Investigator at
-the Cancer Science Institute, NUS. He is also Head of the Innovation Transfer
-Office at National University Health Systems (NUHS). His primary clinical
-and research interests are in gynaecological (ovarian, endometrial and
-cervical) cancers and the development of novel anti-cancer therapeutic
+<p><strong>Dr David Tan </strong>is a medical oncologist and clinician scientist
+at the National University Cancer Institute, Singapore. He is an Associate
+Professor at the Yong Loo Lin School of Medicine, NUS and Principal Investigator
+at the Cancer Science Institute, NUS. He is also Head of the Innovation
+Transfer Office at National University Health Systems (NUHS). His primary
+clinical and research interests are in gynaecological (ovarian, endometrial
+and cervical) cancers and the development of novel anti-cancer therapeutic
 agents.
 <br>
 <br>Dr Tan graduated from Guy’s, King’s and St Thomas’ School of Medicine,
