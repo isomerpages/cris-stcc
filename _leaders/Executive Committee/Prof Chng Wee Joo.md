@@ -13,30 +13,35 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Executive Director</p>
+<p><strong>Executive Director</strong>
+</p>
 </li>
 </ul>
 <p><strong>National University of Singapore</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Yong Loo Lin Professor in Medical Oncology</p>
+<p><strong>Yong Loo Lin Professor</strong> in Medical Oncology</p>
 </li>
 <li>
-<p>Vice President, Office of the Deputy President (Research and Technology)</p>
+<p><strong>Vice President</strong>, Office of the Deputy President (Research
+and Technology)</p>
 </li>
 <li>
-<p>Senior Principal Investigator, Cancer Science Institute of Singapore</p>
+<p><strong>Senior Principal Investigator</strong>, Cancer Science Institute
+of Singapore</p>
 </li>
 </ul>
 <p><strong>National University Health System</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Group Chief Scientist</p>
+<p><strong>Group Chief Scientist</strong>
+</p>
 </li>
 <li>
-<p>Senior Consultant, National University Cancer Institute, Singapore</p>
+<p><strong>Senior Consultant</strong>, National University Cancer Institute,
+Singapore</p>
 </li>
 </ul>
 <h5>Profile</h5>
