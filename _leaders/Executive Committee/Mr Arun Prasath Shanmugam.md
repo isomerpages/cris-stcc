@@ -10,11 +10,16 @@ third_nav_title: Executive Committee
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Arun_Prasath_Shanmugam.jpg">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead, Cancer Databases &amp; Tissue Banks, Singapore Translational
-Cancer Consortium;</p>
-<p></p>
-<p>Director, Research Office, NUH Tissue Repository, National University
-Health System (NUHS)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead</strong>, Cancer Databases &amp; Tissue Banks, Singapore
+Translational Cancer Consortium;</p>
+</li>
+<li>
+<p><strong>Director</strong>, Research Office, NUH Tissue Repository, National
+University Health System (NUHS)</p>
+</li>
+</ul>
 <h5>Profile</h5>
 <p><strong>Arun Prasath Shanmugam</strong> is a senior healthcare executive
 with nearly two decades of experience in cellular therapy, biobanking,

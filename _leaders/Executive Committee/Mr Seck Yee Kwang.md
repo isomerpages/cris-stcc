@@ -9,9 +9,16 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/mr-seck-yee-kwang.png">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead, Business Intelligence &amp; Development, Singapore Translational
-Cancer Consortium;&nbsp;</p>
-<p>Director, Biomedical Sciences Industry Partnership Office, A*Star</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead</strong>, Business Intelligence &amp; Development,
+Singapore Translational Cancer Consortium;&nbsp;</p>
+</li>
+<li>
+<p><strong>Director</strong>, Biomedical Sciences Industry Partnership Office,
+A*STAR</p>
+</li>
+</ul>
 <h5>Profile</h5>
 <p><strong>Mr Seck Yee Kwang </strong>oversees the industry development for
 the Health &amp; Biomedical and Food &amp; Consumer sectors at the Agency

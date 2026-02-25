@@ -9,10 +9,19 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/daniel-tan-shao-weng.png">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead, Cancer Clinical Trials &amp; IMUs Platform, Singapore Translational
-Cancer Consortium;&nbsp;</p>
-<p>Senior Consultant Medical Oncologist, National Cancer Centre Singapore;&nbsp;</p>
-<p>Senior Clinician-Scientist, Genome Institute of Singapore&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead,</strong> Cancer Clinical Trials &amp; IMUs Platform,
+Singapore Translational Cancer Consortium;&nbsp;</p>
+</li>
+<li>
+<p><strong>Senior Consultant Medical Oncologist</strong>, National Cancer
+Centre Singapore;&nbsp;</p>
+</li>
+<li>
+<p><strong>Senior Clinician-Scientist</strong>, Genome Institute of Singapore&nbsp;</p>
+</li>
+</ul>
 <h5>Profile &nbsp;</h5>
 <p><strong>Professor Daniel Tan</strong> has a specialist interest in thoracic,
 head and neck oncology and cancer drug development. His work is focused
