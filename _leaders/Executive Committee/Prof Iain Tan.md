@@ -9,13 +9,24 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/assoc-prof-tan-bee-huat.png">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead&nbsp;for&nbsp;Cancer Databases &amp; Tissue Banks, Singapore
-Translational Cancer Consortium;&nbsp;</p>
-<p>Senior Consultant (Medical Oncology), National Cancer Centre Singapore
-(NCCS);&nbsp;</p>
-<p>Director of Research, Clinical Analytics, Division of Medical Oncology,
-NCCS,&nbsp;Singhealth;&nbsp;</p>
-<p>Senior Clinician Scientist, Genome Institute of Singapore, A*Star&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead</strong>&nbsp;for&nbsp;Cancer Databases &amp; Tissue
+Banks, Singapore Translational Cancer Consortium;&nbsp;</p>
+</li>
+<li>
+<p><strong>Senior Consultant (Medical Oncology)</strong>, National Cancer
+Centre Singapore (NCCS);&nbsp;</p>
+</li>
+<li>
+<p><strong>Director of Research</strong>, Clinical Analytics, Division of
+Medical Oncology, NCCS,&nbsp;Singhealth;&nbsp;</p>
+</li>
+<li>
+<p><strong>Senior Clinician Scientist</strong>, Genome Institute of Singapore,
+A*Star&nbsp;</p>
+</li>
+</ul>
 <h5>Profile</h5>
 <p><strong>Professor Iain Tan</strong> is a Senior Consultant Medical Oncologist,
 leading the colorectal cancer service in the GI Oncology Team at the Department
