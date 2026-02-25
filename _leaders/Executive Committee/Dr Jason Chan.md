@@ -9,13 +9,27 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/dr-jason-chan.png">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead, Translational Research Integration &amp; Support, Singapore
-Translational Cancer Consortium</p>
-<p>Director, Cancer Discovery Hub, National Cancer Centre Singapore&nbsp;</p>
-<p>Consultant, Division of Medical Oncology, National Cancer Centre Singapore&nbsp;&nbsp;</p>
-<p>Deputy Director, Division of Medical Oncology Research, National Cancer
-Centre Singapore&nbsp;</p>
-<p>Assistant Professor, Duke-NUS Medical School&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead</strong>, Translational Research Integration &amp;
+Support, Singapore Translational Cancer Consortium</p>
+</li>
+<li>
+<p><strong>Director</strong>, Cancer Discovery Hub, National Cancer Centre
+Singapore&nbsp;</p>
+</li>
+<li>
+<p><strong>Senior Consultant</strong>, Division of Medical Oncology, National
+Cancer Centre Singapore&nbsp;&nbsp;</p>
+</li>
+<li>
+<p><strong>Director</strong>, Division of Medical Oncology Research, National
+Cancer Centre Singapore&nbsp;</p>
+</li>
+<li>
+<p><strong>Assistant Professor</strong>, Duke-NUS Medical School&nbsp;</p>
+</li>
+</ul>
 <h5>Profile</h5>
 <p><strong>Dr Jason Chan</strong> obtained his medical degree from the National
 University of Singapore and achieved his postgraduate accreditation from
