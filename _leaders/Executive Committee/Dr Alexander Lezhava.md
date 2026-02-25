@@ -9,9 +9,16 @@ variant: tiptap
 <img style="width:150px" height="auto" width="100%" src="/images/Leaders/dr-alexandra-lezhava.png">
 </div>
 <h5>Affiliations</h5>
-<p>Platform Lead, Translational Research Integration &amp; Support, Singapore
-Translational Cancer Consortium;&nbsp;</p>
-<p>Senior Group Leader, Translational Research, Genomic Institute of Singapore&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Platform Lead</strong>, Translational Research Integration &amp;
+Support, Singapore Translational Cancer Consortium;&nbsp;</p>
+</li>
+<li>
+<p><strong>Senior Group Leader</strong>, Translational Research, Genomic
+Institute of Singapore&nbsp;</p>
+</li>
+</ul>
 <h5>Profile</h5>
 <p><strong>Dr Alexander Lezhava</strong> assumed the appointment as Group
 Leader, in the Translational Research group 1 (TR1), at the Genome Institute
