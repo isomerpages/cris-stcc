@@ -7,6 +7,9 @@ third_nav_title: Executive Committee
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Photo of Arun Prasath Shanmugam who is the STCC Cancer Database and Tissue Banks co-lead." src="/images/Leaders/EXCO 600x450/arun_prasath_shanmugam.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Leaders/EXCO 600x450/Arun_Prasath_Shanmugam.jpg">
 </div>
 <h5>Affiliations</h5>
