@@ -39,7 +39,7 @@ variant: tiptap
 <p>Mr Han Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Manager</p>
+<p>Assistant Director</p>
 </td>
 </tr>
 <tr>
