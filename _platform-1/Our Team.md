@@ -27,7 +27,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Joanna Change</p>
+<p>Ms. Joanna Chang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Director</p>
@@ -51,15 +51,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kian Hwee</p>
+<p>Ms. Tan Siok Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Project Coordinator</p>
+<p>Assistant Clinical Trial Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Tan Siok Hui</p>
+<p>Mr Lim Kian Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Project Coordinator</p>
