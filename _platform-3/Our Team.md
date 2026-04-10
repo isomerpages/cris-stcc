@@ -38,7 +38,7 @@ variant: tiptap
 <p>Dr Nimmi Baby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Manager</p>
+<p>Senior Project Manager</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ variant: tiptap
 <p>Ms Cheng Yu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Executive</p>
+<p>Senior Research Executive</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>Ms Carmen Yuen Yu Fei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Executive</p>
+<p>Senior Research Executive</p>
 </td>
 </tr>
 <tr>
